@@ -2,8 +2,8 @@
 
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { toast } from "@/components/ui/use-toast";
 import React from "react";
+import toast from "react-hot-toast";
 
 export default function AdminOnly({ children }: { children: React.ReactNode }) {
   const [email, setemail] = React.useState("");
@@ -20,12 +20,9 @@ export default function AdminOnly({ children }: { children: React.ReactNode }) {
     if (email === admin && password === defaultPassword) {
       sethasAccess(true);
       localStorage.setItem("user", email);
+      toast.success("Login Successful", {});
     } else {
-      toast({
-        variant: "destructive",
-        title: "Wrong email or password",
-        description: "Please try again with the right email & password ",
-      });
+      toast.error("Wrong email or password", {});
       sethasAccess(false);
     }
   };
