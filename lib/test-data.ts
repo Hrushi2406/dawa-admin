@@ -747,14 +747,121 @@ const testImgs = [
   "https://cdn01.pharmeasy.in/dam/products/064425/ecosprin-75mg-strip-of-14-tablets-1-1647434835.jpg?dim=1440x0",
 ];
 
+const testProducts = [
+  {
+    name: "Combiflam Strip Of 20 Tablets",
+    brand: "MACLEODS PHARMACEUTICALS",
+    stock: 50,
+    price: 50.65,
+    type: "medicine",
+    description:
+      "Combiflam tablets are a commonly used painkiller medication that helps to treat various conditions, including headaches, toothaches, body aches, muscle pain, joint pain, and fever. The active ingredients in Combiflam are Ibuprofen and paracetamol. Combiflam works by blocking the release of certain chemical messengers that cause pain, fever, as well as inflammation (redness and swelling). To ensure the best results, Combiflam should be taken as prescribed by a doctor, with or after food, for the recommended duration. It is important to follow the prescribed dose and not skip any doses or take more than advised.",
+    prescriptionRequired: false,
+    category: ["cold", "flu"],
+    indication: "Pain & Fever",
+    sideEffects:
+      "Increased appetite, hair loss, weight variations, headache, vomiting",
+    images: [
+      "https://dawa24seven.com/cdn/shop/files/combiflam-plus-headache-relief-tablet-strip-of-10-tablets-3-1669710916.webp?v=1713871694",
+    ],
+  },
+
+  {
+    name: "Dettol Antiseptic Disinfectant Liquid, 550ml",
+    brand: "DETTOL",
+    stock: 80,
+    price: 550.0,
+    type: "personal-care",
+    description:
+      "Dettol is a brand of cleaning supplies and sanitiser and sterile, presented in 1932 and the producer claimed by the Anglo-Dutch organization Reckitt Benckiser. In Germany, it is sold under the name Sagrotan. Preceding 2002, some Dettol items were marked Detox. Dettol Antiseptic Liquid is a comprehensive use item utilized for security against germs that has been suggested by clinical experts and trusted by moms.  Dettol Antiseptic Liquid eliminates germs from skin, shields from contaminations brought about by cuts and scratches and can likewise be utilized as a family sanitiser on home surfaces and in clothing.",
+    prescriptionRequired: false,
+    category: ["pain", "relief"],
+    indication: "Pain",
+    sideEffects:
+      "Increased appetite, hair loss, weight variations, headache, vomiting",
+    images: [
+      "https://dawa24seven.com/cdn/shop/files/1_1024x1024_4c40657f-3db3-4aee-917d-0a8912a9d539.webp?v=1713872499&width=1206",
+    ],
+  },
+
+  {
+    name: "Metrogyl 400mg Strip Of 15 Tablets",
+    brand: "METROGYL",
+    stock: 80,
+    price: 25.53,
+    type: "medicine",
+    description:
+      "Metrogyl 400mg tablet is used to treat diarrhoea, dysentery, and infections caused by parasites, bacteria, and microorganisms. It contains metronidazole, which inhibits the growth of harmful organisms and prevents the spread of infection. You should take the Metrogyl 400 tablet as advised by your doctor for the prescribed duration. It is recommended to take this tablet with meals to avoid stomach upset. You should always complete the course of treatment with this medicine. Incomplete treatment may result in treatment failure and increase the risk of re-infection. Do not miss any dose or stop taking Metrogyl 400 tablets alone.",
+    prescriptionRequired: false,
+    category: ["pain", "relief"],
+    indication: "Pain",
+    sideEffects:
+      "Increased appetite, hair loss, weight variations, headache, vomiting",
+    images: [
+      "https://dawa24seven.com/cdn/shop/files/MET0053_1_1.webp?v=1713871494&width=1206",
+    ],
+  },
+  {
+    name: "Himalaya Purifying Neem Face Wash 150ml",
+    brand: "HIMALAYA",
+    stock: 80,
+    price: 225.0,
+    type: "personal-care",
+    description:
+      "Himalaya purifying neem face wash is a face wash that gives clear, pure, radiant and smooth skin. This Ayurvedic face wash contains neem and turmeric as active ingredients. Neem, an excellent skin-care ingredient, is antibacterial, while turmeric is a herbal anti-inflammatory ingredient that soothes the skin and evens skin tone. It is a soap-free formula with no additional chemicals like Parabens, SLS, etc. Himalaya purifying neem wash comes in a pack of 150 ml to make your skin healthy and free from pimples",
+    prescriptionRequired: false,
+    category: ["pain", "relief"],
+    indication: "Pain",
+    sideEffects:
+      "Increased appetite, hair loss, weight variations, headache, vomiting",
+    images: [
+      "https://dawa24seven.com/cdn/shop/files/641756275342d56e187a6af2-himalaya-purifying-neem-face-wash-150-ml.jpg?v=1713872293&width=1206",
+    ],
+  },
+  {
+    name: "Dolo 650mg Strip Of 15 Tablets",
+    brand: "DOLO",
+    stock: 80,
+    price: 33.6,
+    type: "medicine",
+    description:
+      "Dolo 650 tablet contains an active ingredient called paracetamol, which works by blocking the formation of certain chemicals that cause pain and fever in the body. This medicine is used to treat various conditions such as headache, backache, migraine, toothache, body pain, and even fever associated with diseases like typhoid or the common cold.",
+    prescriptionRequired: false,
+    category: ["pain", "relief"],
+    indication: "Pain",
+    sideEffects:
+      "Increased appetite, hair loss, weight variations, headache, vomiting",
+    images: [
+      "https://dawa24seven.com/cdn/shop/files/dolo_650_tablet_15s_549539_1_2.jpg?v=1713871408&width=1206",
+    ],
+  },
+  {
+    name: "Crocin 650mg Advance Strip Of 15 Tablets",
+    brand: "MACLEODS PHARMACEUTICALS",
+    stock: 80,
+    price: 33.6,
+    type: "medicine",
+    description:
+      "Crocin 650 Advance tablet is a pain-relieving medicine. It contains paracetamol as an active ingredient. It is used for reducing fever and relieving pain, including toothache, headache, migraine, muscle ache, period pain, etc. Pain is an unpleasant feeling caused by the formation of certain chemicals in the body in response to an injury, tissue damage or disease. Crocin 650 Advance tablet works by blocking the formation of these chemicals responsible for fever and pain. This medicine usually provides symptomatic relief to the patient taking this medicine.",
+    prescriptionRequired: false,
+    category: ["cold", "flu"],
+    indication: "Pain & Fever",
+    sideEffects:
+      "Increased appetite, hair loss, weight variations, headache, vomiting",
+    images: [
+      "https://dawa24seven.com/cdn/shop/files/650mg-gsk-crocin-tablets-500x500.webp?v=1713871799&width=1206",
+    ],
+  },
+];
+
 export const addTestDataToFirebase = async () => {
   await Promise.all(
-    testData.map(async (product: any) => {
+    testProducts.map(async (product: any) => {
       const productId = uuidv4();
 
       // Add 3 random images to the product
-      const randomImages = testImgs.sort(() => 0.5 - Math.random()).slice(0, 3);
-      product.images = randomImages;
+      // const randomImages = testImgs.sort(() => 0.5 - Math.random()).slice(0, 3);
+      // product.images = randomImages;
       product.id = productId;
 
       await setDoc(doc(db, "products", productId), product);

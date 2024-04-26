@@ -2,7 +2,7 @@
 
 import { SessionProvider } from "next-auth/react";
 import React from "react";
-import { Toaster } from "react-hot-toast";
+import { Toaster } from "sonner";
 
 export default function ClientProviders({
   children,
@@ -12,7 +12,7 @@ export default function ClientProviders({
   return (
     <div>
       {children}
-      <Toaster />
+      <Toaster richColors position="top-center" />
     </div>
   );
 }

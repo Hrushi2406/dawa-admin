@@ -3,7 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import React from "react";
-import toast from "react-hot-toast";
+import { toast } from "sonner";
 
 export default function AdminOnly({ children }: { children: React.ReactNode }) {
   const [email, setemail] = React.useState("");
