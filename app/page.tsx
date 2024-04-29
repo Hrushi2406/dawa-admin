@@ -17,6 +17,7 @@ import Image from "next/image";
 import React from "react";
 import { EllipsisVertical, Menu, Minus, Option } from "lucide-react";
 import { toast } from "sonner";
+import Link from "next/link";
 
 export default function Home() {
   const [orders, setorders] = React.useState<any>([]);
@@ -44,6 +45,13 @@ export default function Home() {
         }}
       >
         Add Test Data
+      </Button>
+
+      <Button asChild className="ml-4" variant={"outline"}>
+        <Link href={"/products"}>All Products</Link>
+      </Button>
+      <Button asChild className="ml-4" variant={"outline"}>
+        <Link href={"/add-products"}>Add Product</Link>
       </Button>
 
       <div className="my-8"></div>
