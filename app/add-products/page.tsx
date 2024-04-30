@@ -136,7 +136,7 @@ export default function AddProductPage() {
           required
           value={form.stock}
           onChange={(e) =>
-            setForm({ ...form, stock: parseInt(e.target.value) })
+            setForm({ ...form, stock: parseFloat(e.target.value) })
           }
         />
         <Input
@@ -146,7 +146,7 @@ export default function AddProductPage() {
           type="number"
           value={form.price}
           onChange={(e) =>
-            setForm({ ...form, price: parseInt(e.target.value) })
+            setForm({ ...form, price: parseFloat(e.target.value) })
           }
         />
         <Input
