@@ -20,12 +20,19 @@ const medicineCategories = [
   "headache",
   "allergy",
   "cough",
+  "fever",
+  "pain",
   "digestive",
   "pain relief",
   "vitamins",
   "skin",
   "ear",
   "eye",
+  "Multivitamins",
+  "indigestion",
+  "heartburn",
+  "gas",
+  "abdominal-discomfort",
 ];
 
 const type = ["medicine", "personal-care"];
@@ -55,7 +62,7 @@ export default function AddProductPage() {
   const [form, setForm] = React.useState({
     name: "",
     brand: "",
-    stock: 0,
+    stock: 10,
     price: 0,
     type: "medicine",
     description: "",
@@ -86,14 +93,20 @@ export default function AddProductPage() {
     if (files.length === 0) return;
     setisUploadingImage(true);
 
-    const uploadFile = files[0];
+    let temp: string[] = [];
 
-    const url = await StorageService.uploadFileAndGetDownloadUrl(
-      uploadFile,
-      `products/${id}`
+    await Promise.all(
+      Array.from(files).map(async (f: any) => {
+        const uploadFile = f;
+        const url = await StorageService.uploadFileAndGetDownloadUrl(
+          uploadFile,
+          `products/${id}`
+        );
+        temp.push(url);
+      })
     );
+    setForm({ ...form, images: [...form.images, ...temp] });
 
-    setForm({ ...form, images: [...form.images, url] });
     setisUploadingImage(false);
   };
 
@@ -240,6 +253,7 @@ export default function AddProductPage() {
             <input
               id="file-input"
               type="file"
+              multiple
               accept="image/*"
               className="hidden"
               onChange={handleImageSelect}
