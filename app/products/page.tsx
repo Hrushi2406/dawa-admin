@@ -13,7 +13,7 @@ import {
 } from "@/components/ui/table";
 import productService from "@/services/product-service";
 import Loader from "@/components/ui/loader";
-import { Trash2 } from "lucide-react";
+import { Edit, Edit2, PenLine, Trash2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
@@ -61,7 +61,12 @@ export default function ProductsPage() {
                 <TableCell>{product.brand}</TableCell>
                 <TableCell>{product.price}</TableCell>
                 <TableCell className="text-right ">{product.stock}</TableCell>
-                <TableCell className="text-right ">
+                <TableCell className="flex gap-2 items-center justify-end">
+                  <Button asChild className="text-primary" variant={"ghost"}>
+                    <Link href={`/add-products?id=${product.id}`}>
+                      <PenLine className="w-5 h-5" />
+                    </Link>
+                  </Button>
                   <Button
                     className="text-red-700"
                     variant={"ghost"}

@@ -4,11 +4,12 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Switch } from "@/components/ui/switch";
+import { Textarea } from "@/components/ui/textarea";
 import productService from "@/services/product-service";
 import StorageService from "@/services/storage-service";
 import { ImagePlusIcon, Loader2, XIcon } from "lucide-react";
 import Image from "next/image";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import React from "react";
 import { toast } from "sonner";
 import { v4 } from "uuid";
@@ -23,6 +24,8 @@ const medicineCategories = [
   "pain relief",
   "vitamins",
   "skin",
+  "ear",
+  "eye",
 ];
 
 const type = ["medicine", "personal-care"];
@@ -107,10 +110,24 @@ export default function AddProductPage() {
     }
 
     setisLoading(true);
-    await productService.add(id, form);
+    if (productId) {
+      await productService.update(productId, form);
+    } else {
+      await productService.add(id, form);
+    }
     setisLoading(false);
-    router.replace("/");
+    router.back();
   };
+
+  const searchParams = useSearchParams();
+
+  const productId = searchParams?.get("id");
+
+  React.useEffect(() => {
+    if (productId) {
+      productService.get(productId).then((data: any) => setForm(data));
+    }
+  }, [productId]);
 
   return (
     <main className="mx-4 my-6 md:mx-24">
@@ -149,7 +166,8 @@ export default function AddProductPage() {
             setForm({ ...form, price: parseFloat(e.target.value) })
           }
         />
-        <Input
+
+        <Textarea
           label="Description"
           placeholder=""
           required
@@ -266,7 +284,7 @@ export default function AddProductPage() {
           value={form.indication}
           onChange={(e) => setForm({ ...form, indication: e.target.value })}
         />
-        <Input
+        <Textarea
           label="Side Effects"
           placeholder=""
           value={form.sideEffects}
@@ -280,7 +298,8 @@ export default function AddProductPage() {
       /> */}
 
         <Button className="w-full" disabled={isLoading}>
-          {isLoading && <Loader2 className="animate-spin mr-2 w-4 h-4" />} Save{" "}
+          {isLoading && <Loader2 className="animate-spin mr-2 w-4 h-4" />}{" "}
+          {productId ? "Update" : "Save"}
         </Button>
       </form>
     </main>
