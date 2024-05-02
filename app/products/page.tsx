@@ -13,7 +13,7 @@ import {
 } from "@/components/ui/table";
 import productService from "@/services/product-service";
 import Loader from "@/components/ui/loader";
-import { Edit, Edit2, PenLine, Trash2 } from "lucide-react";
+import { Edit, Edit2, PenLine, Plus, Trash2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
@@ -39,7 +39,10 @@ export default function ProductsPage() {
       <div className="flex items-center gap-4 justify-between">
         <h4 className="text-xl font-medium">Products</h4>
         <Button asChild variant={"outline"} className="">
-          <Link href={"/add-products"}>Add Product</Link>
+          <Link href={"/add-products"}>
+            <Plus className="w-4 h-4 mr-2" />
+            Add Product
+          </Link>
         </Button>
       </div>
       <hr className="mt-2 mb-4" />

@@ -27,8 +27,9 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="mx-4 my-6 md:mx-24">
+    <main className="mx-4 my-6 md:mx-24 dark:bg-black">
       <Button
+        variant={"outline"}
         onClick={async () => {
           toast.promise(addTestDataToFirebase(), {
             loading: "Loading",
@@ -75,11 +76,15 @@ export default function Home() {
             return (
               <TableRow>
                 <TableCell className="font-medium">{order.id}</TableCell>
-                <TableCell>{order.items[0].name}</TableCell>
+                <TableCell className="space-y-3">
+                  {order.items.map((item: any) => (
+                    <p className="">{item.name}</p>
+                  ))}
+                </TableCell>
                 <TableCell>
                   {order.user.firstName + " " + order.user.lastName}
                 </TableCell>
-                <TableCell className="text-right text-green-700">
+                <TableCell className="text-right text-green-700 dark:text-green-600">
                   {order.status}
                 </TableCell>
                 <TableCell className="text-right ">

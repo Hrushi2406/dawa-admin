@@ -27,6 +27,8 @@ const medicineCategories = [
   "vitamins",
   "skin",
   "ear",
+  "acidity",
+  "heart-burn",
   "eye",
   "Multivitamins",
   "indigestion",
@@ -144,177 +146,185 @@ export default function AddProductPage() {
 
   return (
     <main className="mx-4 my-6 md:mx-24">
-      <form className="space-y-6 max-w-md mx-auto " onSubmit={handleSubmit}>
-        <Input
-          label="Name"
-          placeholder="Calpol 650mg–Strip of 15 tablets"
-          required
-          value={form.name}
-          onChange={(e) => setForm({ ...form, name: e.target.value })}
-        />
-        <Input
-          label="Brand"
-          required
-          placeholder=""
-          value={form.brand}
-          onChange={(e) => setForm({ ...form, brand: e.target.value })}
-        />
-        <Input
-          label="Stock"
-          type="number"
-          placeholder="Stock Quantity"
-          required
-          value={form.stock}
-          onChange={(e) =>
-            setForm({ ...form, stock: parseFloat(e.target.value) })
-          }
-        />
-        <Input
-          label="Price"
-          required
-          placeholder="Price"
-          type="number"
-          value={form.price}
-          onChange={(e) =>
-            setForm({ ...form, price: parseFloat(e.target.value) })
-          }
-        />
-
-        <Textarea
-          label="Description"
-          placeholder=""
-          required
-          value={form.description}
-          onChange={(e) => setForm({ ...form, description: e.target.value })}
-        />
-
-        <div className="flex gap-4 items-center justify-between">
-          <Label className="font-normal text-muted-foreground">
-            Perscription Required
-          </Label>
-
-          <Switch
-            checked={form.prescriptionRequired}
-            onCheckedChange={(value) =>
-              setForm({ ...form, prescriptionRequired: value })
+      <form
+        className="max-w-5xl mx-auto grid md:grid-cols-2 gap-8"
+        onSubmit={handleSubmit}
+      >
+        <div className="space-y-4">
+          <Input
+            label="Name"
+            placeholder="Calpol 650mg–Strip of 15 tablets"
+            required
+            value={form.name}
+            onChange={(e) => setForm({ ...form, name: e.target.value })}
+          />
+          <Input
+            label="Brand"
+            required
+            placeholder=""
+            value={form.brand}
+            onChange={(e) => setForm({ ...form, brand: e.target.value })}
+          />
+          <Input
+            label="Stock"
+            type="number"
+            placeholder="Stock Quantity"
+            required
+            value={form.stock}
+            onChange={(e) =>
+              setForm({ ...form, stock: parseFloat(e.target.value) })
             }
           />
-        </div>
+          <Input
+            label="Price"
+            required
+            placeholder="Price"
+            type="number"
+            value={form.price}
+            onChange={(e) =>
+              setForm({ ...form, price: parseFloat(e.target.value) })
+            }
+          />
 
-        <div>
-          <Label className="font-normal text-muted-foreground">Type</Label>
+          <Textarea
+            label="Description"
+            placeholder=""
+            required
+            value={form.description}
+            onChange={(e) => setForm({ ...form, description: e.target.value })}
+          />
 
-          <div className="flex gap-2 items-center flex-wrap mt-2">
-            {type.map((t) => (
-              <div
-                className={` py-2 px-4 text-sm  border rounded-md cursor-pointer ${
-                  form.type === t
-                    ? "text-green-800 border-green-600 bg-green-50"
-                    : "text-gray-500"
-                }`}
-                onClick={() => setForm({ ...form, type: t })}
-              >
-                {t}
-              </div>
-            ))}
-          </div>
-        </div>
-        <div>
-          <Label className="font-normal text-muted-foreground">
-            Categories
-          </Label>
-
-          <div className="flex gap-2 items-center flex-wrap mt-2">
-            {medicineCategories.map((cat) => (
-              <div
-                className={` py-2 px-4 text-sm  border rounded-md cursor-pointer ${
-                  form.category.includes(cat)
-                    ? "text-green-800 border-green-600 bg-green-50"
-                    : "text-gray-500"
-                }`}
-                onClick={() => handleCategorySelect(cat)}
-              >
-                {cat.charAt(0).toUpperCase() + cat.slice(1)}
-              </div>
-            ))}
-          </div>
-        </div>
-
-        <div>
-          <Label className="font-normal text-muted-foreground">Images</Label>
-
-          <div className="flex gap-4 items-center mt-2">
-            <label
-              htmlFor="file-input"
-              className="border rounded-md aspect-square w-28 grid place-items-center cursor-pointer"
-            >
-              <ImagePlusIcon className="text-gray-500 " />
-            </label>
-            <input
-              id="file-input"
-              type="file"
-              multiple
-              accept="image/*"
-              className="hidden"
-              onChange={handleImageSelect}
-            />
-
-            {form.images.map((img) => (
-              <div className="border rounded-md aspect-square w-28 grid place-items-center relative">
-                <div
-                  className="absolute border rounded-full p-0.5 -top-2 -right-2 z-40 bg-gray-100 shadow-xl cursor-pointer"
-                  onClick={() =>
-                    setForm({
-                      ...form,
-                      images: form.images.filter((d) => d !== img),
-                    })
-                  }
-                >
-                  <XIcon className="w-4 h-4" />
-                </div>
-                <div className="relative aspect-square w-full">
-                  <Image
-                    src={img}
-                    alt="Image"
-                    fill
-                    objectFit="cover"
-                    className="rounded-md"
-                  />
-                </div>
-              </div>
-            ))}
-
-            {isUploadingImage && (
-              <div className="border rounded-md aspect-square w-28 grid place-items-center relative ">
-                <Loader2 className="animate-spin " />
-              </div>
-            )}
-          </div>
-        </div>
-
-        <Input
-          label="Indication"
-          placeholder="Ex fever, cold, flu "
-          value={form.indication}
-          onChange={(e) => setForm({ ...form, indication: e.target.value })}
-        />
-        <Textarea
-          label="Side Effects"
-          placeholder=""
-          value={form.sideEffects}
-          onChange={(e) => setForm({ ...form, sideEffects: e.target.value })}
-        />
-        {/* <Input
+          <Input
+            label="Indication"
+            placeholder="Ex fever, cold, flu "
+            value={form.indication}
+            onChange={(e) => setForm({ ...form, indication: e.target.value })}
+          />
+          <Textarea
+            label="Side Effects"
+            placeholder=""
+            value={form.sideEffects}
+            onChange={(e) => setForm({ ...form, sideEffects: e.target.value })}
+          />
+          {/* <Input
         label="Images"
         placeholder="Product Images"
         value={form.images}
         onChange={(e) => setForm({ ...form, images: e.target.value })}
       /> */}
 
-        <Button className="w-full" disabled={isLoading}>
-          {isLoading && <Loader2 className="animate-spin mr-2 w-4 h-4" />}{" "}
-          {productId ? "Update" : "Save"}
-        </Button>
+          <Button className="w-full" disabled={isLoading}>
+            {isLoading && <Loader2 className="animate-spin mr-2 w-4 h-4" />}{" "}
+            {productId ? "Update" : "Save"}
+          </Button>
+        </div>
+
+        <div className="space-y-4">
+          <div className="flex gap-4 items-center justify-between mt-9">
+            <Label className="font-normal text-muted-foreground">
+              Perscription Required
+            </Label>
+
+            <Switch
+              checked={form.prescriptionRequired}
+              onCheckedChange={(value) =>
+                setForm({ ...form, prescriptionRequired: value })
+              }
+            />
+          </div>
+
+          <div>
+            <Label className="font-normal text-muted-foreground">Type</Label>
+
+            <div className="flex gap-2 items-center flex-wrap mt-2">
+              {type.map((t) => (
+                <div
+                  className={` py-2 px-4 text-sm  border rounded-md cursor-pointer ${
+                    form.type === t
+                      ? "text-green-800 border-green-600 bg-green-50 dark:bg-transparent dark:border-green-700 dark:text-green-500"
+                      : "text-gray-500 dark:text-gray-400"
+                  }`}
+                  onClick={() => setForm({ ...form, type: t })}
+                >
+                  {t}
+                </div>
+              ))}
+            </div>
+          </div>
+          <div>
+            <Label className="font-normal text-muted-foreground">
+              Categories
+            </Label>
+
+            <div className="flex gap-2 items-center flex-wrap mt-2">
+              {medicineCategories.map((cat) => (
+                <div
+                  className={` py-2 px-4 text-sm  border rounded-md cursor-pointer ${
+                    form.category.includes(cat)
+                      ? "text-green-800 border-green-600 bg-green-50 dark:bg-transparent dark:border-green-700 dark:text-green-500"
+                      : "text-gray-500 dark:text-gray-400"
+                  }`}
+                  onClick={() => handleCategorySelect(cat)}
+                >
+                  {/* {cat.charAt(0).toUpperCase() + cat.slice(1)} */}
+                  {cat}
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <Label className="font-normal text-muted-foreground">Images</Label>
+
+            <div className="flex gap-4 items-center mt-2">
+              <label
+                htmlFor="file-input"
+                className="border rounded-md aspect-square w-28 grid place-items-center cursor-pointer"
+              >
+                <ImagePlusIcon className="text-gray-500 " />
+              </label>
+              <input
+                id="file-input"
+                type="file"
+                multiple
+                accept="image/*"
+                className="hidden"
+                onChange={handleImageSelect}
+              />
+
+              {form.images.map((img) => (
+                <div className="border rounded-md aspect-square w-28 grid place-items-center relative">
+                  <div
+                    className="absolute border rounded-full p-0.5 -top-2 -right-2 z-40 bg-gray-100 shadow-xl cursor-pointer"
+                    onClick={() =>
+                      setForm({
+                        ...form,
+                        images: form.images.filter((d) => d !== img),
+                      })
+                    }
+                  >
+                    <XIcon className="w-4 h-4" />
+                  </div>
+                  <div className="relative aspect-square w-full">
+                    <Image
+                      src={img}
+                      alt="Image"
+                      fill
+                      objectFit="cover"
+                      className="rounded-md"
+                    />
+                  </div>
+                </div>
+              ))}
+
+              {isUploadingImage && (
+                <div className="border rounded-md aspect-square w-28 grid place-items-center relative ">
+                  <Loader2 className="animate-spin " />
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
       </form>
     </main>
   );
