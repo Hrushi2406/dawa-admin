@@ -64,6 +64,7 @@ export default function AddProductPage() {
     brand: "",
     stock: 10,
     price: 0,
+    offerPrice: 0,
     type: "medicine",
     description: "",
     prescriptionRequired: false,
@@ -181,6 +182,17 @@ export default function AddProductPage() {
             value={form.price}
             onChange={(e) =>
               setForm({ ...form, price: parseFloat(e.target.value) })
+            }
+          />
+
+          <Input
+            label="Offer Price"
+            required
+            placeholder="Price"
+            type="number"
+            value={form.offerPrice}
+            onChange={(e) =>
+              setForm({ ...form, offerPrice: parseFloat(e.target.value) })
             }
           />
 
