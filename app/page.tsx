@@ -54,6 +54,9 @@ export default function Home() {
       <Button asChild className="ml-4" variant={"outline"}>
         <Link href={"/add-products"}>Add Product</Link>
       </Button>
+      <Button asChild className="ml-4" variant={"outline"}>
+        <Link href={"/discounts"}>Discounts </Link>
+      </Button>
 
       <div className="my-8"></div>
 
