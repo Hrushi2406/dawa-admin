@@ -33,6 +33,11 @@ const medicineCategories = [
   "eye",
   "acidity",
   "heart",
+  "home",
+  "women",
+  "men",
+  "hair",
+  "oral"
 ];
 
 const type = ["medicine", "personal-care"];
