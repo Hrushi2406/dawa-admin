@@ -18,12 +18,27 @@ import React from "react";
 import { EllipsisVertical, Menu, Minus, Option } from "lucide-react";
 import { toast } from "sonner";
 import Link from "next/link";
+import { addPost } from "@/services/search";
+import { Input } from "@/components/ui/input";
+import productService from "@/services/product-service";
 
+const exportData = async () => {
+  await productService.getAll().then((data) => {
+    data = data.map((d) => {
+      delete d.meta;
+      return d;
+    });
+    console.log(data);
+  });
+};
 export default function Home() {
   const [orders, setorders] = React.useState<any>([]);
 
   React.useEffect(() => {
     fetchOrders().then((data) => setorders(data));
+    toast("Check console for data");
+
+    // addPost();
   }, []);
 
   return (
@@ -56,6 +71,9 @@ export default function Home() {
       </Button>
       <Button asChild className="ml-4" variant={"outline"}>
         <Link href={"/discounts"}>Discounts </Link>
+      </Button>
+      <Button onClick={exportData} className="ml-4" variant={"outline"}>
+        Export Data
       </Button>
 
       <div className="my-8"></div>

@@ -1,0 +1,2350 @@
+
+[
+    {
+        "sideEffects": "",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F379d7616-a5bb-47b9-a461-b4530b27e208vicks-babyrub-soothing-balm-for-babies-bottle-of-50-ml-2-1677525514.webp?alt=media&token=e3034e92-aa2d-46af-94de-4ef206f7bdef",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F379d7616-a5bb-47b9-a461-b4530b27e208vicks-babyrub-soothing-balm-for-babies-bottle-of-50-ml-6.2-1677525527.webp?alt=media&token=e2f7cba1-1057-491f-be71-01cb525f2c29",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F379d7616-a5bb-47b9-a461-b4530b27e208vicks-babyrub-soothing-balm-for-babies-bottle-of-50-ml-6.3-1677525519.webp?alt=media&token=c04fe962-6a1e-403e-9ad3-f0e7f15ef3b1"
+        ],
+        "slug": [
+            "Vicks",
+            "Babyrub",
+            "Soothing",
+            "Balm",
+            "For",
+            "Babies",
+            "Bottle",
+            "Of",
+            "50",
+            "Ml"
+        ],
+        "offerPrice": 0,
+        "createdAt": "2024-05-05T13:03:24.666Z",
+        "id": "03462c9c-ff11-4572-aa37-33166ff56d44",
+        "stock": 10,
+        "prescriptionRequired": false,
+        "price": 215,
+        "description": "Vicks BabyRub Ointment provides moisturising & soothing comfort for delicate skin to help your baby feel calm and relaxed. An aromatic formulation containing natural extracts of Rosemary, Lavender and Aloe Vera. The new Vicks Babyrub is specially developed to gently moisturise, soothe and relax your baby. It is made with aloe vera, coconut oil and white soft paraffin, known for their moisturizing benefits. It also contains fragrances of lavender, rosemary and eucalyptus, known for their calming and relaxing benefits. A good Babyrub massage can help your baby’s skin retain moisture and stay soft, making your baby feel more comfortable. The Vicks Babyrub can be applied on the chest, neck, back and soles of feet for moisturizing and soothing baby care. Vicks Babyrub is specially developed in association with baby and skin experts and is suitable for babies aged 3 months and above.\n\nBenefits\nVicks Babyrub is specially formulated for babies.\nHelps to gently moisturise, soothe and relax your baby.\nContains aloe vera extract, coconut oil and fragrances of lavender, rosemary and eucalyptus.\nIt is gentle on the baby’s skin and a good Vicks Babyrub massage can help your baby’s skin retain moisture and stay soft, making your baby feel more comfortable.\nThe Vicks Bbayrub can be applied on the chest, neck, back and soles of feet for moisturising and soothing baby care and is proven safe to use on babies from 3 months and above.\nIngredients\nThe key ingredients of Vicks Babyrub are:\n\nPetrolatum\nTurpentine\nParfum\nParaffinum Liquidum\nCocos Nucifera Oil\nAloe Barbadensis Leaf Extract\nLavandula Angustifolia Oil\nThymol\nLimonene\nLinalool\nGeraniol\nUses\nVicks Babyrub can be used on children to relax their bodies.\nVicks Babyrub can be used on babies from three months and above.\nGently massage the chest, neck and back to help soothe and comfort your baby.\nHow to Use\nVicks BabyRub can be used on babies from 3 months of age and older.\nAt night, gently massage the chest and stomach to help moisturise, soothe and comfort.\nSafety Information\nRead the label carefully before use.\nStore it in a cool and dry place away from direct sunlight.\nKeep it out of the reach of the children.",
+        "name": "Vicks Babyrub Soothing Balm For Babies Bottle Of 50 Ml",
+        "brand": "Vicks",
+        "category": [
+            "baby"
+        ],
+        "type": "personal-care",
+        "indication": "",
+        "updatedAt": "2024-05-05T13:03:24.666Z"
+    },
+    {
+        "indication": "",
+        "slug": [
+            "Aristozyme",
+            "Liquid",
+            "200",
+            "ml"
+        ],
+        "createdAt": "2024-05-01T07:57:04.137Z",
+        "type": "medicine",
+        "stock": 10,
+        "price": 136,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fafbcddfd-374e-4a37-a2ea-5106f328a585ARI0012_1_1.webp?alt=media&token=37978fb7-b6df-4ee6-9abc-01b053183fb9"
+        ],
+        "category": [
+            "digestive"
+        ],
+        "sideEffects": "Abdominal pain\nFeeling of sickness\nSkin rash\nStomach upset\nDiarrhoea\nPainful urination\nHeartburn\nNausea\nVomiting",
+        "updatedAt": "2024-05-01T07:57:04.137Z",
+        "name": "Aristozyme Liquid 200 ml",
+        "id": "03e7dc0c-34e4-4286-945f-62b984d06e5e",
+        "description": "Aristozyme Liquid 200 ml is a digestive aid primarily used to treat the digestive disorder and proper digestion of starch or carbohydrate in the die into a simpler form of sugar/carbohydrate. It is also an appetite stimulant (increases hunger) that effectively treats acid indigestion (heartburn), flatulence (gas), epigastric distress (upper abdominal pain), and eructation (burping). Aristozyme Liquid 200 ml can also be used to relieve other digestive disorders like pancreatic insufficiency (inability to produce pancreatic enzymes) and abdominal discomfort. Indigestion is the inability to digest the complex form of food associated with the sour stomach, gas formation with mild pain/discomfort in the stomach.\n\nAristozyme Liquid 200 ml contains two digestive enzymes, namely: Diastase and Pepsin. Diastase is a starch hydrolysing enzyme that breaks down complex carbohydrate (polysaccharides, i.e. starch) into simple carbohydrates (monosaccharides, i.e. simple sugar). It promotes digestion in cases of chronic illness, stomach fullness, flatulence, and indigestion. On the other hand, Pepsin is a protein-digesting enzyme that helps break down larger protein molecules into smaller units of protein (amino acids). Thus together, Aristozyme Liquid 200 ml aid digestive disorder and gastric problems. \n\nTake Aristozyme Liquid 200 ml in the dose and duration advised by your physician based on your medical condition. Aristozyme Liquid 200 ml is generally safe to use. However, some may experience side effects like abdominal pain, feeling of sickness, skin rash, stomach upset, diarrhea, painful urination, heartburn, nausea and vomiting. Although not everyone experiences these side effects, if they occur, please seek medical attention.\n\nLet your physician know if you are using any others medicines, herbal or vitamin supplements before you take Aristozyme Liquid 200 ml. Inform your doctor if you have any allergic reactions to pork protein before starting Aristozyme Liquid 200 ml. If you a history of inflammation/swelling of the pancreas (acute pancreatitis), let your doctor know about it. Oral syrup of Aristozyme Liquid 200 ml is to be cautiously administered in diabetic patients since it may contain sucrose. You can try opting for sugar-free formulations. Intake of probiotics, prebiotics, and plenty of fluids is recommended if you are suffering from indigestion. Pregnant and breastfeeding women should use Aristozyme Liquid 200 ml with proper consultation and caution.",
+        "prescriptionRequired": false,
+        "brand": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+        "stock": 10,
+        "prescriptionRequired": true,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fdcf5192f-ac73-4b3e-86cd-e25074680eacMontewok-lc-syrup.jfif?alt=media&token=5c1bb259-26b3-4d66-98da-06886dc26ee6"
+        ],
+        "sideEffects": "Headache, dry mouth, tiredness, blocked nose, dizziness",
+        "description": "Montewok Lc Bottle Of 60ml Syrup contains a combination of Levocetirizine and Montelukast.",
+        "id": "09e169a0-4cf5-4fe2-8dc6-8d3725189920",
+        "brand": "DR REDDY'S LABORATORIES LTD",
+        "indication": "",
+        "updatedAt": "2024-05-01T11:31:56.648Z",
+        "price": 147.5,
+        "createdAt": "2024-05-01T11:31:56.648Z",
+        "type": "medicine",
+        "name": "Montewok Lc Bottle Of 60ml Syrup",
+        "slug": [
+            "Montewok",
+            "Lc",
+            "Bottle",
+            "Of",
+            "60ml",
+            "Syrup"
+        ],
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ],
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F7841a2c2-dbab-4f21-8183-ccdec75a7324ct.webp?alt=media&token=4e13682d-c067-446b-89b5-18e0d007f558",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F7841a2c2-dbab-4f21-8183-ccdec75a7324ct2.webp?alt=media&token=6657bc4e-e794-4279-b677-b277281eb2fb"
+        ],
+        "updatedAt": "2024-05-01T11:45:56.313Z",
+        "slug": [
+            "Cheston",
+            "Cold",
+            "Total",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "price": 84.7,
+        "type": "medicine",
+        "name": "Cheston Cold Total Strip Of 10 Tablets",
+        "brand": "CIPLA GX",
+        "stock": 10,
+        "prescriptionRequired": true,
+        "createdAt": "2024-05-01T11:45:56.313Z",
+        "sideEffects": "Drowsiness, sleepiness, nausea, vomiting, headache",
+        "description": "Levocetirizine(5.0 Mg) + Phenylephrine(5.0 Mg) + Paracetamol / Acetaminophen(325.0 Mg)",
+        "id": "0c48f4d1-988a-40b4-b5cf-eb723a12507b",
+        "indication": ""
+    },
+    {
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F95610c1e-350b-4c3c-bdb9-28860ec63f6591%2B2ghWgqcL.jpeg?alt=media&token=d7294bec-45c8-40aa-8456-6056b8780e17"
+        ],
+        "name": "Pan 40mg Strip Of 15 Tablets",
+        "stock": 10,
+        "prescriptionRequired": true,
+        "indication": "",
+        "description": "Pan 40 tablet reduces stomach acid levels and is used to treat stomach ulcers, GERD, and other acidity-related conditions. The active ingredient is pantoprazole, which helps lower acid production. For best results, take Pan 40 tablet on an empty stomach.\n\nTo prevent acidity-related problems, you should be mindful of the foods and beverages that seem to trigger them. It is advisable to consume smaller and more frequent meals, avoid oily and spicy food, and reduce alcohol consumption. Drinking plenty of water is also beneficial. For more personalized dietary modifications, it is recommended to consult a doctor or nutritionist.\n\nPan 40 tablets should be taken as prescribed by the doctor, in the doses and duration as prescribed. It is important not to miss any dose or take it more often than prescribed by your doctor. However, please note that Pan 40 is not effective in treating burping or hiccups. Other tablets with pantoprazole include Pantop 40mg, Pantodac 40mg, Pantosec 40mg and Pantakind 40mg.",
+        "brand": "ALKEM LABORATORIES LTD",
+        "category": [
+            "digestive",
+            "indigestion",
+            "abdominal-discomfort"
+        ],
+        "type": "medicine",
+        "updatedAt": "2024-05-01T14:41:03.589Z",
+        "id": "0f2adc23-f2e0-45b5-aa4a-7ac9c0e0787c",
+        "createdAt": "2024-05-01T14:41:03.589Z",
+        "sideEffects": "Nausea, vomiting, stomach pain",
+        "slug": [
+            "Pan",
+            "40mg",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "price": 165
+    },
+    {
+        "sideEffects": "Vomiting, irregular heartbeat, retention of Urine, headache",
+        "slug": [
+            "New",
+            "Sinarest",
+            "Lp",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "name": "New Sinarest Lp Strip Of 10 Tablets",
+        "category": [
+            "cold",
+            "cough",
+            "fever"
+        ],
+        "type": "medicine",
+        "createdAt": "2024-05-01T11:48:20.793Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F07b76771-5e2d-4386-8297-92efb5a3f354s2.webp?alt=media&token=6f914659-be4b-4564-9a1b-22e7dd05c924",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F07b76771-5e2d-4386-8297-92efb5a3f354s1.jpeg?alt=media&token=54efa202-2d1f-447a-820d-abe17af0fe54"
+        ],
+        "id": "13e6fa0f-ad62-487e-a347-e26c8db68f0a",
+        "prescriptionRequired": false,
+        "description": "New Sinarest LP tablet is a combination of medicines. It contains Paracetamol, Phenylephrine, and Levocetirizine as active ingredients. New Sinarest LP tablet is used to treat fever, stuffed or blocked nose associated with allergy or cold. Paracetamol helps in reducing fever and pain, Phenylephrine reduces the nasal blockage and Levocetirizine is an anti-allergic & reduces the production of chemicals responsible for allergic reaction. This medicine should not be used for children under 12 years of age, pregnant and lactating women. Side effects such headache, dizziness, vomiting, rise in blood pressure may be noticed while using this medicine. If you experience any discomfort while using this tablet. You should immediately contact your doctor.",
+        "indication": "",
+        "brand": "CENTAUR PHARMACEUTICALS PVT LTD",
+        "price": 138,
+        "stock": 10,
+        "updatedAt": "2024-05-01T11:48:20.793Z"
+    },
+    {
+        "type": "medicine",
+        "prescriptionRequired": false,
+        "updatedAt": "2024-05-01T14:07:30.171Z",
+        "createdAt": "2024-05-01T14:07:30.171Z",
+        "id": "1511619c-2c09-481d-8b69-a9a8bc82784c",
+        "brand": "Gelusil ",
+        "price": 230.97,
+        "slug": [
+            "Gelusil",
+            "Mps",
+            "Mint",
+            "Flavour",
+            "Sugar",
+            "Free",
+            "Bottle",
+            "Of",
+            "400ml",
+            "Liquid"
+        ],
+        "category": [
+            "pain"
+        ],
+        "indication": "",
+        "sideEffects": "",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F3b96a764-fbdc-4ff3-b712-f6af2e77e2dcScreenshot%202024-05-01%20at%207.37.11%20PM.png?alt=media&token=34f57800-8bff-4f83-9ccd-c26cc91cb946",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F3b96a764-fbdc-4ff3-b712-f6af2e77e2dcScreenshot%202024-05-01%20at%207.36.58%20PM.png?alt=media&token=38978aa1-ddc8-4c38-a090-1537b8277cec"
+        ],
+        "stock": 10,
+        "description": "Gelusil MPS Original liquid is a therapeutic digestive medication containing a balanced mix of ingredients that are widely used as an antacid, providing quick relief from acidity, heartburn and gas.\n\nKey Ingredients: \nActivated Dimethicone I.P.\nMagnesium Hydroxide I.P. 250 mg added as (Magnesium Hydroxide Paste)\nDried Aluminium Hydroxide I.P. 250 mg added as (Aluminium Hydroxide Paste)\nSorbitol Solution 70% (Non-Crystalizing) I.P.\nKey Benefits:\nThe Aluminium hydroxide is an antacid, which neutralises increased stomach acid\nDimethicone is an antiflatulent which helps in releasing the gas\nMagnesium hydroxide is a laxative that increases water in the intestine and reduces stomach acid\nIt is also sugar-free and is generally well tolerated\nDirections For Use:\nFor immediate effect, consume 1-2 teaspoonful of Gelusil liquid after meals\nThe liquid bottles also come with a 10 ml measuring cap for precise dosage\nSafety Information:\nRead the label carefully before use\nKeep out of reach of the children\nStore in a cool dry place\nUse under medical supervision",
+        "name": "Gelusil Mps Mint Flavour Sugar Free Bottle Of 400ml Liquid"
+    },
+    {
+        "id": "18ea1123-e928-4a76-92b1-a463008208e9",
+        "type": "medicine",
+        "sideEffects": "Drowsiness, headache, vomiting, weakness",
+        "slug": [
+            "Ascoril",
+            "D",
+            "Plus",
+            "Sugar",
+            "Free",
+            "Bottle",
+            "Of",
+            "100ml",
+            "Syrup"
+        ],
+        "brand": "GLENMARK PHARMACEUTICALS",
+        "createdAt": "2024-05-01T14:52:24.331Z",
+        "indication": "Cold, allergic rhinitis",
+        "stock": 10,
+        "category": [
+            "allergy",
+            "cold",
+            "cough",
+            "fever"
+        ],
+        "prescriptionRequired": true,
+        "name": "Ascoril D Plus Sugar Free Bottle Of 100ml Syrup",
+        "updatedAt": "2024-05-01T14:52:24.331Z",
+        "price": 141,
+        "description": "Ascoril D Plus Sugar-Free syrup is used for temporary relief from the common cold and allergic rhinitis. It helps improve symptoms like runny and stuffed nose, sneezing, and throat irritation. It contains a combination of dextromethorphan, chlorpheniramine, and phenylephrine as active ingredients.\n\nChlorpheniramine is an antiallergic, and phenylephrine is a decongestant. You should take this syrup as advised by your doctor for maximum benefits and avoid using it for a prolonged duration when not required. Before each usage, give the bottle a good shake and measure the syrup using a measuring spoon or cup.\n\nTell your doctor everything you take, including over-the-counter medications, and your entire medical background. Also, inform if you are pregnant, want to become pregnant, or are nursing before beginning this syrup. Other syrups with dextromethorphan, chlorpheniramine, and phenylephrine include Chericof syrup, Chericof Sf syrup, and Xl 90 Plus syrup.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F6b30daa0-317c-49dc-afd1-7ed0c53125a8ASCORIL-D-PLUS-SUGAR-FREE-100-ml-Syrup---EACH-of-1.webp?alt=media&token=891dad76-ccaa-4c51-8a48-88b80ed9e639",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F6b30daa0-317c-49dc-afd1-7ed0c53125a8ascoril_d_plus_sugar_free_syrup_100ml_54235_0_2.jpeg?alt=media&token=eb858392-caa8-4849-9fe1-c291cf3b9b5c"
+        ]
+    },
+    {
+        "createdAt": "2024-05-01T14:29:32.174Z",
+        "description": "Gaviscon Syrup provides quick and lasting relief from pain and discomfort such as heartburn and indigestion. The syrup contains sodium alginate which works on the acid in your stomach to form a thick gel-like layer. Calcium carbonate and sodium bicarbonate on reacting with stomach acid release bubbles of carbon dioxide which allow the gel to form a strong protective barrier on top of the stomach contents and prevent the stomach acid from flowing back into the oesophagus.\n\nBenefits\nProvides effective, instant results in just 3 minutes.\nProvides relief for up to 4 hours which is 2 times longer than normal antacids.\nSafe for pregnant and breastfeeding women.\nIt is sugar-free and gluten-free.\n\n\nIngredients\nSodium Alginate\nSodium Bicarbonate\nCalcium Carbonate\n\n\nUses\nGaviscon Syrup is better than antacids. It is used to treat acidity and indigestion, provides quick and lasting relief, treats heartburn and gas troubles such as bloating and belching. It also helps to get rid of abdominal pain and stomach discomfort caused due to acidity and works by neutralizing stomach acid in the body.\n\n\n\nHow to Use\nAdults, elderly people and children above 12 years of age are advised to consume 10 -20 ml of this liquid post meals and at bedtime or as directed by their doctor. However, kids below 12 years of age should take it only after medical advice. You must always shake the bottle well before using it.\n\nSafety information\nRead the label carefully before using it.\n\nKeep it away from children.\n\nUse it under medical supervision.\n\nDo not exceed the recommended dosage.\n\nStore it in a cool and dry place.\n\nDo not store it above 30 degrees.\n\nDo not freeze or refrigerate.\n\nSide Effects:\n\nGaviscon generally does not cause any side effects, and even if you experience any, they are usually mild. The symptoms might disappear once you stop taking Gaviscon.\n\nIf side effects occur, it will be usually due to allergies or excessive dosage. These may include:\n\nNausea\n\nVomiting\n\nBloating\n\nDiarrhoea\n\nConstipation\n\nIf your symptoms do not improve or get worse over time, please consult a doctor for further guidance and treatment.\n\nPrecautions and Warnings:\n\nCheck the ingredient list to confirm if you are allergic to any of its components.\n\nDo not give Gaviscon to children who are under 12 if it has not been recommended by a doctor.\n\nDo not take an extra dosage of Gaviscon if you have missed the previous one. Just take your next scheduled dosage.\n\nIf you accidentally overdose on this medicine, it is usually not a major concern. However, if it causes discomfort or side effects, consult your doctor.\n\nRefrain from painkillers with this medicine without talking to your doctor first.\n\nPlease inform your doctor if you are on any other medications or health supplements.\n\nIf you are suffering from conditions like high blood pressure, congestive heart failure, or kidney issues consult your doctor before using Gaviscon, since it contains sodium.",
+        "category": [
+            "indigestion",
+            "headache"
+        ],
+        "brand": "Gaviscon",
+        "sideEffects": "",
+        "stock": 10,
+        "id": "1d4e18bc-f756-4397-a6cf-7aff234ca439",
+        "updatedAt": "2024-05-01T14:29:32.174Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F02f1b95c-f64a-47a0-bc5a-847d6eea0fb5gaviscon-liquid-instant-relief-from-heartburn-indigestion-acid-reflux-peppermint-flavour-150-ml-3-1671740959.webp?alt=media&token=e3ea685a-69fd-4a9d-8ae7-1582c6eae3de",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F02f1b95c-f64a-47a0-bc5a-847d6eea0fb5gaviscon-liquid-instant-relief-from-heartburn-indigestion-acid-reflux-peppermint-flavour-150-ml-6.1-1671740955.webp?alt=media&token=bc9cc7e4-b023-4191-97ec-866efbc4f66c",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F02f1b95c-f64a-47a0-bc5a-847d6eea0fb5gaviscon-liquid-instant-relief-from-heartburn-indigestion-acid-reflux-peppermint-flavour-150-ml-2-1671740947.webp?alt=media&token=fa90331e-5f7e-4cba-ae70-4f9f2772a814"
+        ],
+        "prescriptionRequired": false,
+        "name": "Gaviscon Liquid Instant Relief From Heartburn Indigestion & Acid Reflux Peppermint Flavour 150 Ml",
+        "price": 178.6,
+        "indication": "",
+        "type": "medicine",
+        "slug": [
+            "Gaviscon",
+            "Liquid",
+            "Instant",
+            "Relief",
+            "From",
+            "Heartburn",
+            "Indigestion",
+            "&",
+            "Acid",
+            "Reflux",
+            "Peppermint",
+            "Flavour",
+            "150",
+            "Ml"
+        ]
+    },
+    {
+        "indication": "",
+        "brand": "PFIZER LIMITED",
+        "price": 243.07,
+        "type": "medicine",
+        "id": "20f519b8-877a-4c57-8d27-3e05acb731a1",
+        "prescriptionRequired": true,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F9f5a5d87-6069-488f-a93a-a996c8b594e6mucaine-gel-mint-sugar-free.jpeg?alt=media&token=8fb2ba33-d208-453e-9dc6-2b5a8cfde0ec"
+        ],
+        "slug": [
+            "Mucaine",
+            "Gel",
+            "Mint",
+            "Sugar",
+            "Free",
+            "200ml"
+        ],
+        "stock": 10,
+        "description": "Mucaine gel is an antacid. It is used to relieve symptoms like acidity, heartburn, stomach pain, etc., associated with stomach ulcers and acid reflux. Mucaine gel contains a combination of aluminium hydroxide, magnesium hydroxide and oxetacaine. This gel works by neutralising the acid in the stomach and relieving pain due to ulcers. Mucaine gel should be taken as suggested by the doctor or pharmacist. It should be preferably taken before meals. Mucaine gel syrup should not be used in patients with severe kidney-related disorders. You may sometimes experience side effects like rash, constipation and diarrhoea while on treatment with Mucaine gel. Please report to your doctor if you notice the side effects persist or worsen.",
+        "createdAt": "2024-05-01T14:16:50.288Z",
+        "sideEffects": "Nausea, vomiting, diarrhoea, stomach pain, constipation",
+        "updatedAt": "2024-05-01T14:16:50.288Z",
+        "category": [
+            "digestive",
+            "abdominal-discomfort",
+            "indigestion"
+        ],
+        "name": "Mucaine Gel Mint Sugar Free 200ml"
+    },
+    {
+        "stock": 10,
+        "category": [
+            "indigestion",
+            "digestive",
+            "abdominal-discomfort"
+        ],
+        "prescriptionRequired": true,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe01341a3-d321-403c-a8ec-5180fd4c256781cOwCfu3fL._AC_UF1000%2C1000_QL80_.jpg?alt=media&token=1aa1fe8a-12ce-4564-95e5-084162874c5e"
+        ],
+        "name": "Pan D Strip Of 15 Capsules",
+        "createdAt": "2024-05-01T14:43:04.039Z",
+        "type": "medicine",
+        "sideEffects": "Diarrhoea, dry mouth, headache, nausea",
+        "brand": "ALKEM LABORATORIES LTD",
+        "updatedAt": "2024-05-01T14:43:04.039Z",
+        "slug": [
+            "Pan",
+            "D",
+            "Strip",
+            "Of",
+            "15",
+            "Capsules"
+        ],
+        "description": "Pan D capsule is an anti-reflux medicine used to treat GERD or gastroesophageal reflux disease. It contains pantoprazole and domperidone as active ingredients. The combination is used in patients in which pantoprazole alone cannot control acid reflux. Pantoprazole works by inhibiting a pump called the proton pump in the stomach wall, which is responsible for the secretion of stomach acids for digestion and leads to reduced acid production. Domperidone stops vomiting. It increases the movement in the stomach and bowel so that acid does not flow back into the food pipe.\n\nGastroesophageal reflux disease is a condition where acid from the stomach flows back to the food pipe. The backflow of acid irritates the lining of the food pipe and leads to chest pain and heartburn.\n\nPantop Dsr, Pantosec Dsr, Pantakind Dsr and Pantodac Dsr are a few more tablets that also include pantoprazole and domperidone. Pan D must be taken as directed by the doctor and in doses and duration as prescribed. It must be taken before meals. Do not miss any dose or take it more often than prescribed by your doctor.\n\nAlong with taking medicine on time, certain lifestyle modifications can help manage your acidity problem better. Try eating smaller meals, eating slowly, avoiding overeating, and lying down immediately after having a meal. Limit your intake of alcohol, avoid smoking, and maintain a healthy weight. Consult the doctor to understand what works best for you.",
+        "id": "2a87fc67-90ab-4777-a0f1-c5a5bff97ee7",
+        "price": 210,
+        "indication": ""
+    },
+    {
+        "stock": 10,
+        "category": [
+            "pain relief"
+        ],
+        "name": "Aceloflam Xp Strip Of 15 Tablets",
+        "id": "3575d0d5-959a-42a3-a439-88b603be240b",
+        "description": "Aceloflam Xp Tablet is used for the management of pain, swelling and inflammation. It is a combination of medicine containing aceclofenac and paracetamol. You should take this medicine for prescribed duration and in a dose recommended by your doctor.",
+        "type": "medicine",
+        "price": 108,
+        "brand": "ALKEM LABORATORIES LTD",
+        "indication": "",
+        "prescriptionRequired": true,
+        "createdAt": "2024-05-01T12:01:44.004Z",
+        "slug": [
+            "Aceloflam",
+            "Xp",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fa44b9986-5f68-489c-b4c3-4c6f1ee2259bACELOFLAM-XP-Tablet-15---EACH-of-1.webp?alt=media&token=029c6e4b-be53-4840-8ce0-6ce3e9e8d63e"
+        ],
+        "sideEffects": "",
+        "updatedAt": "2024-05-01T12:01:44.004Z"
+    },
+    {
+        "stock": 10,
+        "prescriptionRequired": true,
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ],
+        "indication": "",
+        "price": 85,
+        "type": "medicine",
+        "createdAt": "2024-05-01T11:30:16.693Z",
+        "brand": "DR REDDY'S LABORATORIES LTD",
+        "name": "Montewok Lc Bottle Of 30ml Syrup",
+        "description": "Montewok Lc Syrup is used for the management of symptoms such as runny & stuffy nose (allergic rhinitis), blockage in airways, sneezing, itching, watery eyes and other allergic symptoms. It is a combination of two medicines, montelukast and levocetirizine. Montewok Lc Syrup works by reducing the constriction and swelling of airways and blocking the production of chemicals responsible for producing symptoms of allergy. It is advised to take this medicine, preferably at bedtime, as it may cause dizziness.",
+        "id": "37911e11-a58f-43a6-a2e3-f7c51abca5f8",
+        "sideEffects": "Headache, dry mouth, tiredness, blocked nose, dizziness",
+        "slug": [
+            "Montewok",
+            "Lc",
+            "Bottle",
+            "Of",
+            "30ml",
+            "Syrup"
+        ],
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F7371bdda-f496-4c85-94aa-62146b37a63bMontewok-lc-syrup.jfif?alt=media&token=e136ee0d-18aa-4dc1-8daf-7f1d15d22724"
+        ],
+        "updatedAt": "2024-05-01T11:30:16.693Z"
+    },
+    {
+        "id": "38bb4950-a123-4b99-a9d3-3ef790fb74b8",
+        "indication": "",
+        "type": "medicine",
+        "stock": 10,
+        "slug": [
+            "Zincovit",
+            "Bottle",
+            "Of",
+            "200ml",
+            "Syrup",
+            "(Green)"
+        ],
+        "createdAt": "2024-05-01T07:38:48.196Z",
+        "category": [
+            "vitamins"
+        ],
+        "description": "Zincovit syrup is a multivitamin and multimineral supplement. It is used to treat and prevent vitamin and mineral deficiencies. It helps to protect the body from damage, improving immunity, metabolism and body functions. It promotes skin, hair, bones and healthy joints. Take the syrup as advised by the doctor or pharmacist.\n\nIt contains vitamins A, B1, B2, B3, B5, B6, B12, D3 and E and blends of minerals like Zinc, Iodine, Copper, Selenium and L-lysine. Vitamins are essential for immunity, good vision, nerve function, blood formation and physiological functions.\n\nMinerals are vital components the body requires for performing physiological functions. They are crucial for cell growth & multiplication, blood formation, hormone and enzyme secretion and proper functioning of muscle, bone and nerve transmission.\n\nZincovit sugar-free liquid contains a similar composition. Dietary supplements are intended to supplement the diets of some people and must not be used as a substitute for a well-balanced, varied diet and a healthy lifestyle. The dose and duration for taking Zincovit syrup are decided by the doctor after the diagnosis. Do not take more than the prescribed dose.\n\nIngredients and Benefits\nZincovit syrup is a multivitamin and multimineral supplement. It contains vitamins and minerals along with L-lysine.\n\nIt contains vitamins A, B1, B2, B3, B5, B6, B12, D3, E and blends of minerals like Zinc, Iodine, Copper, Selenium and L-lysine.\n\nZinc is essential for maintaining the body's defensive (immune) system to work. It plays a role in cellular function, wound healing, metabolism of carbohydrates and sensing taste and smell.\n\nL-lysine is an amino acid and plays an important role in boosting immunity.\n\nVitamins are essential for immunity, good vision, nerve function, blood formation and physiological functions. These are essential nutrients the body requires for overall well being. It helps in the growth, development and maintenance of body structures, bones, organs and plays a crucial role in repair and healing.\n\nMinerals are key components the body requires for performing physiological functions. They are crucial for cell growth & multiplication, blood formation, hormone and enzyme secretion, proper functioning of muscle, bone and nerve transmission\n\nIt contains vitamins A, B1, B2, B3, B5, B6, B12, D3, E and blends of minerals such as Zinc, Iodine, Copper, Selenium and L-lysine.\n\nZinc is essential for maintaining the body's defensive (immune) system to properly work. It also plays a role in cellular function, wound healing, metabolism of carbohydrates and sensing taste and smell.\n\nL-lysine is an essential amino acid and it plays an important role in boosting immunity.\n\nVitamins are essential for immunity, good vision, nerve function, blood formation and other physiological functions. These are essential nutrients the body requires for overall well being. It helps in the growth, development and maintenance of body structures, bones, organs and also plays a crucial role in repair and healing.\n\nMinerals are essential key components the body requires for performing various physiological functions. They are crucial for cell growth & multiplication, blood formation, hormone & enzyme secretion, proper functioning of muscle & bone and nerve transmission.\n\nDirections for Use\nTake Zincovit drop as advised by your doctor or pharmacist.\n\nShake well before use.\n\nUse a measuring cup, spoon or dropper for the exact quantity.\n\nDo not take more than the daily recommended dose of this supplement.",
+        "price": 60,
+        "updatedAt": "2024-05-01T07:40:46.161Z",
+        "prescriptionRequired": false,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F50c69bb4-b39a-4f02-ac8d-31747e3aaeb3Screenshot%202024-05-01%20at%201.08.12%20PM.png?alt=media&token=92ed4e66-cd49-4931-a558-192823dc0487",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fcb5ff01d-c04c-4166-9ac6-5dd382202d7dScreenshot%202024-05-01%20at%201.08.27%20PM.png?alt=media&token=4fce0399-f51d-4d50-a993-619492c70790"
+        ],
+        "sideEffects": "It may cause nausea, vomiting, diarrhoea and upset stomach. These are temporary and may disappear as the body adjusts to the supplement. If side effects persist, consult with the doctor.",
+        "name": "Zincovit Bottle Of 200ml Syrup (Green)",
+        "brand": "Zincovit"
+    },
+    {
+        "id": "38ed1031-9ec7-4180-bec8-95929774a695",
+        "createdAt": "2024-04-30T14:01:28.901Z",
+        "prescriptionRequired": true,
+        "name": "Safexim O 200/200mg Strip Of 10 Tablets",
+        "type": "medicine",
+        "stock": 10,
+        "price": 486.52,
+        "sideEffects": "Allergic reactions involving joint pain, rashes, swelling of face, difficulty in breathing and other skin problems Bleeding and formation of fluid bumps around lips, mouth, nose and genitals Stomach problems like nausea, vomiting, loose stools, stomach pain Headache, dizziness, abnormal sensation in ears, sleep disturbances Cold, runny nose and sneezing Irritation in eyes and blurred vision",
+        "description": "Safexim O 200/200mg Strip Of 10 Tablets contains a combination of Cefixime and Ofloxacin which belongs to a class of cephalosporin and fluoroquinolone antibiotics, respectively.",
+        "brand": "ABBOTT HEALTHCARE PVT LTD",
+        "indication": "typhoid fever, high fever, stomach pain, headache, diarrhea",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd9d2aca4-ee0b-4c19-8ac0-a722ea14951cproduct-jpeg.jpeg?alt=media&token=4d308aff-cbec-4a69-b6ad-2f9a91f6c138",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fbd869574-d247-473c-ae2c-9a3b3e3cdbf3fca94a1205e74d158115e122312d82d1.webp?alt=media&token=52d77050-f5ab-4a3a-9d85-3617b0e5d400"
+        ],
+        "slug": [
+            "Safexim",
+            "O",
+            "200/200mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "category": [
+            "digestive"
+        ]
+    },
+    {
+        "slug": [
+            "Sinarest",
+            "Af",
+            "New",
+            "Bottle",
+            "Of",
+            "75ml",
+            "Syrup"
+        ],
+        "updatedAt": "2024-05-01T11:56:51.589Z",
+        "stock": 10,
+        "price": 142.52,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F98cf1bad-0e39-4f67-aee2-35c51b23b763sinarest_af_new_syrup_75ml_386440_0_1.jpeg?alt=media&token=e9400b66-e81d-4a5a-b2fc-dd59041a23e9"
+        ],
+        "sideEffects": "",
+        "id": "3d3020ae-db1a-4f38-8fe0-1c35ce27f8e1",
+        "category": [
+            "cold",
+            "flu",
+            "cough",
+            "fever"
+        ],
+        "name": "Sinarest Af New Bottle Of 75ml Syrup",
+        "prescriptionRequired": true,
+        "description": "Chlorphenamine Maleate(2.0 Mg/5ml) + Phenylephrine Hydrochloride(5.0 Mg/5ml)",
+        "createdAt": "2024-05-01T11:56:51.589Z",
+        "indication": "",
+        "brand": "CENTAUR PHARMACEUTICALS PVT LTD",
+        "type": "medicine"
+    },
+    {
+        "brand": "PFIZER LIMITED",
+        "type": "medicine",
+        "indication": "",
+        "stock": 10,
+        "updatedAt": "2024-05-01T14:24:53.355Z",
+        "slug": [
+            "Mucaine",
+            "Gel",
+            "Orange",
+            "Sugar",
+            "Free",
+            "200ml"
+        ],
+        "price": 221.07,
+        "category": [
+            "indigestion",
+            "digestive",
+            "abdominal-discomfort"
+        ],
+        "prescriptionRequired": true,
+        "id": "471a6ca5-87b8-485b-9ad6-139fa48b5aab",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F30b00286-ba64-4d14-978d-44658ab0e8411665999101_136958_0.jpeg?alt=media&token=f1a20062-6153-467d-97a7-4862f0b503af",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc71bf1b1-d126-4a97-a65f-6541e144d0b2mucaine-gel-orange-1.webp?alt=media&token=584df416-ffa6-4895-b5b5-c70f5495cfe9"
+        ],
+        "createdAt": "2024-05-01T14:24:53.355Z",
+        "sideEffects": "Nausea, vomiting, diarrhoea, stomach pain, constipation",
+        "name": "Mucaine Gel Orange Sugar Free 200ml",
+        "description": "Mucaine Gel Orange is an antacid and is used to relieve symptoms like acidity, heartburn and stomach pain associated with stomach ulcers, acid reflux, etc. It contains a combination of aluminium hydroxide, magnesium hydroxide and oxetacaine. Mucaine Orange works by neutralising the acid present in the stomach and relieving pain due to ulcers.\n\nMucaine Gel Orange should be taken as suggested by the doctor or pharmacist. It should preferably be taken before meals. This Oral Gel should not be used in patients with severe kidney-related disorders. The safety and effectiveness of this Oral Gel in children have not been established.\n\nYou may sometimes experience side effects like rash, constipation and diarrhoea while on treatment with Mucaine Gel Orange. Please report to your doctor if you notice the side effects persist or worsen."
+    },
+    {
+        "sideEffects": "",
+        "slug": [
+            "Nestle",
+            "Cerelac",
+            "Baby",
+            "Cereal",
+            "With",
+            "Milk",
+            "Wheat",
+            "Apple",
+            "From",
+            "6",
+            "Months",
+            "300g",
+            "Bag-In-Box",
+            "Pack"
+        ],
+        "description": "Nestle Cerelac Stage 1 Baby Food is a complementary food for babies from 6 to 12 months. It is loaded with the goodness of 19 important nutrients and is meant to fulfil your baby’s nutritional needs when only breast milk is not enough. Nestle is a popular brand that manufactures quality products and helps meet the needs of today and possibly generations to come.\n\nBenefits\nIt takes care of the complete nutritional requirements of the baby.\n\nIt provides the goodness of milk and cereal.\n\nWheat Apple Baby Cereal is rich in iron.\n\nIt helps in the proper growth and development of the baby.\n\nFree from added colours, flavours and preservatives.\n\nIt is both nutritious and delicious.\n\nIngredients\nResultant Wheat flour (Resultant Atta) (51.1%), Milk solids (35.7%), Apple juice concentrate (10.7%), Sugar, Soyabean oil, Minerals, Vitamins, Dextrose, Acidity regulator (Potassium hydrogen carbonate), Enzyme (Alpha-amylase) and Packaging gases (Nitrogen and Carbon dioxide). Contains Wheat and Milk. May contains Barley and Oats.\n\nUses\nNestle Cerelac ensures that your baby gets adequate nutrition, important vitamins and minerals on a daily basis.\n\nHow to Use\nAlways wash your hands before preparing the baby's food.\n\nMake sure all utensils are thoroughly clean.\n\nBoil clean drinking water for 5 minutes and let it cool down a bit.\n\nMeasure 75ml and pour lukewarm water into the baby's bowl.\n\nAdd 3 level scoops of Cerelac and stir until the cereal is smooth.\n\nKeep the scoop dry always.\n\nFeed immediately using a clean spoon.\n\nSafety Information\nRead the label before use.\n\nKeep it away from direct sunlight and heat.\n\nStore it in an airtight container.\n\nKeep it away from the reach of children.\n\nCareful and hygienic preparation of infant food is essential for health.\n\nDo not use fewer scoops than directed.\n\nDo not use more scoops than directed.\n\nInfant food should be used only on the advice of a health worker.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F087cc1ee-bbb4-4202-ae68-522a3ee4a36a1.webp?alt=media&token=16ebc1ae-b346-408f-abcc-6e9e8117ff14",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F087cc1ee-bbb4-4202-ae68-522a3ee4a36a2.webp?alt=media&token=a8189413-bf89-43dc-be65-16cc023caddf",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F150b3530-59c1-4d70-bc19-b556454f716d4.webp?alt=media&token=be2d74a6-a056-403e-8cd2-bd938fc83e2e",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F150b3530-59c1-4d70-bc19-b556454f716d3.webp?alt=media&token=b59dc709-9a3e-4b4f-8e55-eca447e45e4c"
+        ],
+        "prescriptionRequired": false,
+        "brand": "Nestle",
+        "name": "Nestle Cerelac Baby Cereal With Milk Wheat Apple From 6 Months 300g Bag-In-Box Pack",
+        "indication": "",
+        "id": "47a1a37c-7c5a-405a-9465-c19b116ea218",
+        "type": "medicine",
+        "category": [
+            "baby"
+        ],
+        "updatedAt": "2024-05-05T12:49:02.314Z",
+        "price": 260,
+        "stock": 10,
+        "offerPrice": 0,
+        "createdAt": "2024-05-05T12:46:30.148Z"
+    },
+    {
+        "sideEffects": "",
+        "category": [
+            "vitamins"
+        ],
+        "price": 45,
+        "id": "4829f258-5a28-4a1f-b880-3b4eb5557af1",
+        "name": "Orsl Orange Electrolyte Drink 200ml (Jntl)",
+        "updatedAt": "2024-05-05T12:55:53.130Z",
+        "offerPrice": 0,
+        "type": "medicine",
+        "brand": "ORSL",
+        "indication": "",
+        "prescriptionRequired": false,
+        "description": "Orsl Orange Electrolyte Drink 200ml (Jntl)",
+        "slug": [
+            "Orsl",
+            "Orange",
+            "Electrolyte",
+            "Drink",
+            "200ml",
+            "(Jntl)"
+        ],
+        "stock": 10,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffcba6a22-7721-4ec3-b180-534698e1cce3ed.webp?alt=media&token=de099685-dde3-4bfd-928a-8a47e802a095"
+        ],
+        "createdAt": "2024-05-05T12:55:53.130Z"
+    },
+    {
+        "prescriptionRequired": true,
+        "indication": "",
+        "type": "medicine",
+        "id": "4841314e-ed2d-497e-acbf-935376b8c2ab",
+        "slug": [
+            "Omez",
+            "10mg",
+            "Strip",
+            "Of",
+            "15",
+            "Capsules"
+        ],
+        "price": 40.4,
+        "createdAt": "2024-05-01T12:21:50.770Z",
+        "description": "Omez 10 capsule is used to treat ulcers in the stomach and intestines, heartburn, chest pain due to acid reflux disease. It is also helpful in managing Zollinger-Ellison syndrome. Omez 10 capsule contains Omeprazole as an active medicine. It acts by reducing the amount of acid produced in the stomach. Take this medicine as prescribed and for the duration, it is prescribed by your doctor.",
+        "name": "Omez 10mg Strip Of 15 Capsules",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F6814e53b-f694-4864-b2d0-094c638ee0f310.jpeg?alt=media&token=a936385c-b18d-4160-92a0-f2c77faf403a"
+        ],
+        "stock": 10,
+        "sideEffects": "Headache, nausea, vomiting",
+        "brand": "DR REDDY'S LABORATORIES LTD",
+        "updatedAt": "2024-05-01T12:21:50.770Z",
+        "category": [
+            "indigestion",
+            "abdominal-discomfort",
+            "digestive"
+        ]
+    },
+    {
+        "type": "medicine",
+        "category": [
+            "pain relief"
+        ],
+        "stock": 10,
+        "prescriptionRequired": true,
+        "createdAt": "2024-05-01T11:59:43.109Z",
+        "indication": "",
+        "id": "4b3a83f1-893c-44c8-a9f8-9c52eb5d06ba",
+        "brand": "INTAS PHARMACEUTICALS LTD",
+        "sideEffects": "Stomach pain, indigestion, constipation, mouth ulcers, loose motions",
+        "slug": [
+            "Hifenac",
+            "P",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "name": "Hifenac P Strip Of 15 Tablets",
+        "description": "Hifenac-P tablet is used for the management of pain, swelling and inflammation associated with conditions like arthritis, spondylitis and lower back pain. It can also be used in relieving headache, toothache, ear pain, etc. Hifenac-P tablet is a combination of aceclofenac and paracetamol. It should be taken as directed by the doctor and in the correct doses and for the exact duration as prescribed. Swallow it with a glass of water, with or after having your food to avoid stomach problems. Before using this medicine, inform the doctor if you are pregnant, planning a pregnancy or breastfeeding and about your detailed medical history. You should avoid taking the Hifenac-P tablet too often or for prolonged periods since it contains paracetamol, which is known to cause liver-related problems and allergic reactions (swelling of the face, mouth and throat, difficulty in breathing, itching or rash) if taken more than the recommended dose.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fcf5d8912-4f3b-4d58-8a23-02123b40337eff.jpeg?alt=media&token=e7b5d59b-5991-4b5d-ac85-5b7706323e6d"
+        ],
+        "price": 108.5,
+        "updatedAt": "2024-05-01T11:59:43.109Z"
+    },
+    {
+        "price": 154,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe8f61be3-7bc9-475b-bd4a-b949c9d0e10fdigene-gel-acidity-gas-relief-sugar-free-450ml-orange-flavour-7-1710940086.webp?alt=media&token=c76d2ec9-b2e2-40e2-8b91-96049ecc4475",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe8f61be3-7bc9-475b-bd4a-b949c9d0e10fdigene_acidity_gas_relief_gel_mint_flavour_200_ml_742505_0_0.jpeg?alt=media&token=bb251eb1-00c6-429a-9b12-06f896d7e138"
+        ],
+        "sideEffects": "It has some side effects such as constipation, diarrhoea and intestinal obstruction..",
+        "name": "Digene Antacid Antigas Gel 200ml Flavour Mint",
+        "updatedAt": "2024-05-01T14:14:43.659Z",
+        "createdAt": "2024-05-01T14:14:43.659Z",
+        "prescriptionRequired": false,
+        "stock": 10,
+        "id": "4da8bc94-27e8-4b63-afd2-bfeefb8a39ea",
+        "description": "Digene Acidity & Gas Relief Gel can help provide quick relief from acidity and gas and other gas troubles like bloating and belching. The gel is formulated with Acidity Neutralising Capacity (ANC) to give quick and effective relief from acidity. It helps minimise the symptoms of acidity such as abdominal pain and stomach discomfort. It works by neutralising stomach acid. The gel has antacids like magnesium hydroxide as one of its active ingredients. It dissolves quickly in the stomach and provides quick action. It interacts with the stomach acid to produce magnesium chloride, which is absorbed by the body. Aluminium hydroxide inhibits the activity of the enzyme pepsin and alleviates heartburn.\n\nKey Ingredients:\nMagnesium Hydroxide I.P. (added as paste)\nSimethicone\nSodium Carboxymethylcellulose\nDried Aluminium Hydroxide Gel I.P. (added as paste)\n\nKey Benefits:\nMagnesium Hydroxide reduces stomach acid and protects the stomach from excess acid for long-lasting relief\nAluminium Hydroxide neutralises excess stomach acid and protects the lining of the stomach from irritation\nSimethicone relieves symptoms of extra gas such as belching, bloating, and feeling of discomfort in the stomach\nSodium Carboxymethylcellulose helps reduce overall acid levels in the stomach\n\nGood to know:\nSugar-free\n\nConcerns It Can Help With:\nAcidity\nHeartburn\nBelching\nBloating\n\nProduct Form: Syrup\n\nDosage:\nAdults: 2 teaspoonfuls (10 ml) after meals or at bedtime, or as directed by the healthcare professional\nChildren: Use as directed by the healthcare professional\n\nSafety Information:\nRead the label carefully before use\nStore at a temperature not exceeding 30C\nKeep out of reach of children",
+        "brand": "Abbott",
+        "category": [
+            "digestive",
+            "abdominal-discomfort"
+        ],
+        "indication": "",
+        "slug": [
+            "Digene",
+            "Antacid",
+            "Antigas",
+            "Gel",
+            "200ml",
+            "Flavour",
+            "Mint"
+        ],
+        "type": "medicine"
+    },
+    {
+        "category": [
+            "abdominal-discomfort"
+        ],
+        "price": 63.5,
+        "type": "medicine",
+        "name": "Eldoper 2mg Strip Of 15 Capsules",
+        "description": "Loperamide(2.0 Mg)",
+        "createdAt": "2024-05-01T11:34:07.811Z",
+        "id": "524ac056-0f74-426c-9662-e44b33c0377a",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F62b8167b-177d-444f-81e2-e4da1fc2cb7081Azq-CuU-L.jpeg?alt=media&token=87c1f15e-0b27-4904-9199-e0e07c70641e"
+        ],
+        "indication": "",
+        "prescriptionRequired": false,
+        "sideEffects": "",
+        "stock": 10,
+        "brand": "MICRO LABS",
+        "slug": [
+            "Eldoper",
+            "2mg",
+            "Strip",
+            "Of",
+            "15",
+            "Capsules"
+        ],
+        "updatedAt": "2024-05-01T11:34:07.811Z"
+    },
+    {
+        "id": "5b7e61c9-6110-440a-83ef-6336bc8b818f",
+        "sideEffects": "Headache, dizziness, nausea, vomiting, stomach pain",
+        "stock": 10,
+        "updatedAt": "2024-05-01T12:10:34.923Z",
+        "name": "Razo D Strip Of 15 Capsules",
+        "prescriptionRequired": false,
+        "type": "medicine",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc69325e9-cc75-4217-b1fb-76ae90bf5968E3A5C5Cproduct5C5Cr5C5Ca5C5Crazo_d_capsule_15_s_7651910a.jpeg?alt=media&token=2e993325-5ba9-427d-b657-1e853751d0c6",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc69325e9-cc75-4217-b1fb-76ae90bf5968RAZ0007_1_1.webp?alt=media&token=96872b8b-04b4-45a2-9614-fc90e67c5fab"
+        ],
+        "brand": "DR REDDY'S LABORATORIES LTD",
+        "category": [
+            "digestive"
+        ],
+        "slug": [
+            "Razo",
+            "D",
+            "Strip",
+            "Of",
+            "15",
+            "Capsules"
+        ],
+        "description": "Razo-D capsule is an anti-reflux medicine used to treat gastrointestinal reflux disease (GERD). It contains a combination of two medicines - rabeprazole and domperidone. Some other capsules containing rabeprazole and domperidone are Rablet D capsule, Rabekind DSR capsule, Rabesec DSR capsule, and Rabium DSR capsule.\n\nGastrointestinal reflux disease or GERD, is a condition in which acid from the stomach flows back to the food pipe and causes heartburn, belching, nausea and chest pain. It works by reducing the amount of acid produced in the stomach and improves the motility in the gut, thus, reducing the backflow of stomach content into the food pipe.\n\nRazo-D capsule should be taken as directed by the doctor and in doses and duration as prescribed. Do not miss any dose or take it more often than your doctor prescribes.\n\nAlong with taking medicine on time, making certain lifestyle modifications can help to manage your acidity problem better. Try eating smaller meals, eating slowly and avoiding overeating and lying down immediately after having a meal. Limit your intake of alcohol, avoid smoking and maintain a healthy weight, consult the doctor to understand what works for you best.\n\nInform your doctor if you are pregnant, planning a pregnancy or breastfeeding and about all the medicines and supplements you take and all the conditions or diseases you suffer from before starting this medicine.",
+        "createdAt": "2024-05-01T12:10:34.923Z",
+        "indication": "",
+        "price": 361
+    },
+    {
+        "stock": 10,
+        "type": "medicine",
+        "name": "Xyzal M Strip Of 15 Tablets",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F1314f681-eea1-469a-b894-6a9974e1062bxx.jpeg?alt=media&token=95ed9dd5-4e8c-4bd8-bcb2-0e81ae5e7360"
+        ],
+        "slug": [
+            "Xyzal",
+            "M",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "updatedAt": "2024-05-01T08:27:58.927Z",
+        "price": 278.5,
+        "id": "5daae795-64ba-486f-ac33-acd91d55788d",
+        "description": "Xyzal M tablet contains a combination of levocetirizine and montelukast. It is an anti-allergic medicine used to provide temporary relief from allergic conditions such as rhinitis, blocked or runny nose, watery eyes, hives, rash, difficulty in breathing and blocked airways. Xyzal M acts by inhibiting the action of histamine and leukotrienes (natural chemical substance) respectively responsible for allergic reactions. This medicine should not be used in children below 6 years of age and also for patients having kidney disease and undergoing dialysis. Take this medicine as prescribed by your doctor for the prescribed duration. Xyzal M tablet can make you feel sleepy or dizzy as a side effect. Thus, it is preferred to take this medicine at night.",
+        "sideEffects": "Dizziness, Headache, Dry mouth, Sleepiness",
+        "brand": "DR REDDY'S LABORATORIES LTD",
+        "category": [
+            "cold",
+            "flu",
+            "cough"
+        ],
+        "indication": "",
+        "createdAt": "2024-05-01T08:27:58.927Z",
+        "prescriptionRequired": true
+    },
+    {
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ],
+        "prescriptionRequired": false,
+        "type": "medicine",
+        "id": "5f4cc862-b4ad-45b4-a1a8-5c55aae47c2d",
+        "createdAt": "2024-05-01T14:56:17.640Z",
+        "indication": "",
+        "slug": [
+            "Alex",
+            "Junior",
+            "Syrup",
+            "60ml"
+        ],
+        "updatedAt": "2024-05-01T14:56:17.640Z",
+        "sideEffects": "Drowsiness, dizziness, tiredness",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F28edebe4-b478-418c-b683-a61ed92f6ea2alex-junior-syrup-60ml-3.webp?alt=media&token=e34cb8e9-4cc7-432a-bb9e-b25832787fec",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F28edebe4-b478-418c-b683-a61ed92f6ea2ALE0116_1_1.webp?alt=media&token=2c0619ad-7cbc-4f81-8db5-f4715c0ca582"
+        ],
+        "description": "Alex Junior syrup is used for temporary relief of cough due to throat irritation, sneezing & running nose. It contains Chlorpheniramine and Dextromethorphan. Chlorpheniramine is an antiallergic medicine, whereas dextromethorphan is a cough suppressant. The common side effects of this medicine are drowsiness, sleepiness, upset stomach, dizziness. These are mostly for the short term and fade quickly with time. You should avoid taking this syrup along with medicines used to treat your psychiatric illness, as it may worsen your condition.",
+        "stock": 10,
+        "name": "Alex Junior Syrup 60ml",
+        "brand": "GLENMARK PHARMACEUTICALS",
+        "price": 104
+    },
+    {
+        "name": "Montek Lc Kid Syrup 60ml",
+        "indication": "",
+        "sideEffects": "Headache, stomach pain, dry mouth, tiredness, cough",
+        "price": 129,
+        "prescriptionRequired": false,
+        "createdAt": "2024-05-01T11:21:49.184Z",
+        "updatedAt": "2024-05-01T11:21:49.184Z",
+        "slug": [
+            "Montek",
+            "Lc",
+            "Kid",
+            "Syrup",
+            "60ml"
+        ],
+        "brand": "SUN PHARMA",
+        "description": "Montek LC Kid Syrup is a paediatric medicine used for the management of symptoms of allergic rhinitis such as a runny & stuffy nose, blockage in the airways, sneezing, itching, watery eyes and other allergic symptoms. It is a combination of two medicines montelukast and levocetirizine. It works by blocking the production of chemicals responsible for producing the symptoms of allergy. It is advised to take this medicine preferably at bedtime as it may cause dizziness.",
+        "id": "616bd28c-8fc0-4748-bbc8-b9d98a8fd837",
+        "category": [
+            "cold",
+            "flu",
+            "eye",
+            "allergy"
+        ],
+        "stock": 10,
+        "type": "medicine",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F9ed36f0d-7797-4612-b13e-1b59b64ae444download.jpeg?alt=media&token=d8e81386-8721-4b20-a756-717e34848fe1",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fec64e157-34d6-4eef-bc12-f234dc0d9dbfmontek_lc_kid_syrup_60ml_590964_3_0.jpeg?alt=media&token=34a0adbb-4ca1-4fea-86fe-e285a02e1550"
+        ]
+    },
+    {
+        "prescriptionRequired": false,
+        "updatedAt": "2024-05-05T13:05:13.178Z",
+        "description": "Vicks BabyRub Soothing Balm is an ointment formula consisting of Aloe vera extract, Cocos nucifera (coconut) oil and soft white paraffin for babies that relieve cough and cold. It is specially formulated to soothe, moisturise and relax the baby gently.\n\nComposed of fragrances like Lavender, Eucalyptus & Rosemary, it is the perfect choice to provide a calming effect if your baby is fussy and irritable due to cold and cough. The rub also helps your baby relax and get rid of a congested nose. The product is non-medicated. Therefore, it is absolutely safe for children.\n\n\n\nBenefits\nGrowing babies experience sleep pattern alteration from the age of 4 months old and they start skipping naps or even don't sleep properly at night, which is essential for their development. The loving touch of parents and a gentle rub of Vicks BabyRub Balm helps your baby relax and gives them a night of good sleep. A gentle massage of Vicks BabyRub is also helpful to maintain the natural moisture and softness of the baby’s skin.\n\n\n\nIngredients\nAloe Vera (Aloe barbadensis, Lf., extract) 0.0286\nCoconut Oil (Cocos nucifera, Fr., extract) 0.5357\nExcipients (Fragrances and White Soft Paraffin)\n\n\nUses\nTo provide calmness and a soothing effect to the baby.\nTo fight with cough and cold.\nProvides a sense of warmth to the baby.\nHelpful to moisturise and soften the baby’s skin.\nHelps to regulate the sleep cycle and provide all-around comfort to the baby.\n\n\nHow to Use\nRub the Vicks BabyRub balm gently on the neck and chest of the child. During the night, gently massage the chest and stomach to help moisturise, soothe and comfort.\n\n\n\nSafety Information\nFor external use only.\nSafe to use for babies from the age of 3 months to 5 years.\nThe product is non-medicated and is not intended to diagnose, treat or prevent any disease or health condition.\n\n\nWarning\nKeep it out of the reach of children.\nDo not swallow it.\nNot for internal use.",
+        "price": 50,
+        "type": "personal-care",
+        "name": "Vicks Babyrub 10ml Specifically For Babies-Moisturize",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F1f67af1a-a479-4dfd-a13a-e2a6e6b2a5a1vicks-babyrub-10ml-specifically-for-babies-moisturize-2-1669710480.webp?alt=media&token=9661eb7e-df4f-4f57-b31a-f8cdcfc0e217",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F1f67af1a-a479-4dfd-a13a-e2a6e6b2a5a1vicks-babyrub-10ml-specifically-for-babies-moisturize-3-1669710489.webp?alt=media&token=70a46286-1220-4d45-81b5-0820cbc5fd5c",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F1f67af1a-a479-4dfd-a13a-e2a6e6b2a5a1vicks-babyrub-soothing-balm-for-babies-bottle-of-50-ml-6.2-1677525527.webp?alt=media&token=00360044-6db6-4f4c-bbc2-6ce4a886f94b",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F1f67af1a-a479-4dfd-a13a-e2a6e6b2a5a1vicks-babyrub-soothing-balm-for-babies-bottle-of-50-ml-6.3-1677525519.webp?alt=media&token=4260813e-52c6-4404-a9b8-90b664c23ce1"
+        ],
+        "indication": "",
+        "stock": 10,
+        "slug": [
+            "Vicks",
+            "Babyrub",
+            "10ml",
+            "Specifically",
+            "For",
+            "Babies-Moisturize"
+        ],
+        "brand": "Vicks",
+        "id": "62e11832-bbbb-4eff-9c53-c4f2a478530d",
+        "createdAt": "2024-05-05T13:05:13.178Z",
+        "offerPrice": 0,
+        "category": [
+            "baby"
+        ],
+        "sideEffects": ""
+    },
+    {
+        "slug": [
+            "L",
+            "Hist",
+            "Mont",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "sideEffects": "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them\nCommon side effects of L-Hist Mont\nNausea\nDiarrhea\nDryness in mouth\nFatigue\nHeadache\nSkin rash\nSleepiness\nVomiting\nUpper respiratory tract infection\nSore throat\nFever\nAbdominal pain\nIncreased liver enzymes",
+        "price": 250,
+        "updatedAt": "2024-05-01T08:33:20.368Z",
+        "stock": 10,
+        "description": "L-Hist Mont Tablet is a combination medicine used in the treatment of allergic symptoms such as runny nose, stuffy nose, sneezing, itching, swelling, watery eyes and congestion or stuffiness. It also reduces inflammation in the airways and make breathing easier.\n\nL-Hist Mont Tablet is taken with or without food in a dose and duration as advised by the doctor. The dose you are given will depend on your condition and how you respond to the medicine. You should keep taking this medicine for as long as your doctor recommends. If you stop treatment too early your symptoms may come back and your condition may worsen. Let your healthcare team know about all other medications you are taking as some may affect, or be affected by this medicine.\n\nThe most common side effects are nausea, diarrhea, vomiting, dryness in the mouth, headache, skin rash, flu-like symptoms, and fatigue. Most of these are temporary and usually resolve with time. Contact your doctor straight away if you are at all concerned about any of these side effects. This medicine may cause dizziness and sleepiness, so do not drive or do anything that requires mental focus until you know how this medicine affects you. Avoid drinking alcohol while taking this medicine as it can worsen your sleepiness.\n\nNever support self-medication or recommend your medicine to another person. It is beneficial to have plenty of fluids while taking this medication. Before you start taking this medicine it is important to inform your doctor if you are suffering from kidney disease.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fed1551f7-39d7-4243-9aab-239e428ffd1dl_hist_mont_tablet_15s_632337_3_0.jpeg?alt=media&token=11039cc7-501c-47b5-82e6-a9d4fceef90e"
+        ],
+        "id": "63c22fb9-1d54-46d8-a6db-6e237541562a",
+        "category": [
+            "allergy",
+            "skin",
+            "cold",
+            "flu"
+        ],
+        "type": "medicine",
+        "name": "L Hist Mont Strip Of 15 Tablets",
+        "prescriptionRequired": true,
+        "indication": "",
+        "brand": "ALKEM LABORATORIES LTD",
+        "createdAt": "2024-05-01T08:33:20.368Z"
+    },
+    {
+        "description": "Omee D Capsule is an anti-reflux medicine and is used to treat Gastrointestinal reflux disease (GERD). THis medicine is used when it does not respond to omeprazole therapy alone. GERD is a condition where acid from the stomach comes up to the food pipe. This backflow of acid irritates the lining of the food pipe and leads to chest pain and heartburn. Omee D Capsule contains a combination of domperidone and omeprazole. It should be taken as directed by the doctor and in doses and duration as prescribed. Take this medicine before at least 30mins before food.",
+        "updatedAt": "2024-05-01T12:15:21.174Z",
+        "slug": [
+            "Omee",
+            "D",
+            "Strip",
+            "Of",
+            "20",
+            "Capsules"
+        ],
+        "type": "medicine",
+        "name": "Omee D Strip Of 20 Capsules",
+        "id": "63e0c5d7-2d9c-4875-87d7-18edd344e40b",
+        "price": 220,
+        "sideEffects": "Headache, dizziness, stomach pain, diarrhoea, dry mouth",
+        "brand": "ALKEM LABORATORIES LTD",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F92edc6c7-7b08-4bab-b276-f1a29d6b5084omee_d_capsule_20s_0_0.jpeg?alt=media&token=bdbb5b76-36f4-48c7-a20a-447e70441398"
+        ],
+        "category": [
+            "indigestion",
+            "digestive",
+            "abdominal-discomfort"
+        ],
+        "indication": "",
+        "createdAt": "2024-05-01T12:15:21.174Z",
+        "prescriptionRequired": true,
+        "stock": 10
+    },
+    {
+        "category": [
+            "vitamins"
+        ],
+        "price": 45,
+        "updatedAt": "2024-05-05T12:54:31.275Z",
+        "offerPrice": 0,
+        "slug": [
+            "Orsl",
+            "Plus",
+            "Orange",
+            "Flavour",
+            "Tetrapack",
+            "Of",
+            "200ml",
+            "Liquid"
+        ],
+        "description": "Orsl Plus Orange Flavour Tetrapack Of 200ml Liquid",
+        "type": "medicine",
+        "brand": "ORSL",
+        "prescriptionRequired": false,
+        "id": "654cbde3-7147-4430-b117-60fe7680d02d",
+        "sideEffects": "",
+        "indication": "",
+        "stock": 10,
+        "name": "Orsl Plus Orange Flavour Tetrapack Of 200ml Liquid",
+        "createdAt": "2024-05-05T12:54:31.275Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffd31da8a-5885-49d6-9ad7-e2b3c7675492orsl-plus-orange-flavour-tetrapack-of-200ml-liquid-6.1-1694583419.webp?alt=media&token=1e442571-1d83-46d3-8583-f363693cf251",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffd31da8a-5885-49d6-9ad7-e2b3c7675492orsl-plus-orange-flavour-tetrapack-of-200ml-liquid-1-1669710360.webp?alt=media&token=c75f1975-68a7-477b-b114-f6ac98f03e85",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F3e381128-b44a-43c1-8650-382050bb2c9aorsl-plus-orange-flavour-tetrapack-of-200ml-liquid-5.1-1669710363.webp?alt=media&token=0a08cc43-e71e-414d-97eb-96c15a923b27"
+        ]
+    },
+    {
+        "createdAt": "2024-05-01T14:10:41.083Z",
+        "description": "Gelusil Mps Xtracool White Liquid is a digestive-support medication containing a balanced mix of aluminium hydroxide, dimethicone, and magnesium hydroxide. Aluminium hydroxide is an antacid, which neutralises increased stomach acid. Dimethicone is an antiflatulent which helps in releasing the gas. Magnesium hydroxide is a laxative that increases water in the intestine and reduces stomach acid. It is sugar-free and is generally well tolerated.\n\nKey Ingredients:\nActivated Dimethicone I.P.\nMagnesium Hydroxide I.P. (added as Magnesium Hydroxide paste)\nDried Aluminium Hydroxide (added as Aluminium Hydroxide paste)\nSorbitol Solution (70%) I.P. (non-crystallising)\n\nKey Benefits:\nAluminium hydroxide is an antacid, which neutralises increased stomach acid\nDimethicone is an antiflatulent which helps in releasing the gas\nMagnesium hydroxide is a laxative that increases water in the intestine and reduces stomach acid\n\nGood to know:\nSugar-free\n\nConcerns It Can Help With:\nAcidity\nHeartburn\nGas\n\nProduct Form: Liquid\n\nDosage:\n1-2 teaspoonfuls (5-10 ml) ½ -1 hour after each meal or whenever symptoms are pronounced.\n\nWarning:\nDo not take more than 10 teaspoonfuls in 24 hours period\nThis product should not be employed for more than 2 weeks, except under the strict supervision of a physician\n\nSafety Information:\nRead the label carefully before use\nStore away from sunlight\nKeep out of reach of children\nKeep the bottle tightly closed and avoid freezing",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F7c76db87-3304-499e-8c82-a0b31e05dbc3106723_6.png?alt=media&token=29024eec-32cc-4772-b9a1-f0742e786879",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fbbd80958-a4d9-4a67-bab3-b815e4a2fbadScreenshot%202024-05-01%20at%207.39.45%20PM.png?alt=media&token=82c110ed-7173-4ffb-b796-71fde76b8fd3"
+        ],
+        "slug": [
+            "Gelusil",
+            "Mps",
+            "Xtra",
+            "Cool",
+            "Mint",
+            "Flavour",
+            "Sugar",
+            "Free",
+            "Bottle",
+            "Of",
+            "200ml",
+            "Liquid"
+        ],
+        "id": "689f524e-5287-4e1d-9dc0-dc776b04a62c",
+        "type": "medicine",
+        "stock": 10,
+        "updatedAt": "2024-05-01T14:10:41.083Z",
+        "sideEffects": "",
+        "brand": "Gelusil ",
+        "prescriptionRequired": false,
+        "price": 139,
+        "name": "Gelusil Mps Xtra Cool Mint Flavour Sugar Free Bottle Of 200ml Liquid",
+        "indication": "",
+        "category": [
+            "digestive"
+        ]
+    },
+    {
+        "id": "6d5ee302-dbe8-44bd-8de3-0eb0356111e3",
+        "prescriptionRequired": false,
+        "indication": "",
+        "createdAt": "2024-05-01T08:17:13.250Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F277fd551-520a-4f7a-997b-8fa0d167bbbeparacip-650mg-paracetamol-tablets.jpeg?alt=media&token=e0b73be2-a468-49ed-9e6d-c7bafa79e699"
+        ],
+        "updatedAt": "2024-05-01T08:17:13.250Z",
+        "description": "Paracip 650 tablet is a painkiller medicine. It is used to reduce fever and relieve pain. Paracip 650 contains paracetamol which is also known as acetaminophen. Dolo 650mg tablet, Crocin 650mg Advance tablet, Lanol Er 650mg tablet, P 650mg tablet, and Paracip 650mg tablet are some other medicines with paracetamol molecule.\n\nParacetamol in Paracip 650 works by inhibiting the action of certain substances which cause pain and act on the brain centre which is responsible for controlling body temperature. Chances of getting side effects with Paracip 650 are mostly rare, but sometimes you may experience skin rash or itching.\n\nTaking Paracip 650 tablets for a prolonged duration and in high doses is associated with serious liver damage. It is recommended to take Paracip 650 tablets with food. You should not take more than 4 tablets of Paracip 650. Do not take this medicine if you are taking other medicines containing paracetamol. If your fever or pain does not subside after taking Paracip 650, consult your doctor.",
+        "category": [
+            "cold",
+            "flu",
+            "cough"
+        ],
+        "type": "medicine",
+        "sideEffects": "Skin rash, itching, blisters, allergic reaction",
+        "price": 20.6,
+        "stock": 10,
+        "slug": [
+            "Paracip",
+            "650mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "brand": "CIPLA GX",
+        "name": "Paracip 650mg Strip Of 10 Tablets"
+    },
+    {
+        "price": 94.6,
+        "category": [
+            "indigestion",
+            "digestive",
+            "abdominal-discomfort"
+        ],
+        "sideEffects": "Headache, nausea, vomiting, stomach pain",
+        "id": "7082b079-a076-4c8f-943e-26799a26b73c",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F8d144400-759a-4b19-9f93-75f4cf34a59571VH9zjz5iL.jpeg?alt=media&token=a6f677bc-2358-46b6-9ec1-8c00c1aec7c4"
+        ],
+        "stock": 10,
+        "description": "Omez 40 capsule is used to treat heartburn, stomach and intestinal ulcers. It contains omeprazole as an active ingredient. This capsule works by reducing the amount of acid produced in the stomach. Thus, also used for treating Zollinger-Ellison syndrome and chest pain due to stomach acid reflux disease. Omez should be used under medical prescription and for the duration it is prescribed. It should be taken without food. Nausea, vomiting, diarrhoea and headache are some of the side effects of the Omez 20 capsule. These side effects normally go away with time, but if you feel your condition deteriorates, you should consult your doctor or visit the hospital.",
+        "indication": "",
+        "createdAt": "2024-05-01T12:19:52.667Z",
+        "slug": [
+            "Omez",
+            "40mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "updatedAt": "2024-05-01T12:19:52.667Z",
+        "prescriptionRequired": true,
+        "name": "Omez 40mg Strip Of 10 Tablets",
+        "type": "medicine",
+        "brand": "DR REDDY'S LABORATORIES LTD"
+    },
+    {
+        "brand": "METROGYL",
+        "sideEffects": "Increased appetite, hair loss, weight variations, headache, vomiting",
+        "name": "Metrogyl 400mg Strip Of 15 Tablets",
+        "price": 25.53,
+        "id": "71625d85-7e59-4564-a2ad-1dc131faf839",
+        "description": "Metrogyl 400mg tablet is used to treat diarrhoea, dysentery, and infections caused by parasites, bacteria, and microorganisms. It contains metronidazole, which inhibits the growth of harmful organisms and prevents the spread of infection. You should take the Metrogyl 400 tablet as advised by your doctor for the prescribed duration. It is recommended to take this tablet with meals to avoid stomach upset. You should always complete the course of treatment with this medicine. Incomplete treatment may result in treatment failure and increase the risk of re-infection. Do not miss any dose or stop taking Metrogyl 400 tablets alone.",
+        "images": [
+            "https://dawa24seven.com/cdn/shop/files/MET0053_1_1.webp?v=1713871494&width=1206"
+        ],
+        "prescriptionRequired": false,
+        "slug": [
+            "Metrogyl",
+            "400mg",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "type": "medicine",
+        "indication": "Pain",
+        "stock": 80,
+        "category": [
+            "pain",
+            "relief"
+        ]
+    },
+    {
+        "indication": "Pain & Fever",
+        "name": "Combiflam Strip Of 20 Tablets",
+        "type": "medicine",
+        "description": "Combiflam tablets are a commonly used painkiller medication that helps to treat various conditions, including headaches, toothaches, body aches, muscle pain, joint pain, and fever. The active ingredients in Combiflam are Ibuprofen and paracetamol. Combiflam works by blocking the release of certain chemical messengers that cause pain, fever, as well as inflammation (redness and swelling). To ensure the best results, Combiflam should be taken as prescribed by a doctor, with or after food, for the recommended duration. It is important to follow the prescribed dose and not skip any doses or take more than advised.",
+        "brand": "MACLEODS PHARMACEUTICALS",
+        "category": [
+            "cold",
+            "flu"
+        ],
+        "slug": [
+            "Combiflam",
+            "Strip",
+            "Of",
+            "20",
+            "Tablets"
+        ],
+        "id": "731c2b31-1ed9-4afa-bef8-1cd2d425aa3c",
+        "images": [
+            "https://dawa24seven.com/cdn/shop/files/combiflam-plus-headache-relief-tablet-strip-of-10-tablets-3-1669710916.webp?v=1713871694"
+        ],
+        "sideEffects": "Increased appetite, hair loss, weight variations, headache, vomiting",
+        "price": 50.65,
+        "prescriptionRequired": false,
+        "stock": 50
+    },
+    {
+        "type": "medicine",
+        "name": "Pantosec Dsr Strip Of 10 Capsules",
+        "updatedAt": "2024-05-01T14:47:31.660Z",
+        "stock": 10,
+        "prescriptionRequired": false,
+        "id": "75bb407d-c6b2-4e09-a419-8e6ce89d76a8",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F24859b5e-57a1-4b03-a6b5-547616a98cecpantosec_dsr_capsule_10_s_0.jpeg?alt=media&token=49539593-f143-4bb1-99c3-3bc12ca4d0ba"
+        ],
+        "category": [
+            "indigestion",
+            "abdominal-discomfort",
+            "digestive"
+        ],
+        "sideEffects": "\nDiarrhoea, headache, dry mouth",
+        "description": "Pantosec DSR capsule is an anti-reflux medicine containing a combination of pantoprazole and domperidone as active components. It is used to treat gastroesophageal reflux disease (GERD), oesophagitis, and gastric and duodenal ulcers. It is also used to provide relief of nausea and vomiting, a sense of fullness, upper abdominal discomfort, and regurgitation of stomach contents. Pantosec DSR capsule prevents the backflow of undigested food to the food pipe.\n\nAn ulcer is a sore present in the lining of the stomach or intestine due to excess acid. This excess of acid can also cause acidity, heartburn and backflow of acid (acid reflux). Pantosec DSR capsule works by reducing acid production and preventing the backflow of acid to the food pipe.\n\nPantosec DSR capsules should be taken as prescribed by your doctor. Pan D capsule, Pantocid DSR capsule, Dompan SR and Uplan DSR capsule are other medicines containing pantoprazole and domperidone. Try to take this medicine first thing in the morning on an empty stomach or at least 1 hour before a meal. Before taking this medicine or initiating the treatment, let your doctor know about your detailed medical and medication history.\n\nAlong with taking medicine on time, certain lifestyle modifications can help you manage your acidity problem better. Try eating smaller meals, eating slowly, avoiding overeating, and lying down immediately after having a meal. Limit your intake of alcohol, avoid smoking, and maintain a healthy weight. Consult the doctor to understand what works best for you.",
+        "brand": "CIPLA GX",
+        "slug": [
+            "Pantosec",
+            "Dsr",
+            "Strip",
+            "Of",
+            "10",
+            "Capsules"
+        ],
+        "price": 137.94,
+        "createdAt": "2024-05-01T14:47:31.660Z",
+        "indication": ""
+    },
+    {
+        "category": [
+            "vitamins"
+        ],
+        "price": 110,
+        "indication": "",
+        "brand": "ZINCOVIT",
+        "sideEffects": "An exhaustive list of probable side effects of Zincovit is given below.\nHot flushes.\nFoul taste in mouth.\nBurps leaving a metallic aftertaste.\nAllergy and itching.\nDry mouth.\nRisk of kidney stones.\nNerve damage and slowdown of nervous system.\nTrouble in urination",
+        "description": "Zincovit Tablet is a nutritional supplement enriched with multivitamins and multi-minerals that are essential for the proper functioning of the body. Zincovit Tablet is specially formulated to support the overall functioning of the body, including the heart, nervous system, and immune system.\n\nKey Ingredients:\nVitamin B2, Vitamin B6, Vitamin B1, Vitamin A, Manganese, Folic Acid, lodine, Chromium, Selenium, Biotin, Copper, Vitamin D3(as Lichen), Vitamin B12, Vitamin C, Grape Seed Extract, Vitamin B3, Zinc, Vitamin E, Magnesium, Vitamin B5, Sugar, Carriers (170(1), 460(1)), Vitamins, Glazing agents (553(iii), 462, 901, 903), Lactose, Grape Seed Extract, Disintegrant (466), Polacrilin Potassium, Minerals, Starch, Binding agents (1208, 1201), Diluent (341(ii)), Colours (171, 124), Lubricant (470(1)). Methacrylic Acid Copolymer, Cellulose acetate phthalate, Thickener (414) & Preservative (219)\n\nKey Benefits:\nGrape seed extract is a natural antioxidant that neutralises free radicals and improves the response of the human body to infections\nIt may enhance the immune system\nThe tablet helps in the formation of red blood cells and enhances the absorption of iron in the body\nIt can help improve appetite, ensure quick recovery from illnesses and help counter fatigue\nIt is essential for the proper functioning of the nervous system\n\nGood to know:\nEnriched with multivitamins, multi-minerals and antioxidants\n\nEffects of Deficiency:\nLow immunity\nFatigue",
+        "type": "medicine",
+        "prescriptionRequired": false,
+        "id": "7bbf2944-bbe2-4f2d-9ff0-979857a9f7e9",
+        "name": "Zincovit Strip Of 15 Tablets (Green)",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fda1308ca-e956-4fd5-b616-8807b5bb3728zincovit-strip-of-15-tablets-green-7-1702990450.webp?alt=media&token=df1c96a8-b0a3-42c6-8fa3-af92b62817f1",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe8024f20-8fca-4c1b-a100-97b96664248czincovit-strip-of-15-tablets-green-2-1702990444.webp?alt=media&token=f0777ad1-1ee9-45b6-a088-2e1c53603522"
+        ],
+        "updatedAt": "2024-05-01T07:44:31.894Z",
+        "stock": 10,
+        "createdAt": "2024-05-01T07:44:31.894Z",
+        "slug": [
+            "Zincovit",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets",
+            "(Green)"
+        ]
+    },
+    {
+        "type": "medicine",
+        "createdAt": "2024-05-01T14:34:05.415Z",
+        "updatedAt": "2024-05-01T14:34:05.415Z",
+        "price": 0,
+        "name": "Volini Spray for Sprain, Muscle and Joint Pain 40 gm",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F9c242b19-769c-4663-89b0-c421d55cb1f9volini_spray_40gm_46241_0_3.jpeg?alt=media&token=2f384986-9bdf-45b6-b4b4-298c9f972279"
+        ],
+        "brand": "Volini ",
+        "prescriptionRequired": false,
+        "category": [
+            "pain relief"
+        ],
+        "stock": 10,
+        "indication": "",
+        "sideEffects": "",
+        "slug": [
+            "Volini",
+            "Spray",
+            "for",
+            "Sprain,",
+            "Muscle",
+            "and",
+            "Joint",
+            "Pain",
+            "40",
+            "gm"
+        ],
+        "id": "839d3895-2aa3-4e3b-be20-d88d1852cb18",
+        "description": "Volini Spray is a pain relief spray which provides instant relief from muscle pain, sprain and pain in the joints. Scientifically formulated with the ingredients such as Diclofenac diethylamine, Methyl Salicylate and Menthol, it contains microparticles which provide quick relief from pain by penetrating deeply. Musculoskeletal and joint pain can also be cured by its use.\n\nKey Ingredients:\nDiclofenac Diethylamine Equivalent to Diclofenac Sodium 1%\nMethyl Salicylate IP\nMenthol IP\nVirgin Linseed Oil BP\n\nKey Benefits:\nProvides instant pain relief\nProvides effective relief from pain in Joint, knee, back, neck and shoulder\nHelps in pain caused due to muscle pulls, sprain, strain and sports injuries\nMicroparticles allow deeper penetration and provide quick pain relief\nUseful in musculoskeletal, joint, and soft tissue disorders\nIt provides instant and long-lasting pain relief from knee pain, joint pain, back pain, calf pain, and neck pain\n\nDirections For Use\nShake well before each use. Spray the contents from 5 cm distance on the affected areas 3-4 times in a day or, as directed by the physician.\n\nSafety Information:\nRead the label carefully before use\nKeep out of the reach of children\nUse under medical supervision\nDo not exceed the recommended dosage\nFor external use only\nShould be applied only to intact skin surfaces and not to skin wounds and open injuries\nShould not come into contact with eyes, mucous membranes and should not be ingested\nStore in a cool and dry place"
+    },
+    {
+        "slug": [
+            "Omez",
+            "20",
+            "Strip",
+            "Of",
+            "20",
+            "Capsules"
+        ],
+        "price": 64.2,
+        "updatedAt": "2024-05-01T12:18:04.642Z",
+        "prescriptionRequired": true,
+        "sideEffects": "Headache, nausea, vomiting, stomach pain",
+        "description": "Omez capsule is used to treat heartburn and stomach and intestinal ulcers. It contains omeprazole as an active ingredient. This capsule works by reducing the amount of acid produced in the stomach. Thus, also used for treating Zollinger-Ellison syndrome and chest pain due to stomach acid reflux disease.\n\nOmez should be used under medical prescription and for the prescribed duration. It should be taken without food. Nausea, vomiting, diarrhoea and headache are some side effects of the Omez 20 capsule. These side effects normally go away with time, but if your condition deteriorates, you should consult your doctor or visit the hospital.\n\nA few other capsules with omeprazole are Omee 20 capsule, Ocid 20mg capsule, Nogacid 20mg capsule, Oskar 20mg capsule, and Omecip 20mg capsule. Inform your doctor if you are using this medicine as a continuous treatment of acidity for more than 4 weeks or if the symptoms are persistent even after taking the medicine.",
+        "brand": "DR REDDY'S LABORATORIES LTD",
+        "name": "Omez 20 Strip Of 20 Capsules",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F4a381caf-ca53-47f3-a65e-ba43566e7484omez_20mg_capsule_20s_53652_0_1.jpeg?alt=media&token=b95564a8-8a06-4ec4-8f4c-f41e993deb6a"
+        ],
+        "type": "medicine",
+        "indication": "",
+        "id": "853b87e7-a358-414d-af71-a7702fa4f07c",
+        "category": [
+            "digestive",
+            "indigestion",
+            "abdominal-discomfort"
+        ],
+        "createdAt": "2024-05-01T12:18:04.642Z",
+        "stock": 10
+    },
+    {
+        "stock": 10,
+        "category": [
+            "cold",
+            "cough"
+        ],
+        "id": "864acf06-4247-46b5-9e7e-264572ddcd97",
+        "sideEffects": "Abdominal pain, Drowsiness, Dry mouth, Fatigue, Vomiting, Diarrhoea",
+        "updatedAt": "2024-05-01T11:23:58.489Z",
+        "description": "Levocetirizine(5.0 Mg) + Montelukast(10.0 Mg)",
+        "prescriptionRequired": true,
+        "createdAt": "2024-05-01T11:23:58.489Z",
+        "price": 340,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff9545079-caa7-44fd-b8fd-5e274a8942ebmontek-lc-tablets-15_montek-lc-tablets-15--TM-TACR1-091644_1.webp?alt=media&token=90059477-2ad7-4680-b342-223c42a839e1"
+        ],
+        "brand": "SUN PHARMA",
+        "name": "Montek Lc Strip Of 15 Tablets",
+        "slug": [
+            "Montek",
+            "Lc",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "indication": "",
+        "type": "medicine"
+    },
+    {
+        "sideEffects": "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them Common side effects of Refresh Eye irritation Burning eyes Eye discomfort Eye itching Eye pain",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc17eb935-3ed6-4825-a5df-e1f374ceb4ebrefresh-tears-05-bottle-of-10ml-eye-drops-3-1671740759.webp?alt=media&token=90c16f74-0cc5-4a0a-90ed-617cb2760815",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F0bf51e46-60a2-446b-a2a6-61e62105aaf3refresh-tears-05-bottle-of-10ml-eye-drops-1-1671740741.webp?alt=media&token=6fcb9bc8-a0f2-435b-909f-ffe21eee684c",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F36c0fd5a-6a24-4b3b-a4e8-e80923c30ceerefresh-tears-05-bottle-of-10ml-eye-drops-6-1671740761.webp?alt=media&token=75bda1d9-5b3f-43d6-b6c8-4340eed062fe"
+        ],
+        "updatedAt": "2024-05-01T05:38:19.520Z",
+        "description": "Refresh Tears Eye Drop is an eye lubricant or artificial tears used to relieve dry eyes. This can happen because not enough tears are made to keep the eye lubricated. It helps to soothe the irritation and burning seen in dry eyes by maintaining proper lubrication of the eyes.  Refresh Tears Eye Drop is usually taken when needed. Use the number of drops as advised by your doctor. Wait for at least 5-10 minutes before delivering any other medication in the same eye to avoid dilution. Do not use a bottle if the seal is broken before you open it. Always wash your hands and do not touch the end of the dropper. This could infect your eye. This medicine may require long-term use and can be taken safely for as long as you need it.",
+        "brand": "Refresh Tears",
+        "type": "medicine",
+        "stock": 10,
+        "createdAt": "2024-04-30T13:44:08.029Z",
+        "id": "8f911585-983c-4cdf-9898-12ff94eb9810",
+        "slug": [
+            "Refresh",
+            "Tears",
+            "0.5%",
+            "Bottle",
+            "Of",
+            "10ml",
+            "Eye",
+            "Drops"
+        ],
+        "category": [
+            "pain relief"
+        ],
+        "name": "Refresh Tears 0.5% Bottle Of 10ml Eye Drops",
+        "indication": "Burning, irritation and/or discomfort due to dryness of eyes",
+        "price": 133.64,
+        "prescriptionRequired": false
+    },
+    {
+        "description": "Every new mom wants to buy nothing but the best for their babies. Pampers is one of the most trusted brands when it comes to baby diapers. A newborn baby needs to be comfortable and taken extra care of and Pampers diapers are the best for them. It is available in various sizes and provides a cozy feeling to the baby.\n\nBenefits\nPampers offers 5-star skin protection.\nComfortable fit with an extra dry layer, for up to 12 hours of dryness.\nTape-free.\nHypoallergenic, 0% Parabens.\nIt also comes with Pampers Wetness Indicator.\nAllows the baby's skin to breathe better.\nSoft and stretchy waist for free movement.\nThe diapers have aloe-vera-based baby lotion in them which prevents diaper rash.\nUses\nNewborn baby pampers are ultra-thin, have a cottony softness, and keep your baby’s skin moisturized against friction. The all-night absorbency feature of these diapers allows your baby to sleep through the night and not get fussy. The diaper also comes with a fastening system that ensures it does not slip off even when the baby moves. With Pampers, both the baby and the mother can be carefree.\n\nHow to Use\nThe pack comes with instructions on how to use it, however, always use Pampers Sensitive Wipes to clean your baby first. Put on a diaper and adjust the stretchy tabs so it isn't too tight or too loose. You should be able to fit two fingers snugly between the diaper and their stomach to ensure the right fit.\n\nSafety Information\nRead the label carefully before use.\nStore it properly.\nKeep out of reach of children.\nFAQ\n1. What sizes of Pampers are available?\n\nPampers is available in the sizes, newborn, small, medium, large and XL.\n\n2. How many times should I change a newborn baby’s diapers?\n\nEven though each baby has a different timing, newborn babies may end up requiring diaper changes at least 8-10 times a day.\n\n3. How long can I use newborn diapers?\n\nYou may be able to use newborn diapers for the first few weeks only. It also depends on your baby’s weight and height.\n\n4. Are the ingredients in Pampers safe for babies?\n\nYes. Pampers products are dermatologically tested and they are safely used all over the world, every day. All materials in the products are thoroughly evaluated and the ingredients have been confirmed to be gentle on babies.",
+        "updatedAt": "2024-05-05T08:46:42.846Z",
+        "brand": "Pampers",
+        "price": 360,
+        "prescriptionRequired": false,
+        "slug": [
+            "Pampers",
+            "New",
+            "Baby",
+            "Diaper",
+            "Size",
+            "New",
+            "Born",
+            "Packet",
+            "Of",
+            "24"
+        ],
+        "offerPrice": 0,
+        "type": "personal-care",
+        "name": "Pampers New Baby Diaper Size New Born Packet Of 24",
+        "sideEffects": "",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7085398-e367-4f7a-94f3-568e691fe3bapampers-new-baby-diaper-size-new-born-packet-of-24-6.1-1669709994.webp?alt=media&token=95709ae3-50d2-4322-8916-635d79d96a84",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7085398-e367-4f7a-94f3-568e691fe3bapampers-new-baby-diaper-size-new-born-packet-of-24-7-1669709990.webp?alt=media&token=d1b095d3-7551-4326-b4b2-f0fbc56e07b8",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7085398-e367-4f7a-94f3-568e691fe3bapampers-new-baby-diaper-size-new-born-packet-of-24-6.2-1669709992.webp?alt=media&token=53241f9b-88d7-4e17-8b12-41dcf255e738"
+        ],
+        "indication": "",
+        "createdAt": "2024-05-05T08:46:42.846Z",
+        "category": [
+            "baby"
+        ],
+        "stock": 10,
+        "id": "986aae68-9495-4436-99f8-c44655c7545d"
+    },
+    {
+        "sideEffects": "Rashes, headache, migraine, fatigue",
+        "stock": 10,
+        "price": 60.36,
+        "indication": "",
+        "category": [
+            "pain relief"
+        ],
+        "name": "Primolut N 5mg Strip Of 10 Tablets",
+        "id": "9b740830-39fb-4064-bcd3-ec8ee1423782",
+        "type": "medicine",
+        "description": "Primolut N tablet is used to treat menstrual and gynaecological disorders. It contains norethisterone as an active ingredient. This medicine is a synthetic form of the female sex hormone progesterone. It imitates the actions of the natural hormone progesterone, normalizing the menstrual cycle.\n\nTake the Primolut N tablet as advised by your doctor and for the duration as specified. Inform your doctor about your complete medical and medication history before initiating treatment with this medicine. Some other medicines containing norethisterone are Regestrone 5 tablet, Sysron N tablet and Gynaset 5 tablet.\n\nBreast tenderness, headaches, nausea, indigestion, tummy pain, and unusual vaginal bleeding are a few common side effects that can be observed during the treatment. However, it is not necessary that everyone experience the same.",
+        "createdAt": "2024-05-01T12:25:07.601Z",
+        "updatedAt": "2024-05-01T12:25:07.601Z",
+        "brand": "ZYDUS HEALTHCARE LIMITED",
+        "slug": [
+            "Primolut",
+            "N",
+            "5mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F67c7557e-4cb9-47c9-8f33-fd6b135701bf71Q6mzPq6ML._AC_UF1000%2C1000_QL80_.jpg?alt=media&token=45c1fd1e-c80e-4adf-8ef7-b58f0e4c18bb"
+        ],
+        "prescriptionRequired": false
+    },
+    {
+        "stock": 0,
+        "createdAt": "2024-05-01T08:05:31.170Z",
+        "type": "medicine",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc3a81bb9-24b6-4628-ace4-ea21acccc99191bz6RZlHZL.jpeg?alt=media&token=f2c4211a-a640-4d95-9744-3fda8e2f877f"
+        ],
+        "name": "Dolo 650mg Strip Of 15 Tablets",
+        "id": "9c91e963-eb0a-428e-8543-8f5110d8f5a9",
+        "category": [
+            "cold",
+            "flu",
+            "cough"
+        ],
+        "price": 33,
+        "description": "Dolo 650 tablet contains an active ingredient called paracetamol, which works by blocking the formation of certain chemicals that cause pain and fever in the body. This medicine is used to treat various conditions such as headache, backache, migraine, toothache, body pain, and even fever associated with diseases like typhoid or the common cold.\n\nPain is an unpleasant sensation that can be caused by various factors such as injury, tissue damage, or illness. Dolo 650 tablets can provide relief from these symptoms and help manage pain and fever. Other medicines such as Crocin 650mg Advance, Lanol Er 650mg, P 650mg, and Dolopar 650mg also contain paracetamol as their active ingredient.\n\nThe dose and duration of Dolo 650 tablet can vary depending on the individual's condition and the severity of symptoms. However, it is recommended that you do not take more than four tablets of Dolo 650 in any 24 hours. It is also important to stop taking the medicine once your pain and fever have been relieved.\n\nIt is important to note that Dolo 650 tablet is not meant for children under the age of 12. Avoid taking Dolo 650 too often or for prolonged periods without consulting a medical professional. Additionally, if you are allergic to paracetamol or any ingredient in Dolo 650 tablet, you should not take this medicine.",
+        "brand": "MICRO LABS",
+        "slug": [
+            "Dolo",
+            "650mg",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "updatedAt": "2024-05-01T08:05:31.170Z",
+        "prescriptionRequired": false,
+        "indication": "",
+        "sideEffects": "Skin rash, itching, blisters"
+    },
+    {
+        "price": 69.87,
+        "description": "Monocef 1gm injection is an antibiotic medicine. It is used to treat bacterial infections of the brain (meningitis), lungs, ear, stomach/abdomen, urinary tract, joints, and skin. It is also used during surgical procedures to prevent future infections.",
+        "prescriptionRequired": true,
+        "category": [
+            "skin"
+        ],
+        "sideEffects": "Pain and itching at injection site, diarrhea",
+        "indication": "bacterial infections of the brain (meningitis), lungs, ear, stomach/abdomen, urinary tract, joints, and skin",
+        "stock": 10,
+        "id": "9d230439-5f24-47aa-8105-508660bd184a",
+        "type": "medicine",
+        "brand": "ARISTO PHARMACEUTICALS PVT LTD",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff095918e-2be8-4be4-9340-072294809eacmonocef-1gm-injection.jpeg?alt=media&token=db8d67dd-e0ab-4ea2-a0a2-f755cc24239d"
+        ],
+        "createdAt": "2024-04-30T14:08:56.127Z",
+        "slug": [
+            "Monocef",
+            "1gm",
+            "Injection"
+        ],
+        "name": "Monocef 1gm Injection"
+    },
+    {
+        "createdAt": "2024-05-01T14:31:25.095Z",
+        "indication": "",
+        "name": "Volini Pain Relief Gel Tube Of 75 G",
+        "prescriptionRequired": false,
+        "description": "The 75g Volini Gel is a pain relief gel that comes in a squeeze tube for easy application on the problem areas of the skin. Volini works by making blood vessels open up near the skin, in the area where it is applied. This increases blood flow to the painful area, which relieves the pain. Volini cream and Volini spray also work similarly, the active ingredients like Methyl Salicylate and Menthol work to give quick pain relief for sprains and muscle aches.\n\nBenefits\nEasy absorption means this Volini ointment provides fast pain relief.\nReduces inflammation and swelling and pain in skeletal muscle disorders as well as joint disorders.\nVolini Gel provides muscle relaxation in sprains and other conditions like Sciatica and Myositis.\nMuscle relaxation and heating can also bring long term pain relief to problem areas and pain caused due to injuries.\nIngredients\nVolini Gel contains active ingredients Menthol and Methyl Salicylate, as well as Diclofenac Diethylamine and Linseed oil.\n\nUses\nQuick pain relief for a wide variety of pain types, including aches and sprains.\n\nHow to Use\nApply some of the gel on the skin where you have pain\nSpread the gel evenly around the area\nIf necessary, massage it softly\nIf there is too much pain or sensitivity DO NOT massage the area.\nApply 3-4 times a day or as advised by your doctor.\nSafety Information\nDo not store in hot places, keep away from sunlight.\n\nKeep out of the reach of children.\n\nRead the label and instructions carefully. Close the lid tightly after use.\n\nOnly for external usage.\n\nIf the pain persists, please contact your doctor.",
+        "type": "medicine",
+        "id": "9d5d137f-e572-4f2e-8c23-3bce559a9941",
+        "sideEffects": "Volini cream can cause side effects like:\n\nSkin irritation\n\nRashes\n\nItching\n\nRedness\n\nSwelling\n\nBurning sensation\n\nContact dermatitis",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd17fd516-df1c-4933-b611-f1df642ad27evolini_gel_50gm_46244_0_3.jpeg?alt=media&token=de160209-7715-4f01-842b-ffc60c5a66ff",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd17fd516-df1c-4933-b611-f1df642ad27evolini_gel_50gm_156981_1_2.jpeg?alt=media&token=a09186d2-b47a-4150-a5b0-5b6f4a374197"
+        ],
+        "category": [
+            "pain relief"
+        ],
+        "price": 265,
+        "updatedAt": "2024-05-01T14:31:25.095Z",
+        "stock": 10,
+        "slug": [
+            "Volini",
+            "Pain",
+            "Relief",
+            "Gel",
+            "Tube",
+            "Of",
+            "75",
+            "G"
+        ],
+        "brand": "Volini "
+    },
+    {
+        "indication": "Nutritional supplement",
+        "updatedAt": "2024-05-01T07:50:04.884Z",
+        "createdAt": "2024-05-01T07:50:04.884Z",
+        "sideEffects": "It has some side effects such as Constipation,Abdominal pain,Allergic reactions,Abdominal bleeding.",
+        "brand": "ARISTO PHARMACEUTICALS PVT LTD",
+        "type": "medicine",
+        "category": [
+            "vitamins"
+        ],
+        "name": "Aristo V Total Strip Of 10 Tablets",
+        "stock": 10,
+        "prescriptionRequired": false,
+        "description": "Aristo V-Total tablet is a nutritional supplement containing ginseng along with multivitamins & multi-minerals. It helps protect the body from damage, improves immunity, metabolism and other body functions. It also promotes skin, hair, bones and healthy joints. Take Aristo V-Total tablet as advised by the doctor.",
+        "price": 113.82,
+        "slug": [
+            "Aristo",
+            "V",
+            "Total",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fb3dea1ec-20f5-4b19-9609-a56fc8416caaVTO0006_1_2.webp?alt=media&token=5e7fae11-6f03-4199-9bed-ebd5a4dcb224",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F97e9cb90-2c18-490a-8fb3-3ea7739c32eb91Cfyt9aTiL._AC_UF1000%2C1000_QL80_.jpg?alt=media&token=ae1ca1be-afdc-418c-90d2-c35a37641a29"
+        ],
+        "id": "a0610903-724d-4cae-b910-37cae9daf18d"
+    },
+    {
+        "price": 85,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F4704acf2-2b23-4ddc-ba56-941429c8242151eGAdW-XKL_prev_ui.png?alt=media&token=63570d03-b4a4-4c9a-8a70-06625e4f454b"
+        ],
+        "prescriptionRequired": false,
+        "description": "The new non-greasy softening formula now with double amount of precious Shea Butter, repairs skin dryness to give deep moisturisation and long lasting smoothness.\n\nUsage: Apply twice daily\n\nFeatures:\n\nApply regularly to experience a smoother and softer skin for days\nThe formula with Hydra IQ, reactivates your skin’s own moisture network to give 24 hour moisturisation with just one use\nThe nourishing formula contains Sea Minerals and Hydra IQ that help to repair your skin layer by layer so your skin looks gorgeous\n",
+        "category": [
+            "summer",
+            "home",
+            "skin",
+            "men",
+            "women"
+        ],
+        "stock": 10,
+        "sideEffects": "",
+        "name": "Nivea Body Milk Lotion 75ml",
+        "brand": "Nivea ",
+        "slug": [
+            "Nivea",
+            "Body",
+            "Milk",
+            "Lotion",
+            "75ml"
+        ],
+        "id": "a8040a07-3fe1-4bf8-9f8f-86bb04db791c",
+        "createdAt": "2024-05-05T08:43:03.961Z",
+        "type": "personal-care",
+        "offerPrice": 0,
+        "updatedAt": "2024-05-05T08:43:03.961Z",
+        "indication": ""
+    },
+    {
+        "category": [
+            "baby"
+        ],
+        "id": "b0412817-dc7d-4e1a-a8b3-b7cd92bcf05f",
+        "createdAt": "2024-05-05T12:34:54.914Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7085398-e367-4f7a-94f3-568e691fe3bapampers-new-baby-diaper-size-new-born-packet-of-24-6.1-1669709994.webp?alt=media&token=95709ae3-50d2-4322-8916-635d79d96a84",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7085398-e367-4f7a-94f3-568e691fe3bapampers-new-baby-diaper-size-new-born-packet-of-24-7-1669709990.webp?alt=media&token=d1b095d3-7551-4326-b4b2-f0fbc56e07b8",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7085398-e367-4f7a-94f3-568e691fe3bapampers-new-baby-diaper-size-new-born-packet-of-24-6.2-1669709992.webp?alt=media&token=53241f9b-88d7-4e17-8b12-41dcf255e738"
+        ],
+        "slug": [
+            "Pampers",
+            "New",
+            "Baby",
+            "Diaper",
+            "Size",
+            "New",
+            "Born",
+            "Packet",
+            "Of",
+            "24"
+        ],
+        "indication": "",
+        "prescriptionRequired": false,
+        "name": "Pampers New Baby Diaper Size New Born Packet Of 24",
+        "sideEffects": "",
+        "brand": "Pampers",
+        "updatedAt": "2024-05-05T12:34:54.914Z",
+        "stock": 10,
+        "type": "personal-care",
+        "offerPrice": 0,
+        "description": "Every new mom wants to buy nothing but the best for their babies. Pampers is one of the most trusted brands when it comes to baby diapers. A newborn baby needs to be comfortable and taken extra care of and Pampers diapers are the best for them. It is available in various sizes and provides a cozy feeling to the baby.\n\nBenefits\nPampers offers 5-star skin protection.\nComfortable fit with an extra dry layer, for up to 12 hours of dryness.\nTape-free.\nHypoallergenic, 0% Parabens.\nIt also comes with Pampers Wetness Indicator.\nAllows the baby's skin to breathe better.\nSoft and stretchy waist for free movement.\nThe diapers have aloe-vera-based baby lotion in them which prevents diaper rash.\nUses\nNewborn baby pampers are ultra-thin, have a cottony softness, and keep your baby’s skin moisturized against friction. The all-night absorbency feature of these diapers allows your baby to sleep through the night and not get fussy. The diaper also comes with a fastening system that ensures it does not slip off even when the baby moves. With Pampers, both the baby and the mother can be carefree.\n\nHow to Use\nThe pack comes with instructions on how to use it, however, always use Pampers Sensitive Wipes to clean your baby first. Put on a diaper and adjust the stretchy tabs so it isn't too tight or too loose. You should be able to fit two fingers snugly between the diaper and their stomach to ensure the right fit.\n\nSafety Information\nRead the label carefully before use.\nStore it properly.\nKeep out of reach of children.\nFAQ\n1. What sizes of Pampers are available?\n\nPampers is available in the sizes, newborn, small, medium, large and XL.\n\n2. How many times should I change a newborn baby’s diapers?\n\nEven though each baby has a different timing, newborn babies may end up requiring diaper changes at least 8-10 times a day.\n\n3. How long can I use newborn diapers?\n\nYou may be able to use newborn diapers for the first few weeks only. It also depends on your baby’s weight and height.\n\n4. Are the ingredients in Pampers safe for babies?\n\nYes. Pampers products are dermatologically tested and they are safely used all over the world, every day. All materials in the products are thoroughly evaluated and the ingredients have been confirmed to be gentle on babies.",
+        "price": 360
+    },
+    {
+        "type": "medicine",
+        "name": "Roko 2mg Strip Of 10 Capsules",
+        "id": "b1d42e39-abbb-45d4-a30c-fa7fdda71c65",
+        "category": [
+            "abdominal-discomfort"
+        ],
+        "slug": [
+            "Roko",
+            "2mg",
+            "Strip",
+            "Of",
+            "10",
+            "Capsules"
+        ],
+        "indication": "",
+        "updatedAt": "2024-05-01T11:40:51.013Z",
+        "description": "Roko capsule contains loperamide as its active ingredient. It is an antidiarrhoeal medicine. This capsule decreases the frequency of stools. It is not suitable for all types of diarrhoea. Stop taking Roko 2 capsule once you get relief from diarrhoea. Roko 2 capsule is not to be used if you have diarrhoea with blood or bacterial infection, causing diarrhoea. Inform your doctor about all other medicines you are taking before starting with Roko capsule.",
+        "prescriptionRequired": false,
+        "brand": "CIPLA GX",
+        "price": 25.48,
+        "sideEffects": "Headache, dizziness, nausea, vomiting, dryness of mouth",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff4c39c46-1bbd-490c-8eac-488bfcf87ba585719-1-1000.webp?alt=media&token=944e00df-aca8-4275-b540-30739f8f29e6",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff4c39c46-1bbd-490c-8eac-488bfcf87ba585719-2-800.webp?alt=media&token=52883b48-e026-4ca6-ab03-f22541481938"
+        ],
+        "createdAt": "2024-05-01T11:40:51.013Z",
+        "stock": 10
+    },
+    {
+        "brand": "CIPLA",
+        "price": 35,
+        "id": "b1df547b-9ff3-4b5b-96ce-0b79d4582d00",
+        "category": [
+            "cold",
+            "flu",
+            "cough"
+        ],
+        "createdAt": "2024-05-05T13:00:59.062Z",
+        "indication": "",
+        "sideEffects": "Cofsils orange lozenges usually do not cause any side effects. You might experience a sore throat but this will resolve over time and does not require medical attention.\n\nHowever, if the side effects persist, contact the doctor.",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff203035a-4bb4-4e5b-9c7c-87e6834a3fe8cofsils-orange-lozenges-strip-of-10-2-1669655050.webp?alt=media&token=9be79e24-6540-41b3-8ec5-7425de0b57be",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff203035a-4bb4-4e5b-9c7c-87e6834a3fe8cofsils-orange-lozenges-strip-of-10-7-1669655052.webp?alt=media&token=65b6f537-2a95-489d-97f6-f175c0d89ab3",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff203035a-4bb4-4e5b-9c7c-87e6834a3fe8cofsils-orange-lozenges-strip-of-10-3-1669655044.webp?alt=media&token=71f58ff7-f805-479f-941e-51ab3ea478f8",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff203035a-4bb4-4e5b-9c7c-87e6834a3fe8cofsils-orange-lozenges-strip-of-10-6.1-1669655040.webp?alt=media&token=c0985d28-2a8a-430f-97fc-e4d55c20a3e6",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ff203035a-4bb4-4e5b-9c7c-87e6834a3fe8cofsils-orange-lozenges-strip-of-10-6.4-1669655034.webp?alt=media&token=657e73bb-5d87-43c8-8ef1-f239b216b169"
+        ],
+        "name": "Cofsils Orange Lozenges Strip Of 10",
+        "description": "Cofsil orange cold & cough lozenges as the name suggests is a lozenge that can help a person gain relief from symptoms of cold and cough. Throat irritation and congestion is one of the most common symptoms of common cough and cold. Cofsil orange cold & cough lozenges are the perfect solutions to gain relief from irritated throat conditions caused by cold. Cofsil cold & cough lozenges come in six different flavours and Cofsil orange cold & cough lozenges are one of the most popular ones. The components of cough lozenge act quickly to provide relief to a stressed throat. When throat irritations are a nuisance, Cofsil orange cold & cough lozenges can effectively provide fast-acting relief with its medially curated components. The orange flavour of the lozenge is very tasty and does not feel like a medicated lozenge. Taking the lozenges is a very effective first step of action to treat common cough and cold.\n\n\n\nKey Benefits\nCofsil cold & cough lozenges are fast action and provide relief from problems like a sore throat.\nCofsil cold & cough lozenges are curated with a triple relief formula, which has properties that relieve bacterial and viral ailments on the throat and have a soothing effect.\nThe cough lozenge acts like an antiseptic in the treatment of infections in the mouth and throat.\nIt contains dichlorobenzyl alcohol, which is a mild antiseptic and kills harmful bacteria and viruses, causing throat and mouth infections.\n\n\nIngredients\nThe main components of Cofsil cold & cough lozenges, which are responsible for treating the ailments include:\n\nAmylmetacresol\nDichlorobenzyl Alcohol\n41 medicinal herbs\n\n\nUses\nThe cough lozenge is taken to relieve infections in the throat or sore throat caused by an infection or common cough and cold. Cofsil cold & cough lozenges provide very effective relief from symptoms caused by these.\n\n\n\nHow to Use\nThe lozenge is meant for oral consumption.\nThe lozenge should be kept in the mouth for some time.\nThe lozenge is most effective when not chewed.\nIt can be used every three hours.\n\n\nSafety Information\nThe dosage instructions should be read carefully before using the lozenge.\n\nIt should be kept out of the reach of children as the lozenges might choke small children if swallowed in the wrong manner.",
+        "offerPrice": 0,
+        "slug": [
+            "Cofsils",
+            "Orange",
+            "Lozenges",
+            "Strip",
+            "Of",
+            "10"
+        ],
+        "stock": 10,
+        "prescriptionRequired": false,
+        "updatedAt": "2024-05-05T13:00:59.062Z",
+        "type": "medicine"
+    },
+    {
+        "name": "Omee 20mg Strip Of 20 Capsules",
+        "category": [
+            "indigestion",
+            "pain",
+            "abdominal-discomfort"
+        ],
+        "indication": "",
+        "slug": [
+            "Omee",
+            "20mg",
+            "Strip",
+            "Of",
+            "20",
+            "Capsules"
+        ],
+        "brand": "ALKEM LABORATORIES LTD",
+        "price": 64.29,
+        "createdAt": "2024-05-01T12:13:43.923Z",
+        "sideEffects": "Headache, nausea, vomiting",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F84909c03-511f-45bb-a09e-b7969430586bomee_20mg_capsule_20s_53219_0_1.jpeg?alt=media&token=6a3e83c1-69d1-4ac9-8b71-276edb46efbe"
+        ],
+        "prescriptionRequired": true,
+        "type": "medicine",
+        "stock": 10,
+        "description": "Omee capsule is a medication used to treat ulcers in the stomach and intestines, heartburn, and chest pain caused by acid reflux disease. It is also helpful in managing Zollinger-Ellison syndrome. The active ingredient in Omee capsule is omeprazole, which belongs to a class of medicines known as Proton pump inhibitors. These medicines reduce the amount of acid produced in the stomach.\n\nDo not self-medicate. A few other capsules with omeprazole as their composition are Omez 20 capsule, Ocid 20mg capsule, Nogacid 20mg capsule, Oskar 20mg capsule, and Omecip 20mg capsule.\n\nTake this medicine as prescribed, and for the duration it is prescribed by your doctor. Inform your doctor if you are pregnant, planning a pregnancy or breastfeeding about all the medicines and supplements you take and all the conditions or diseases you suffer from before starting this medicine.",
+        "updatedAt": "2024-05-01T12:13:43.923Z",
+        "id": "b3b08898-90f7-49c5-8b2e-f5aa85215921"
+    },
+    {
+        "slug": [
+            "Sestil",
+            "Ad",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "indication": "",
+        "updatedAt": "2024-05-01T11:38:40.613Z",
+        "name": "Sestil Ad Strip Of 10 Tablets",
+        "createdAt": "2024-05-01T11:38:28.680Z",
+        "id": "b610cc75-1574-4133-91d7-0130a162ab45",
+        "category": [
+            "abdominal-discomfort"
+        ],
+        "type": "medicine",
+        "description": "Sestil AD tablet is an anti-diarrhoeal medicine. It is used to treat diarrhoea and works by slowing the contraction of the intestines, thereby slowing the passage of the contents through it. This allows more time for fluid and nutrient reabsorption, making stools more solid and less frequent. Sestil AD tablet contains loperamide as its active ingredient. It has some side effects, such as headache, nausea and constipation.\n\nYou can stop taking this medicine once you get relief from diarrhoea. Avoid taking Sestil AD if you have diarrhoea with blood or diarrhoea caused by bacterial infection. Inform the doctor about other medicines that you are taking, before starting with this medicine.\n\nIt should not be used for children who are below 9 years of age. You should avoid excess spices, oils and sugars in your food while on this medicine. Drink plenty of fluids and water to stay hydrated",
+        "stock": 10,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F6e182371-d1db-4990-a96f-99511fff47a9sestil_ad_2mg_tablet_10s_753241_0_0.jpeg?alt=media&token=a1b41b91-b61d-4df2-81d2-14218bedc560"
+        ],
+        "sideEffects": "Nausea, headache, constipation, flatulence",
+        "prescriptionRequired": true,
+        "brand": "VANGUARD THERAPEUTICS PVT LTD",
+        "price": 34.34
+    },
+    {
+        "updatedAt": "2024-05-01T08:20:36.995Z",
+        "category": [
+            "skin",
+            "allergy"
+        ],
+        "name": "Okacet L Strip Of 10 Tablets",
+        "brand": "CIPLA GX",
+        "sideEffects": "Dry mouth, headache, drowsiness, sleep disorders, constipation",
+        "id": "b6373f4c-684b-4aa3-906a-60850d2b311b",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F79158f1d-db69-4bab-858b-cd69a9535675Screenshot%202024-05-01%20at%201.49.51%20PM.png?alt=media&token=ee16cd6e-83e5-4ea3-a1eb-42fa219d42a7",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fec0b0567-300d-4564-9500-aa1ff9592f29Screenshot%202024-05-01%20at%201.50.13%20PM.png?alt=media&token=21adbd2b-aa32-43f3-b119-546560df5d0d"
+        ],
+        "slug": [
+            "Okacet",
+            "L",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "type": "medicine",
+        "description": "Okacet L tablet is an anti-allergic medicine. It is used for the treatment of allergic rhinitis & chronic urticaria (an allergic condition of the skin). This tablet relieves the symptoms of allergies, such as sneezing, a runny nose, watery eyes, itching and swelling of the skin. Okacet L tablet contains levocetirizine as its active ingredient. It should be taken as instructed by the doctor and in the correct doses, and for the exact duration as prescribed. Do not miss any dose or stop taking the Okacet L tablet on your own without consulting your doctor. You should complete the course on this medicine for the effective treatment of allergies. Before starting the treatment with Okacet L tablet, inform your doctor about all the past medical and medication history.",
+        "prescriptionRequired": false,
+        "indication": "",
+        "stock": 10,
+        "createdAt": "2024-05-01T08:20:36.995Z",
+        "price": 68.97
+    },
+    {
+        "description": "Ascoril LS Junior syrup helps in relieving symptoms such as spasms, blockage, swelling and contraction in airways and lungs during asthmatic attacks and chronic bronchitis. It contains Ambroxol, Guaifenesin and Levosalbutamol as the active ingredients. This syrup needs to be taken as directed by the doctor. You should not stop giving Ascoril LS to your child on your own even if your child feels better after taking it for a few days. Use the measuring cup provided along with the bottle for taking the exact dose as prescribed by your doctor. Shake the bottle well, before each use. Before starting the treatment with Ascoril LS, inform your doctor about your previous medical and medication history.",
+        "stock": 10,
+        "name": "Ascoril Ls Junior Bottle Of 60ml Expectorant",
+        "createdAt": "2024-05-01T14:50:36.966Z",
+        "brand": "GLENMARK PHARMACEUTICALS",
+        "slug": [
+            "Ascoril",
+            "Ls",
+            "Junior",
+            "Bottle",
+            "Of",
+            "60ml",
+            "Expectorant"
+        ],
+        "prescriptionRequired": true,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fba3e5999-12ce-4de4-8e80-b17d4ff99e9cr22ftufqfbkaxevlo6wn.webp?alt=media&token=c3c85756-bac1-4e6d-811b-4565327d114c",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fba3e5999-12ce-4de4-8e80-b17d4ff99e9cAscoril-LS-Junior-1626859738-10054400-2.webp?alt=media&token=5d761b39-b1b1-4eb8-8ea1-8073d4ec2f72"
+        ],
+        "type": "medicine",
+        "sideEffects": "Vomiting, nausea, stomach pain, dizziness, chest pain",
+        "id": "b96ea2f9-58c1-4286-8378-ffc511f33777",
+        "updatedAt": "2024-05-01T14:50:36.966Z",
+        "indication": "Asthma and chronic bronchitis",
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ],
+        "price": 97
+    },
+    {
+        "price": 33.6,
+        "prescriptionRequired": false,
+        "type": "medicine",
+        "category": [
+            "cold",
+            "flu"
+        ],
+        "name": "Crocin 650mg Advance Strip Of 15 Tablets",
+        "id": "baba5f9e-9241-46b9-b35b-9c9359e0c8ef",
+        "stock": 80,
+        "indication": "Pain & Fever",
+        "description": "Crocin 650 Advance tablet is a pain-relieving medicine. It contains paracetamol as an active ingredient. It is used for reducing fever and relieving pain, including toothache, headache, migraine, muscle ache, period pain, etc. Pain is an unpleasant feeling caused by the formation of certain chemicals in the body in response to an injury, tissue damage or disease. Crocin 650 Advance tablet works by blocking the formation of these chemicals responsible for fever and pain. This medicine usually provides symptomatic relief to the patient taking this medicine.",
+        "sideEffects": "Increased appetite, hair loss, weight variations, headache, vomiting",
+        "slug": [
+            "Crocin",
+            "650mg",
+            "Advance",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "brand": "MACLEODS PHARMACEUTICALS",
+        "images": [
+            "https://dawa24seven.com/cdn/shop/files/650mg-gsk-crocin-tablets-500x500.webp?v=1713871799&width=1206"
+        ]
+    },
+    {
+        "indication": "",
+        "brand": "SUN PHARMA",
+        "category": [
+            "cold",
+            "cough",
+            "fever"
+        ],
+        "prescriptionRequired": true,
+        "updatedAt": "2024-05-01T11:25:47.665Z",
+        "name": "Montek Lc Kid Strip Of 10 Tablets",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F14cbffde-5a89-48c0-b59a-8c45c0bdf779montek_lc_kid_tablet_10s_55838_0_1.jpeg?alt=media&token=852e8c4d-aabe-482f-8b1d-84da06fe99d3"
+        ],
+        "id": "bc729b5b-6924-46dd-945b-0404699aa0a3",
+        "sideEffects": "Dizziness, Headache, Dry mouth, Sleepiness",
+        "price": 128,
+        "createdAt": "2024-05-01T11:25:47.665Z",
+        "description": "Montek LC Kid Tablet contains a combination of Levocetirizine and Montelukast. It is an antiallergic medicine. Montek-LC Kid is used to treating allergy symptoms such as runny & stuffy nose, blockage in airways, sneezing, itching, watery eyes and other allergic symptoms. This medicine blocks the release of an allergy-causing substance in the body. Montek LC Kid is specially designed for children. Disperse Montek-LC Kid Tablet in a small quantity of water, and give it to your child immediately. Give this medicine to your child as advised by your doctor, preferably at night. While on this medicine, your child may feel dizzy, sleepy and drowsy, thus be cautious with his actions. If these side effects worsen or remain persistent, visit a nearby hospital or clinic.\n",
+        "type": "medicine",
+        "stock": 10,
+        "slug": [
+            "Montek",
+            "Lc",
+            "Kid",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ]
+    },
+    {
+        "sideEffects": "Headache, dizziness, nausea, fear feeling, anxiety",
+        "price": 109.88,
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ],
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F8c60bb02-f466-4f5d-89ab-0b902469ae1ass2.jpeg?alt=media&token=696b5903-72ff-4d86-9218-b8b345ca4b32",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F8c60bb02-f466-4f5d-89ab-0b902469ae1ass.jpeg?alt=media&token=72c45b6c-a4e6-46ec-906b-ea40dd7973c4"
+        ],
+        "indication": "",
+        "brand": "CENTAUR PHARMACEUTICALS PVT LTD",
+        "id": "bdb2ec8e-8b7d-4cf7-a64a-1929d1232c61",
+        "type": "medicine",
+        "prescriptionRequired": true,
+        "stock": 10,
+        "slug": [
+            "Sinarest",
+            "New",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "updatedAt": "2024-05-01T11:50:06.542Z",
+        "createdAt": "2024-05-01T11:50:06.542Z",
+        "description": "Sinarest New tablet temporarily relieves cough, throat irritation, fever, sneezing, and stuffed nose due to an allergy or cold. It is a combination medicine containing paracetamol, chlorpheniramine, and phenylephrine as its active ingredients. Sinarest New tablet works by combining its components. Paracetamol reduces fever, pain and inflammation; chlorpheniramine is an anti-allergic medicine, and phenylephrine helps to relieve nasal congestion or blockage.\n\nTake the Sinarest New tablet for the precise amount of time and dosage your doctor has prescribed. With a glass of water, swallow it whole. You can take this medication with or without food. This medication may harm the liver or trigger allergic reactions if taken in excess of the recommended dosage. A few other medications containing similar composition are Wikoryl 10mg tablet, Febrex Plus tablet and New Coriminic P tablet.\n\nBefore beginning this medication, tell the doctor if you are pregnant, planning a pregnancy, or nursing, and provide full details of your medical history. Also, give the doctor a complete list of all your medications and dietary supplements.",
+        "name": "Sinarest New Strip Of 15 Tablets"
+    },
+    {
+        "updatedAt": "2024-05-02T08:52:00.776Z",
+        "price": 24,
+        "description": "The Hansaplast bandage washproof box should be a part of your first aid kit. These bandages are waterproof and medicated. Thus, they not only protect wounds and cuts from water and dirt but also help quick healing, while you continue with your daily activities unhindered. The antiseptic bandages have a waterproof lamination and are ideal for use when washing, bathing, showering or swimming. They are easy to apply and very light on the skin. Use the Hansaplast water-resistant bandage to protect a cut or wound from further infection.\n\nBenefits\nHansaplast bandage protects wounds and cuts from water, dirt and infection.\nIdeal for scrapes, cuts, small wounds and abrasions.\nThe bandage is waterproof and keeps the wound clean and prevents entry of water so that it can heal effectively.\nCan be applied very easily and is light on the skin.\nThe adhesive is strong so that the bandage doesn't come off.\nOne box has 8 bandages.\nIngredients\nMedicated Pad Contains Benzalkonium Chloride Solution I.P equivalent to Benzalkonium Chloride 0.05% and tinted with Tartrazine Yellow.\n\nUses\nHeals and protects cuts and scrapes from dirt and bacteria.\nKeeps the wound clean and protects it from water as it is waterproof.\nAntiseptic properties prevent infection.\nHow to Use\nClean the wound and remove dirt and sand.\nDry the area before you apply the plaster.\nTo remove the plaster from its packet, open from the direction that says “pull here”.\nRemove one of the release liners behind the plaster.\nRemove the second release liner behind the plaster and seal it across the wound.\nEnsure the wound pad is applied on the cut or scratch covering it to the maximum.\nTry not to stretch or crease the patch when applying.\nChange the plaster if the wound pad gets wet.\nFor faster healing change the bandage every 24 hours.\nThe patch is for single use only.\nSafety Information\nIn case the wound is deep, has swollen or is bleeding excessively consult your doctor before applying the bandage.\nRead the instructions on the label carefully before applying the Hansaplast washproof bandage.",
+        "name": "Hansaplast Bandage Washproof Box Of 8",
+        "type": "personal-care",
+        "createdAt": "2024-05-01T12:06:03.906Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe7d47a27-1e6c-4fb3-9870-84f14e32d060hansaplast-bandage-washproof-box-of-8-6.1-1684586302.webp?alt=media&token=0da657fe-340a-4c3e-a74e-18d3bf0b56f9",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe7d47a27-1e6c-4fb3-9870-84f14e32d060Washproof_Image_1_600x600.webp?alt=media&token=91ddc3b2-62d2-4803-87aa-b87c444f22fd",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F9dae630e-23fb-4474-8fed-a0e61c70deefhansaplast-bandage-washproof-box-of-8-6.3-1684586355.webp?alt=media&token=147765e6-90b9-44b2-a00e-058ae33255aa",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F9dae630e-23fb-4474-8fed-a0e61c70deefhansaplast-bandage-washproof-box-of-8-6.2-1684586314.webp?alt=media&token=092f9ccc-1fc3-4fcc-b34f-1353cb2881f0"
+        ],
+        "stock": 10,
+        "indication": "",
+        "category": [
+            "pain relief",
+            "pain"
+        ],
+        "prescriptionRequired": false,
+        "brand": "Hansaplast",
+        "sideEffects": "",
+        "id": "be09b02a-cd5e-4919-9bae-03f25c11557c",
+        "slug": [
+            "Hansaplast",
+            "Bandage",
+            "Washproof",
+            "Box",
+            "Of",
+            "8"
+        ]
+    },
+    {
+        "sideEffects": "Diarrhea, Nausea, Vomiting, Stomach pain, Itching or skin rash, Headache, Dizziness, Shortness of breath",
+        "description": "Taxim-O 200 tablet is an antibiotic medication containing cefixime. It is used to treat bacterial infections of the lungs, throat, airways, bile duct, and urinary tract, as well as typhoid or enteric fever. Taxim-O 200 tablet works by inhibiting the growth of bacterial cell walls, which ultimately leads to the bacteria's death. Taxim O should be taken as directed by the doctor and in doses and duration as prescribed.  It is very important to complete the course of antibiotic medicine as prescribed by the doctor. Do not miss any dose. Do not stop taking this medicine on your own, as it can lead to antibiotic resistance and the recurrence of infection.  Taxim-O 200 tablet or any antibiotic should not be used when you are not sure if the infection is due to bacteria. The unnecessary use of antibiotics can make them ineffective for future treatment. Other tablets with cefixime molecule include Zifi 200mg tablet, Cefix 200mg tablet, Ceftas 200mg tablet and Cefolac 200mg tablet.  Before starting this tablet, inform the doctor if you are pregnant, planning a pregnancy or breastfeeding and about your detailed medical history.",
+        "indication": "It is used to treat bacterial infections of the lungs, throat, airways, bile duct, and urinary tract, as well as typhoid or enteric fever.",
+        "type": "medicine",
+        "category": [
+            "digestive"
+        ],
+        "createdAt": "2024-04-30T13:57:04.970Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd7cd8157-7db1-49cc-8704-6f5a9f96f2eftaxim-o.png?alt=media&token=de5af405-f73e-41ea-ae2b-0a120efe73b4",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fbaeed474-1390-4c34-9774-db101e79276c81VfKYvdTgL.jpeg?alt=media&token=7a7c496f-73e5-4da2-bff2-8a5f7aa41247"
+        ],
+        "id": "c0257b66-3627-4c9a-a477-1d05e028e6c0",
+        "slug": [
+            "Taxim",
+            "O",
+            "200mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "stock": 10,
+        "price": 109.49,
+        "prescriptionRequired": false,
+        "name": "Taxim O 200mg Strip Of 10 Tablets",
+        "brand": "ALKEM LABORATORIES LTD"
+    },
+    {
+        "price": 99,
+        "name": "Tusq Dx Sugar Free Bottle Of 100ml Syrup",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F67fd9384-4258-4b66-9dd1-808256785ac9tusq-dx-dry-cough-syrup.jpeg?alt=media&token=8029822f-d3e8-4119-af96-996ab8af76ec",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F67fd9384-4258-4b66-9dd1-808256785ac9tusq_dx_sugar_free_liquid_100ml_1_0.jpeg?alt=media&token=d0ad5f04-4408-48c2-ac61-8e26be129c86",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F67fd9384-4258-4b66-9dd1-808256785ac9tusq_dx_sugar_free_liquid_100ml_0_0.jpeg?alt=media&token=134729ad-fc53-4249-ac29-d5e91d02cbcd"
+        ],
+        "slug": [
+            "Tusq",
+            "Dx",
+            "Sugar",
+            "Free",
+            "Bottle",
+            "Of",
+            "100ml",
+            "Syrup"
+        ],
+        "updatedAt": "2024-05-01T14:58:21.975Z",
+        "category": [
+            "cold",
+            "fever",
+            "cough"
+        ],
+        "indication": "",
+        "type": "medicine",
+        "id": "c2f4bbe9-df36-4e6a-9b01-7350ffe2b529",
+        "brand": "BLUE CROSS LABORATORIES PRIVATE LIMITED",
+        "sideEffects": "Blurred vision, dry mouth, itching, rashes, nausea",
+        "prescriptionRequired": true,
+        "stock": 10,
+        "description": "Tusq-DX syrup is used for short-term relief from cough, irritation in the throat, sneezing & blocked nose due to an allergy or cold. Tusq-DX syrup contains three active ingredients, namely Chlorpheniramine, Dextromethorphan, and Phenylephrine. It works by reducing the symptoms of allergies, cough and nasal congestion or blockage due to allergy.",
+        "createdAt": "2024-05-01T14:58:21.975Z"
+    },
+    {
+        "description": "Cetirizine Tablet is an anti-allergic medication and is used to treat symptoms associated with allergies such as itching, sneezing, watery eyes, running nose, rashes, and pale red bumps.  It contains cetirizine as its active ingredient. Take as directed by the doctor and in doses and duration as prescribed. Side effects of the medicine are drowsiness, headache, weakness, and dry mouth. Most of them are temporary but if you feel the side effects persist or your condition worsens, you should contact the doctor immediately. Cetirizine Tablet should be used with caution in children and it is recommended to consult the doctor before using the medicine in pregnant and lactating women.",
+        "id": "cde6bc0b-8b45-4afd-9a79-98ca62048b01",
+        "sideEffects": "Tiredness\nHeadache\nSleepiness\nDrowsiness\nNausea\nDizziness\nRhinitis\nDry mouth\nSore throat",
+        "indication": "fever,cold",
+        "prescriptionRequired": true,
+        "slug": [
+            "",
+            "Cetirizine",
+            "10mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "updatedAt": "2024-05-01T07:39:04.779Z",
+        "name": " Cetirizine 10mg Strip Of 10 Tablets",
+        "createdAt": "2024-05-01T07:32:49.568Z",
+        "price": 20.53,
+        "type": "medicine",
+        "brand": "GLENMARK GX",
+        "stock": 10,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F3e6f82c6-11bb-4db7-b87d-92e87cea7b6ecet.webp?alt=media&token=35682144-c5db-4207-ae8b-899931d11d19"
+        ],
+        "category": [
+            "cold",
+            "flu",
+            "cough",
+            "skin",
+            "allergy"
+        ]
+    },
+    {
+        "slug": [
+            "Nestle",
+            "Cerelac",
+            "Baby",
+            "Cereal",
+            "With",
+            "Milk",
+            "Multigrain",
+            "&",
+            "Fruits",
+            "From",
+            "12",
+            "To",
+            "24",
+            "Months",
+            "Stage",
+            "4",
+            "Box",
+            "Of",
+            "300gm"
+        ],
+        "category": [
+            "baby"
+        ],
+        "createdAt": "2024-05-05T12:44:16.896Z",
+        "type": "personal-care",
+        "indication": "",
+        "description": "Nestlé Cerelac Baby Cereal with Milk is a complementary baby food for infants from 12 to 24 months. While infants and children have higher requirements of nutrients than adults, 2 servings of Cerelac Multigrain & Fruits Cereal provide 37% of a baby’s daily need for iron. It is also a source of 14 important nutrients including vitamins and minerals. Vitamins A, C, D, and Zinc help support normal immune system function. This baby cereal is rich in protein and packed with the goodness of cereal, milk, and fruits. With 155 years of scientific expertise in infant nutrition, Nestlé develops infant nutrition products backed by evolving science and research. Innovation has been at the heart of Nestlé since its beginning. Storage Instructions: After opening the pack, the contents should immediately be transferred to an empty, clean, dry and airtight container. After each use, replace the lid tightly & store in a cool & dry place. Important Notice: Mother’s milk is best for your baby. ^Basic Recommended Dietary Allowance, ICMR 2020 & Recommended Nutrient Intake by WHO/FAO for a 1-3-year-old child.Safety Warnings: Infant food should be used only on the advice of a health worker as to the need for its use and the proper method of its use. Infant food is not the sole source of nourishment for an infant. Use prepared feed within half an hour otherwise microbial deterioration may set in. Discard unused feed.\n\nIngredients\nResultant Wheat flour (Resultant Atta) (43.8%), Milk solids (33.9%), Sugar, Corn flour (6.2%), Orange juice concentrate (4.6%), Soyabean oil, Dehydrated apple bits (2.4%), Malted barley flour (1.8%), Cherry puree (0.5%), Maltodextrin, Starch, Minerals, Vitamins, Rice flour (0.03%), Enzyme (Alpha-amylase) and Packaging gases (Nitrogen and Carbon dioxide)\nContains Wheat, Milk and Barley.\n\nNutritional Facts\nComposition per 100g\nEnergy - 412 kcal\nProtein- 15g\nCarbohydrate - 68.1g\nTotal Sugars- 24g\nTotal Fat- 9.4g\nCholesterol - 14mg",
+        "updatedAt": "2024-05-05T12:44:16.896Z",
+        "price": 322,
+        "brand": "Nestle",
+        "sideEffects": "",
+        "name": "Nestle Cerelac Baby Cereal With Milk Multigrain & Fruits From 12 To 24 Months Stage 4 Box Of 300gm",
+        "offerPrice": 0,
+        "id": "cf6eab89-b842-4dc4-9c5c-807a2f0d3319",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-6.6-1708082243.webp?alt=media&token=6d153593-bb55-44d9-9c85-24daf065d140",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-6.3-1708082251.webp?alt=media&token=3238a906-2be8-47ff-a2f0-aea85078160d",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-6.1-1708082249.webp?alt=media&token=3d6e2720-2b61-4920-adb7-2504d697b9b2",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-6.4-1708082245.webp?alt=media&token=ab50cef4-4489-446e-a4a6-e51b46ab7e1a",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-6.5-1708082241.webp?alt=media&token=c0c803d1-245b-4c18-b910-b20ac1457b54",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-2-1708082239.webp?alt=media&token=aca19f7f-4198-4fa5-a5a8-5b89fc1284bf",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Ffaf0b767-2b0d-4d79-afbe-31cb3de77f5dnestle-cerelac-baby-cereal-with-milk-multigrain-fruits-from-12-to-24-months-box-of-300gm-6.2-1708082247.webp?alt=media&token=10929bad-b526-4db0-8f7d-2ed3221192ac"
+        ],
+        "stock": 10,
+        "prescriptionRequired": false
+    },
+    {
+        "description": "Rabekind DSR is a combination medicine containing rabeprazole and domperidone, and it is used to treat acid reflux disease. It works by alleviating acid-related symptoms like heartburn, stomach pain, and irritation. It also neutralises acid and improves gas flow, hence reducing stomach discomfort.\n\nGERD is a condition in which acid from the stomach comes back up to the food pipe and causes heartburn, belching, nausea and chest pain. Rabekind-DSR works by decreasing the amount of acid produced in the stomach. Thereby improving the mortality in the gut and reducing the backflow of stomach content to the food pipe.\n\nAlong with taking medicine on time, making certain lifestyle modifications can help to manage your acidity problem better. Try eating smaller meals, eating slowly avoiding overeating and lying down immediately after having a meal. Limit your intake of alcohol, avoid smoking and maintain a healthy weight. Consult the doctor to understand what works best for you. Some other capsules containing rabeprazole and domperidone are Razo D capsule, Cyra D capsule, Rabesec DSR capsule, and Rabium DSR capsule.\n\nTake Rabekind DSR at least 30 minutes before breakfast. This capsule should not be used in children below 12 years of age. Before using the Rabekind DSR capsule, inform the doctor if you are pregnant, planning a pregnancy or breastfeeding and about your detailed medical history.",
+        "name": "Rabekind Dsr Strip Of 10 Capsules",
+        "id": "d1458a57-a181-4606-b760-d2156e4feac9",
+        "type": "medicine",
+        "category": [
+            "indigestion",
+            "digestive"
+        ],
+        "price": 102.5,
+        "createdAt": "2024-05-01T12:08:37.158Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fdcc035b4-e5ee-45ef-abf6-7128094ab552product-jpeg-500x500.webp?alt=media&token=e43d8423-77e0-468f-999c-2e000babbd59",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fdcc035b4-e5ee-45ef-abf6-7128094ab552rabekind_dsr_capsule_10s_31436_0_1.jpeg?alt=media&token=92aabf0b-1644-495c-b01f-5868dbd57057"
+        ],
+        "brand": "MANKIND PHARMACEUTICALS LTD",
+        "slug": [
+            "Rabekind",
+            "Dsr",
+            "Strip",
+            "Of",
+            "10",
+            "Capsules"
+        ],
+        "stock": 10,
+        "prescriptionRequired": true,
+        "updatedAt": "2024-05-01T12:08:37.158Z",
+        "sideEffects": "Headache, dizziness, nausea, vomiting, stomach pain",
+        "indication": "Acidity, heartburn, GERD"
+    },
+    {
+        "price": 46.75,
+        "id": "d3b974b4-0652-4df0-b558-36b5c9cd5670",
+        "type": "medicine",
+        "createdAt": "2024-05-01T11:43:39.793Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fda604e7a-8499-4c89-9fd6-ed91341592a4ch.webp?alt=media&token=d17036d0-0f55-4d29-b438-d274e6ebc054",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fda604e7a-8499-4c89-9fd6-ed91341592a4mp59owl5gsy2kd2iec2z.jpeg?alt=media&token=6933061e-09b6-41a0-b85c-f3f5d195d815"
+        ],
+        "prescriptionRequired": true,
+        "sideEffects": "Drowsiness, sleepiness, nausea, vomiting, headache",
+        "indication": "",
+        "name": "Cheston Cold New Formula Strip Of 10 Tablets",
+        "category": [
+            "cold",
+            "cough",
+            "flu"
+        ],
+        "description": "Cheston Cold tablet is a combination medicine used for relieving symptoms of the common cold, such as runny nose, fever and nasal congestion. It contains a combination of three active ingredients- paracetamol, cetirizine and phenylephrine. Okacet cold tablet, Oncet CF tablet, Wincold Z tablet and Cozymin Plus tablet are some other medicines with paracetamol, cetirizine and phenylephrine.\n\nTake this medicine as prescribed and for the exact prescribed duration. Do not take this medicine if you are pregnant, planning a pregnancy or breastfeeding without a doctor's advice. Tell your doctor about all the medicines, herbs and supplements you take and all the conditions or diseases you suffer from, before starting this medicine.\n\nThis medication is not recommended for children under the age of 12. Avoid drinking alcohol while taking the medication because it can cause excessive drowsiness. Some people may experience headaches, dizziness, nausea and vomiting after taking this medication. If these side effects bother you or do not go away, consult your doctor.",
+        "brand": "CIPLA GX",
+        "updatedAt": "2024-05-01T11:43:39.793Z",
+        "slug": [
+            "Cheston",
+            "Cold",
+            "New",
+            "Formula",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "stock": 10
+    },
+    {
+        "description": "Zerotuss D Bottle Of 100ml Syrup contains Chlorpheniramine and Dextromethorphan. Chlorpheniramine is an antiallergic medicine, whereas dextromethorphan is a cough suppressant. Zerotuss D Bottle Of 10",
+        "id": "d89cb97b-2237-4e5c-934e-d0f3d93fbda4",
+        "brand": "ARISTO PHARMACEUTICALS PVT LTD",
+        "slug": [
+            "Zerotuss",
+            "D",
+            "Bottle",
+            "Of",
+            "100ml",
+            "Syrup"
+        ],
+        "createdAt": "2024-04-30T14:12:52.562Z",
+        "indication": "COUGH COLD PREPARATION",
+        "price": 81.45,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F236b99c2-4676-497d-a348-cba3ea6cd21dzerotuss.webp?alt=media&token=84c12d0f-2908-4197-80c9-494c1c45f504",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fe1556f8b-f4bb-4fa2-bdac-61cc025f2774zerotuss_d_syrup_100ml_1_0.jpeg?alt=media&token=01f76b13-12f9-461e-b34a-e5a95726e146"
+        ],
+        "sideEffects": "Dizziness Tiredness Drowsiness Sleepiness Upset stomach Insomnia Confusion Blurring of vision Headache Nausea Vomiting Hallucination",
+        "prescriptionRequired": false,
+        "category": [
+            "cold",
+            "flu",
+            "cough"
+        ],
+        "stock": 10,
+        "name": "Zerotuss D Bottle Of 100ml Syrup",
+        "type": "medicine"
+    },
+    {
+        "name": "Himalaya Purifying Neem Face Wash 150ml",
+        "images": [
+            "https://dawa24seven.com/cdn/shop/files/641756275342d56e187a6af2-himalaya-purifying-neem-face-wash-150-ml.jpg?v=1713872293&width=1206"
+        ],
+        "slug": [
+            "Himalaya",
+            "Purifying",
+            "Neem",
+            "Face",
+            "Wash",
+            "150ml"
+        ],
+        "sideEffects": "Increased appetite, hair loss, weight variations, headache, vomiting",
+        "type": "personal-care",
+        "description": "Himalaya purifying neem face wash is a face wash that gives clear, pure, radiant and smooth skin. This Ayurvedic face wash contains neem and turmeric as active ingredients. Neem, an excellent skin-care ingredient, is antibacterial, while turmeric is a herbal anti-inflammatory ingredient that soothes the skin and evens skin tone. It is a soap-free formula with no additional chemicals like Parabens, SLS, etc. Himalaya purifying neem wash comes in a pack of 150 ml to make your skin healthy and free from pimples",
+        "stock": 80,
+        "category": [
+            "pain",
+            "relief"
+        ],
+        "price": 225,
+        "prescriptionRequired": false,
+        "id": "da156597-d770-4667-9c31-f88958387465",
+        "indication": "Pain",
+        "brand": "HIMALAYA"
+    },
+    {
+        "indication": "",
+        "category": [
+            "allergy",
+            "cough",
+            "cold"
+        ],
+        "id": "deda9fdf-c6b4-4199-a76b-8ef545a20c2d",
+        "brand": "GLENMARK PHARMACEUTICALS",
+        "prescriptionRequired": true,
+        "createdAt": "2024-05-01T14:54:48.786Z",
+        "stock": 10,
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fd6b25f76-088a-40c4-aa15-c0c12ef95f23alex_sugar_free_syrup_100ml_0.jpeg?alt=media&token=1f1d3565-60b4-4057-b3c3-d5a75757889f"
+        ],
+        "description": "Alex Sugar Free syrup contains a combination of three medicines namely Chlorpheniramine, Dextromethorphan and Phenylephrine. It is used for temporary relief from cough, throat irritation, sneezing & stuffed nose due to an allergy or cold. It works by reducing the symptoms of allergies, cough and nasal congestion or blockage due to allergy.",
+        "type": "medicine",
+        "slug": [
+            "Alex",
+            "Sugar",
+            "Free",
+            "Bottle",
+            "Of",
+            "100ml",
+            "Syrup"
+        ],
+        "name": "Alex Sugar Free Bottle Of 100ml Syrup",
+        "sideEffects": "Nausea\nStomach pain\nConstipation\nDry mouth\nRashes\nItching",
+        "updatedAt": "2024-05-01T14:54:48.786Z",
+        "price": 141
+    },
+    {
+        "images": [
+            "https://dawa24seven.com/cdn/shop/files/dolo_650_tablet_15s_549539_1_2.jpg?v=1713871408&width=1206"
+        ],
+        "brand": "DOLO",
+        "slug": [
+            "Dolo",
+            "650mg",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "indication": "Pain",
+        "id": "e70188fa-8350-4a63-ad31-b3741dbd442c",
+        "category": [
+            "pain",
+            "relief"
+        ],
+        "sideEffects": "Increased appetite, hair loss, weight variations, headache, vomiting",
+        "prescriptionRequired": false,
+        "description": "Dolo 650 tablet contains an active ingredient called paracetamol, which works by blocking the formation of certain chemicals that cause pain and fever in the body. This medicine is used to treat various conditions such as headache, backache, migraine, toothache, body pain, and even fever associated with diseases like typhoid or the common cold.",
+        "name": "Dolo 650mg Strip Of 15 Tablets",
+        "price": 33.6,
+        "stock": 80,
+        "type": "medicine"
+    },
+    {
+        "sideEffects": "Headache, dizziness, fever, stomach pain, tiredness",
+        "updatedAt": "2024-05-01T11:27:48.752Z",
+        "type": "medicine",
+        "slug": [
+            "Monticope",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "price": 99,
+        "category": [
+            "cold",
+            "fever",
+            "allergy"
+        ],
+        "createdAt": "2024-05-01T11:27:48.752Z",
+        "name": "Monticope Strip Of 10 Tablets",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F2f8e02b6-2cc5-4ad0-86a4-5ab8585725eb811svcJW8DL._AC_UF1000%2C1000_QL80_DpWeblab_.jpg?alt=media&token=0046e4d7-2ab2-4212-9624-a2ffe95726e9"
+        ],
+        "prescriptionRequired": true,
+        "description": "Monticope tablet is a medication used to treat allergic rhinitis. It can alleviate various symptoms of the condition, including runny or stuffy nose, congestion, sneezing, itching, watery eyes and other allergic symptoms. This tablet contains montelukast and levocetirizine, which work together to block the production of chemicals that cause allergies and reduce inflammation in the airway, making breathing easier.\n\nAllergic rhinitis, also known as hay fever, is an inflammation or swelling inside the nose caused by allergens. To ensure the best results, take Monticope tablet as directed by your doctor, following the correct dosage and duration of the treatment. Swallow the tablet with water, with or without food, and preferably at bedtime as advised by your doctor. A few other tablets with montelukast and levocetirizine as their composition are Levozet M tablet, Telekast L tablet, Montina L tablet, Montair Lc tablet, and Montek Lc tablet.\n\nBefore taking this medicine, inform your doctor if you are pregnant, planning to become pregnant, or breastfeeding, and provide information about all other medications, supplements, and health conditions you have. While taking Monticope tablet, rinse your nose regularly to clear allergens from your nasal passage. As a precaution, avoid exposure to allergens that you know or suspect are triggering your allergy.",
+        "brand": "MANKIND PHARMACEUTICALS LTD",
+        "indication": "",
+        "id": "f8ea6caf-0a54-4b8e-a579-5f734421c483",
+        "stock": 10
+    },
+    {
+        "description": "MYSPAR contains Diclofenac which belongs to a group of medicines called non-steroidal anti-inflammatory drugs (NSAIDs) which reduces pain and inflammation. It is used to treat mild to moderate muscle and joint pains (sprains, strains, bruises, backache, sports injuries) contusions, post-traumatic pain, tendonitis (tennis elbow) and osteoarthritis pain in the knees. Diclofenac sodium is a nonsteroidal anti-inflammatory with analgesic properties. It inhibits the enzyme, cyclooxygenase (COX), which is an early component of the arachidonic acid cascade, resulting in the reduced formation of prostaglandins, thromboxanes and prostacylin.    \n\nAlways use this MYSPAR as prescribed by your doctor. Before using, tell your doctor if you have any kidney, liver or heart diseases, are pregnant or breastfeeding. It is not suitable for use in children and adolescents below 14 years of age. The common side effects are skin redness, inflammation or swelling. Do not apply this medicine to injured or infected skin. In case of accidental contact with eyes, mucous membranes, rinse the affected area completely with running water. If the irritation persists, contact your doctor.\nDiclofenac(1.16 %) + Linseed Oil(3.0 %) + Methyl Salicylate(10.0 %) + Capsaicin(0.025 %)",
+        "price": 108,
+        "prescriptionRequired": false,
+        "type": "medicine",
+        "sideEffects": "Skin redness, inflammation or swelling",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc2acaf8a-cbc3-47bf-91aa-c81f0ab6a3aemyspar_gel_30gm_4_0.jpeg?alt=media&token=707c4805-7e4f-4d2c-bbd1-83a54da51300",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc2acaf8a-cbc3-47bf-91aa-c81f0ab6a3aemyspar_gel_30gm_0_0.jpeg?alt=media&token=960b517f-e0f4-4f8c-a512-8cb5aacd0906",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc2acaf8a-cbc3-47bf-91aa-c81f0ab6a3aemyspar_gel_30gm_1_0.jpeg?alt=media&token=41532c94-ebbe-46a5-84a7-73b7def18e6a",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fc2acaf8a-cbc3-47bf-91aa-c81f0ab6a3aemyspar_gel_30gm_3_0.jpeg?alt=media&token=ba7c6f32-3000-43e7-a25e-19e564adeb76"
+        ],
+        "createdAt": "2024-05-01T14:37:48.482Z",
+        "name": "Myspar Gel 30gm",
+        "category": [
+            "Multivitamins"
+        ],
+        "id": "f8f98ebe-6ca4-49de-93ec-40eaeea48db7",
+        "indication": "",
+        "brand": "BIO VITAMINS",
+        "updatedAt": "2024-05-01T14:37:48.482Z",
+        "slug": [
+            "Myspar",
+            "Gel",
+            "30gm"
+        ],
+        "stock": 10
+    },
+    {
+        "brand": "CENTAUR PHARMACEUTICALS PVT LTD",
+        "slug": [
+            "Sinarest",
+            "Bottle",
+            "Of",
+            "75ml",
+            "Syrup"
+        ],
+        "id": "fa939edd-9c39-4d14-91e4-a78eb270cc13",
+        "price": 146.99,
+        "indication": "",
+        "createdAt": "2024-05-01T11:54:56.425Z",
+        "stock": 10,
+        "type": "medicine",
+        "name": "Sinarest Bottle Of 75ml Syrup",
+        "description": "Sinarest syrup is a cough and cold medication. It contains a combination of paracetamol, chlorpheniramine, phenylephrine and sodium citrate as active substances. Sinarest Syrup is used in the treatment of symptoms of the common cold in children aged 2 to 12 years. Give this medicine to your child exactly as prescribed by your doctor. Before starting Sinarest syrup, inform your doctor about your child's complete medical history. Taking more than the daily dose of Sinarest syrup may cause serious liver damage or allergic reactions such as swelling of the face, mouth and throat, difficulty in breathing, itching and rashes.",
+        "updatedAt": "2024-05-01T11:54:56.426Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2Fa76159ca-2ed2-4d2f-b0f4-06fde6b479ccSIN0216_1_1.webp?alt=media&token=876539c9-a94e-4aed-866a-1afde5801bca"
+        ],
+        "sideEffects": "Headache, dizziness, dry mouth, sleepiness, stomach upset",
+        "category": [
+            "cold",
+            "flu",
+            "cough",
+            "fever"
+        ],
+        "prescriptionRequired": true
+    },
+    {
+        "price": 80,
+        "name": "L Hist 5mg Strip Of 15 Tablets",
+        "brand": "ALKEM LABORATORIES LTD",
+        "type": "medicine",
+        "prescriptionRequired": false,
+        "updatedAt": "2024-05-01T08:30:26.122Z",
+        "category": [
+            "cold",
+            "flu",
+            "cough"
+        ],
+        "slug": [
+            "L",
+            "Hist",
+            "5mg",
+            "Strip",
+            "Of",
+            "15",
+            "Tablets"
+        ],
+        "indication": "",
+        "description": "L Hist Tablet is an antiallergic medicine. It is used in allergic conditions such as common cold, allergic rhinitis (running nose), urticaria, insect bite and hives. L Hist contains levocetirizine as its active medicine. Allergic symptoms appear due to the production of a chemical in the body, namely histamine. L Hist Tablet works by blocking the actions of histamine. Do not use it if you are allergic to levocetirizine. Avoid driving and handling any machinery, as this medicine makes you less alert.",
+        "stock": 10,
+        "id": "fac9a6d2-322e-400d-a59f-16469527a5d2",
+        "createdAt": "2024-05-01T08:30:26.122Z",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F78917e7e-2c9a-4914-801b-21a0b858581fl_hist_5mg_tablet_10s_1_0.jpeg?alt=media&token=c1c02ffb-87c6-4225-a568-b6b8c3874761",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F6f4bad61-a90a-4237-bd1b-93ddcc7f5c94l_hist_5mg_tablet_10s_0_0.jpeg?alt=media&token=9548ec0e-fcf2-4b80-8278-fcc97c8db22f"
+        ],
+        "sideEffects": "Tiredness, headache, sleepiness, drowsiness, dizziness"
+    },
+    {
+        "indication": "",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F8174ee85-3577-468b-a6e1-f406e2c5e84a0d2d0498063047bcb6555b6429cdb9b3(1).jpg?alt=media&token=d2f1cd44-3e47-455a-832b-28ffc70b32b6",
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F468a1f92-11e6-45d7-b9f2-01cd0ae994482eea23564b0f49c19caefd53b34972af.jpg?alt=media&token=a3dbb15f-cd5c-4108-bc14-6604dab5ff8e"
+        ],
+        "slug": [
+            "Levocetrizen",
+            "10mg",
+            "Strip",
+            "Of",
+            "10",
+            "Tablets"
+        ],
+        "stock": 10,
+        "sideEffects": "Headache, sleepiness, tiredness",
+        "id": "fc07ae9d-d2ff-4405-b888-5809378f7df2",
+        "createdAt": "2024-05-01T08:25:45.566Z",
+        "prescriptionRequired": true,
+        "brand": "LEEFORD HEALTHCARE LTD",
+        "description": "Levocetrizen 10 tablet is an anti-allergic medicine. It is used in the treatment of the symptoms of allergic rhinitis, such as runny and stuffy nose, blockage in airways, sneezing, itching, watery eyes and other allergic symptoms. Allergic rhinitis is an allergic response to allergy-producing substances like pollen, dust or mould. It causes irritation in the nose/throat and symptoms like sneezing, wheezing, etc. Levocetrizen 10 tablet contains levocetirizine as its active medicine. It works by blocking the production of chemicals responsible for producing symptoms of allergy. Take this medicine in the exact dose and duration as recommended by your doctor. Do not take more than the prescribed dose. Do not take this medicine if you are allergic to any of its components. You should be cautious while driving after taking Levocetrizen 10 tablets as it may cause dizziness and sleepiness. Before starting this medicine, inform your doctor if you are pregnant, planning on becoming pregnant or breastfeeding and about your complete medical history. Also, inform the doctor about all other medicines and supplements you take.",
+        "type": "medicine",
+        "price": 44,
+        "updatedAt": "2024-05-01T08:25:45.566Z",
+        "category": [
+            "flu",
+            "cold",
+            "cough"
+        ],
+        "name": "Levocetrizen 10mg Strip Of 10 Tablets"
+    },
+    {
+        "id": "fd61a87a-5ed1-4dfb-aaa8-9379fd0f8892",
+        "createdAt": "2024-05-01T14:44:49.675Z",
+        "name": "Pantocid Dsr Strip Of 15 Capsules",
+        "updatedAt": "2024-05-01T14:44:49.675Z",
+        "brand": "SUN PHARMA",
+        "prescriptionRequired": false,
+        "type": "medicine",
+        "price": 229,
+        "slug": [
+            "Pantocid",
+            "Dsr",
+            "Strip",
+            "Of",
+            "15",
+            "Capsules"
+        ],
+        "description": "Pantocid DSR capsule is an acidity medicine. It is a combination medicine containing pantoprazole and domperidone as the main components. It is used to treat acid reflux, also known as GERD (gastroesophageal reflux disease). Pantocid DSR helps relieve the symptoms of heartburn, indigestion, chest pain, discomfort, and irritation associated with acid reflux. Pantocid DSR is also used for the treatment of peptic ulcers, stomach discomfort, acidity, etc.\n\nGERD is a condition in which content from the stomach and acid flows back to the food pipe, causing irritation and heartburn. Pantakind Dsr, Pan D, Pantodac Dsr, and Pantosec Dsr are some other capsules with pantoprazole and domperidone. This medicine works by reducing the formation of acid in the stomach. It also improves gut movement, which prevents the backflow of acid to the food pipe.\n\nPantocid DSR capsules should only be used under medical supervision. The dose, duration and frequency of taking this medicine will be decided by your doctor. It should be taken in doses and duration as prescribed.\n\nAlong with taking medicine on time, certain lifestyle modifications can help you manage your acidity problem better. Try eating smaller meals, eating slowly, avoiding overeating, and lying down immediately after having a meal. Limit your intake of alcohol, avoid smoking, and maintain a healthy weight. Consult the doctor to understand what works best for you.",
+        "sideEffects": "Dry mouth, headache, weakness, diarrhoea, rashes",
+        "stock": 10,
+        "indication": "",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/dawa-247.appspot.com/o/products%2F63bacd0f-9c60-475d-8e6f-a0b85faaf75epantocid_dsr_capsule_15_s_0.jpeg?alt=media&token=08a47ee0-1292-4bdb-9d12-c51bdead23ad"
+        ],
+        "category": [
+            "digestive",
+            "indigestion",
+            "abdominal-discomfort"
+        ]
+    }
+]
