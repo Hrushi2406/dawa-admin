@@ -18,6 +18,11 @@ import { IMedicine } from "@/lib/types";
 import { triGram } from "./search";
 
 class ProductService {
+  async get(productId: string) {
+    const snaps = await getDoc(doc(db, "products/" + productId));
+
+    return snaps.data() as IMedicine;
+  }
   async getAll() {
     const snaps = await getDocs(query(collection(db, "products")));
 

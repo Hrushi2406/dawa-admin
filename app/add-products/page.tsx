@@ -37,7 +37,7 @@ const medicineCategories = [
   "women",
   "men",
   "hair",
-  "oral"
+  "oral",
 ];
 
 const type = ["medicine", "personal-care"];
