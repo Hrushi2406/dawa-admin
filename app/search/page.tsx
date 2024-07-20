@@ -2,6 +2,7 @@
 
 import { Input } from "@/components/ui/input";
 import { IMedicine } from "@/lib/types";
+import { useDebounce } from "@/lib/useDebounce";
 import productService from "@/services/product-service";
 import React from "react";
 
@@ -39,30 +40,4 @@ export default function SearchPage() {
       </div>
     </div>
   );
-}
-
-function useDebounce(callback: any, delay: number) {
-  const timeoutRef = React.useRef<NodeJS.Timeout | null>(null);
-
-  const debouncedFunction = React.useCallback(
-    (...args: any[]) => {
-      if (timeoutRef.current) {
-        clearTimeout(timeoutRef.current);
-      }
-      timeoutRef.current = setTimeout(() => {
-        callback(...args);
-      }, delay);
-    },
-    [callback, delay]
-  );
-
-  React.useEffect(() => {
-    return () => {
-      if (timeoutRef.current) {
-        clearTimeout(timeoutRef.current);
-      }
-    };
-  }, []);
-
-  return debouncedFunction;
 }

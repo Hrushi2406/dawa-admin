@@ -1,26 +1,14 @@
 "use client";
-import {
-  Table,
-  TableBody,
-  TableCaption,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "@/components/ui/table";
 
 import { Button } from "@/components/ui/button";
 import { db } from "@/lib/firebase";
 import { addTestDataToFirebase } from "@/lib/test-data";
-import { getDocs, collection } from "firebase/firestore";
-import Image from "next/image";
-import React from "react";
-import { EllipsisVertical, Menu, Minus, Option } from "lucide-react";
-import { toast } from "sonner";
-import Link from "next/link";
-import { addPost } from "@/services/search";
-import { Input } from "@/components/ui/input";
 import productService from "@/services/product-service";
+import { collection, getDocs } from "firebase/firestore";
+import Link from "next/link";
+import React from "react";
+import { toast } from "sonner";
+import StatsSection from "./stats-section";
 
 const exportData = async () => {
   await productService.getAll().then((data) => {
@@ -35,50 +23,52 @@ export default function Home() {
   const [orders, setorders] = React.useState<any>([]);
 
   React.useEffect(() => {
-    fetchOrders().then((data) => setorders(data));
-    toast("Check console for data");
-
+    // fetchOrders().then((data) => setorders(data));
+    // toast("Check console for data");
     // addPost();
   }, []);
 
   return (
     <main className="mx-4 my-6 md:mx-24 dark:bg-black">
-      <Button
-        variant={"outline"}
-        onClick={async () => {
-          toast.promise(addTestDataToFirebase(), {
-            loading: "Loading",
-            success: "Added data successfully",
-            error: "Error when fetching",
-          });
-          // try {
-          //   await addTestDataToFirebase();
-          //   toast.success("Test data added successfully");
-          // } catch (error: any) {
-          //   console.log("error: ", error);
-          //   toast.error(error.toString());
-          // }
-        }}
-      >
-        Add Test Data
-      </Button>
+      <div className="flex flex-wrap gap-2 items-center">
+        <Button
+          variant={"outline"}
+          onClick={async () => {
+            toast.promise(addTestDataToFirebase(), {
+              loading: "Loading",
+              success: "Added data successfully",
+              error: "Error when fetching",
+            });
+            // try {
+            //   await addTestDataToFirebase();
+            //   toast.success("Test data added successfully");
+            // } catch (error: any) {
+            //   console.log("error: ", error);
+            //   toast.error(error.toString());
+            // }
+          }}
+        >
+          Add Test Data
+        </Button>
 
-      <Button asChild className="ml-4" variant={"outline"}>
-        <Link href={"/products"}>All Products</Link>
-      </Button>
-      <Button asChild className="ml-4" variant={"outline"}>
-        <Link href={"/add-products"}>Add Product</Link>
-      </Button>
-      <Button asChild className="ml-4" variant={"outline"}>
-        <Link href={"/discounts"}>Discounts </Link>
-      </Button>
-      <Button onClick={exportData} className="ml-4" variant={"outline"}>
-        Export Data
-      </Button>
-
+        <Button asChild className="" variant={"outline"}>
+          <Link href={"/products"}>All Products</Link>
+        </Button>
+        <Button asChild className="" variant={"outline"}>
+          <Link href={"/add-products"}>Add Product</Link>
+        </Button>
+        <Button asChild className="" variant={"outline"}>
+          <Link href={"/discounts"}>Discounts </Link>
+        </Button>
+        <Button onClick={exportData} className="" variant={"outline"}>
+          Export Data
+        </Button>
+      </div>
+      <div className="my-8"></div>
+      <StatsSection />
       <div className="my-8"></div>
 
-      <h4 className="text-xl font-medium">Orders</h4>
+      {/* <h4 className="text-xl font-medium">Orders</h4>
       <hr className="mt-2 mb-4" />
 
       <Table>
@@ -127,7 +117,7 @@ export default function Home() {
             );
           })}
         </TableBody>
-      </Table>
+      </Table> */}
     </main>
   );
 }
