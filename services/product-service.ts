@@ -81,11 +81,11 @@ class ProductService {
 
     // Combine that with any other search constraint
     let constraints: any = [
-      collection(db, "products"),
+      collection(db, "core"),
       // where('postType', '==', 'altfuel'),
       // where('visibility', '==', 'public'),
       ...searchConstraints,
-      limit(5),
+      limit(3),
     ];
 
     // console.log("constraints: ", constraints);
