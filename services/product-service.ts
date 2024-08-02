@@ -46,7 +46,7 @@ class ProductService {
 
   async update(id: string, data: any) {
     try {
-      await updateDoc(doc(db, `products/${id}`), {
+      await updateDoc(doc(db, `core/${id}`), {
         ...data,
         updatedAt: new Date().toISOString(),
       });
@@ -58,6 +58,7 @@ class ProductService {
   }
 
   async search(searchTerm: string) {
+    const searchLimit = 5;
     console.log("searchTerm: ", searchTerm);
 
     // First we build out all our search constraints
@@ -85,7 +86,7 @@ class ProductService {
       // where('postType', '==', 'altfuel'),
       // where('visibility', '==', 'public'),
       ...searchConstraints,
-      limit(3),
+      limit(searchLimit),
     ];
 
     // console.log("constraints: ", constraints);

@@ -4,6 +4,16 @@ export interface Variant {
   quantity: number;
 }
 
+export interface ICoreMedicine {
+  id: string;
+  name: string;
+  company: string;
+  mrp: number;
+  category: string;
+  packingType: string;
+  packSize: string;
+}
+
 export interface IMedicine {
   id: string;
   name: string;
@@ -19,6 +29,7 @@ export interface IMedicine {
   sideEffects: string;
   indication: string;
   category: string;
+  mrp: number;
   tabCount: number;
   images: string[]; // Array of image URLs
   prescriptionRequired: boolean;

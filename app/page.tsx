@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <main className="mx-4 my-6 md:mx-24 dark:bg-black">
       <div className="flex flex-wrap gap-2 items-center">
-        <Button
+        {/* <Button
           variant={"outline"}
           onClick={async () => {
             toast.promise(addTestDataToFirebase(), {
@@ -49,8 +49,11 @@ export default function Home() {
           }}
         >
           Add Test Data
-        </Button>
+        </Button> */}
 
+        <Button asChild className="" variant={"outline"}>
+          <Link href={"/search"}>Search </Link>
+        </Button>
         <Button asChild className="" variant={"outline"}>
           <Link href={"/products"}>All Products</Link>
         </Button>
