@@ -73,3 +73,41 @@ export const addPost = async () => {
   //   const postRef = doc(db, 'posts', id);
   //   await setDoc(postRef, payload);
 };
+
+export const addSearchTags = async (name: any) => {
+  const index = triGram([name || ""].join(" ").slice(0, 500));
+
+  const meta: any = {};
+
+  //   console.log("index: ", index.entries());
+
+  index.forEach((value, key) => {
+    meta[key] = value;
+  });
+
+  return meta;
+  // return data.map(async (item: any, i: number) => {
+  //   const index = triGram([item.name || ""].join(" ").slice(0, 500));
+
+  //   const meta: any = {};
+
+  //   //   console.log("index: ", index.entries());
+
+  //   index.forEach((value, key) => {
+  //     meta[key] = value;
+  //   });
+
+  //   //   const db = getFirestore();
+  //   //   const id = generateId();
+  //   const payload = {
+  //     ...item,
+  //     meta,
+  //   };
+
+  //   //   console.log("meta: ", meta);
+
+  //   // await setDoc(doc(db, "products", item.id), payload);
+
+  //   return payload;
+  // });
+};

@@ -14,6 +14,7 @@ import {
 import { ICoreMedicine, IMedicine } from "@/lib/types";
 import { useDebounce } from "@/lib/useDebounce";
 import productService from "@/services/product-service";
+import { addSearchTags } from "@/services/search";
 import { Loader2, XIcon } from "lucide-react";
 import React from "react";
 import { v4 } from "uuid";
@@ -41,18 +42,30 @@ export default function SearchPage() {
 
   return (
     <div className="mx-4 md:mx-24 my-6 ">
-      <UpdateMedicineDialog
-        isOpen={showDialog}
-        closeModal={handleCloseModal}
-        medicine={selectedMed}
-      />
-      <Input
-        name="search"
-        type="text"
-        placeholder="Search"
-        value={searchTerm}
-        onChange={handleSearchOnChange}
-      />
+      {showDialog && (
+        <UpdateMedicineDialog
+          isOpen={showDialog}
+          closeModal={handleCloseModal}
+          medicine={selectedMed}
+        />
+      )}
+
+      <div className="w-full flex gap-2 items-center">
+        <Input
+          name="search"
+          type="text"
+          placeholder="Search"
+          value={searchTerm}
+          onChange={handleSearchOnChange}
+        />
+        <Button
+          className=""
+          variant={"outline"}
+          onClick={() => setshowDialog(true)}
+        >
+          Add Product
+        </Button>
+      </div>
 
       <div className="my-8"></div>
       <Table>
@@ -113,13 +126,20 @@ const UpdateMedicineDialog = ({
     category: "",
     packingType: "",
     packSize: "",
+    meta: {},
   });
 
   const handleFormSubmit = async (e: any) => {
     e.preventDefault();
     setisLoading(true);
     if (medicine) await productService.update(medicine.id, form);
-    else await productService.add(medicine!.id, form);
+    else {
+      form.meta = [
+        ...(await addSearchTags(form.name)),
+        await addSearchTags(form.company),
+      ];
+      await productService.add(medicine!.id, form);
+    }
     setisLoading(false);
     closeModal();
   };
@@ -135,10 +155,9 @@ const UpdateMedicineDialog = ({
         category: "",
         packingType: "",
         packSize: "",
+        meta: {},
       });
   }, [medicine]);
-
-  if (!medicine) return <></>;
 
   return (
     <Modal isOpen={isOpen} closeModal={closeModal}>

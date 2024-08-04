@@ -31,7 +31,7 @@ class ProductService {
 
   async add(id: string, data: any) {
     try {
-      await setDoc(doc(db, `products/${id}`), {
+      await setDoc(doc(db, `core/${id}`), {
         id,
         ...data,
         createdAt: new Date().toISOString(),

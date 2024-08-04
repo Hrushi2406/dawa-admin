@@ -12,6 +12,7 @@ export interface ICoreMedicine {
   category: string;
   packingType: string;
   packSize: string;
+  meta: any;
 }
 
 export interface IMedicine {
