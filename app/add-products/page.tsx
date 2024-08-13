@@ -130,9 +130,9 @@ export default function AddProductPage() {
 
     setisLoading(true);
     if (productId) {
-      await productService.update(productId, form);
+      await productService.update(productId, form, false);
     } else {
-      await productService.add(id, form);
+      await productService.add(id, form, false);
     }
     setisLoading(false);
     router.back();

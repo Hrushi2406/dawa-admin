@@ -29,9 +29,9 @@ class ProductService {
     return snaps.docs.map((doc) => doc.data()) as IMedicine[];
   }
 
-  async add(id: string, data: any) {
+  async add(id: string, data: any, shouldAddInCore: boolean = true) {
     try {
-      await setDoc(doc(db, `core/${id}`), {
+      await setDoc(doc(db, `${shouldAddInCore ? "core" : "products"}/${id}`), {
         id,
         ...data,
         createdAt: new Date().toISOString(),
@@ -44,12 +44,15 @@ class ProductService {
     }
   }
 
-  async update(id: string, data: any) {
+  async update(id: string, data: any, shouldAddInCore: boolean = true) {
     try {
-      await updateDoc(doc(db, `core/${id}`), {
-        ...data,
-        updatedAt: new Date().toISOString(),
-      });
+      await updateDoc(
+        doc(db, `${shouldAddInCore ? "core" : "products"}/${id}`),
+        {
+          ...data,
+          updatedAt: new Date().toISOString(),
+        }
+      );
       toast.success("Updated product successfully");
     } catch (error) {
       console.log("error: ", error);
