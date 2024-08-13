@@ -40,7 +40,7 @@ const medicineCategories = [
   "oral",
 ];
 
-const type = ["medicine", "personal-care"];
+const type = ["medicine", "personal-care", "kits"];
 //   {
 //     name: "Combiflam Strip Of 20 Tablets",
 //     brand: "MACLEODS PHARMACEUTICALS",
