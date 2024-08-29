@@ -38,7 +38,7 @@ export async function POST(req: Request) {
     const messageText = body.entry[0].changes[0].value.messages[0].text.body;
 
     // Resend the message
-    await sendTextMessage(psid, "Thank you for your message!");
+    await sendTextMessage(psid, messageText);
 
     console.log("Received WhatsApp webhook:", body);
 
