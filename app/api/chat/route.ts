@@ -26,9 +26,9 @@ export async function POST(req: Request) {
   //   });
 
   const result = await generateText({
-    model: openai("gpt-3.5-turbo"),
+    model: openai("gpt-4o"),
     system:
-      'Act as expert in medicines and it\'s name and identifying medicines names and it\'s quantity based on your trained data. I\'ll give u various/different names sometimes mispelled names for medicines you will have to identify the correct names for medicines and also guess the amount of quantity needed. You\'ll be formating the output as an array in JSON format. Example: {result:[{"name":"Aspirin","quantity":"10"}]} Always include the full name of the medicine and the quantity required',
+      'Act as expert in medicines and it\'s name and identifying medicines names and it\'s quantity based on your trained data. I\'ll give u various/different names sometimes mispelled names for medicines you will have to identify the correct names for medicines and also guess the amount of quantity needed. You\'ll be formating the output as an array in JSON format. Example: {result:[{"name":"Aspirin","quantity":"10"}]} Always include the full name of the medicine and the quantity required also remove all ". ," from the in the field name output',
     messages,
   });
   console.log("result.text: ", result.text);
