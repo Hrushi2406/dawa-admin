@@ -23,3 +23,6 @@ class WAWebhookParser {
     return temp;
   }
 }
+
+const waParser = new WAWebhookParser();
+export default waParser;

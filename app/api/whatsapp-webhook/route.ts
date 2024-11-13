@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import axios from "axios";
 import { arrayUnion } from "firebase/firestore";
+import waParser from "@/lib/whatsapp/wa-webhook-parser";
 
 const PAGE_ACCESS_TOKEN =
   "EAAw17aZAAASkBO0llGDzfITdr1wV069BJ8Fh8hUZAUqtWGHG69cZBc4RZCNKKV6nwtlvcB6DzGx7wDQef7HxjfZARWBskZAZC4K8HDyqMEF0eBn9W8POstAZBUw4B8JCinjowA0NDZBRLAtPn9CcUmntGhVKUh9jwwC3szzp4nhI5R0YZAWEPtBFxA24gBDA6lxdiVzOrnqpKpoXdFZAiUqM3rIKNZC39Pal0DyOYRyB";
@@ -11,17 +12,15 @@ export async function POST(req: Request) {
   try {
     const body = await req.json();
 
-    const parser = new WAWebhookParser();
-
     const msgType = body.entry[0].changes[0].value.messages[0].type;
 
     const contactInfo = body.entry[0].changes[0].value.contacts[0];
     const message = body.entry[0].changes[0].value.messages[0];
     const metadata = body.entry[0].changes[0].value.metadata;
     if (msgType === "text") {
-      let msg = parser.parseTextMessage(body);
+      let msg = waParser.parseTextMessage(body);
     } else if (msgType === "image") {
-      let msg = parser.parseImageMessage(body);
+      let msg = waParser.parseImageMessage(body);
     }
 
     // Extract relevant information from the incoming message
