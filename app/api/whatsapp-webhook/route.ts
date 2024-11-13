@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import axios from "axios";
+import { arrayUnion } from "firebase/firestore";
 
 const PAGE_ACCESS_TOKEN =
   "EAAw17aZAAASkBO0llGDzfITdr1wV069BJ8Fh8hUZAUqtWGHG69cZBc4RZCNKKV6nwtlvcB6DzGx7wDQef7HxjfZARWBskZAZC4K8HDyqMEF0eBn9W8POstAZBUw4B8JCinjowA0NDZBRLAtPn9CcUmntGhVKUh9jwwC3szzp4nhI5R0YZAWEPtBFxA24gBDA6lxdiVzOrnqpKpoXdFZAiUqM3rIKNZC39Pal0DyOYRyB";
@@ -43,13 +44,11 @@ export async function POST(req: Request) {
           name: psid, // Using phone number as name for now
           lastMessage: messageText,
           timestamp: serverTimestamp(),
-          messages: [
-            {
-              content: messageText,
-              timestamp: new Date().toISOString(),
-              sender: "other",
-            },
-          ],
+          messages: arrayUnion({
+            content: messageText,
+            timestamp: new Date().toISOString(),
+            sender: "other",
+          }),
         },
         { merge: true }
       );
