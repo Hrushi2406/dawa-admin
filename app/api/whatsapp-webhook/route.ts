@@ -2,13 +2,26 @@ import { NextResponse } from "next/server";
 import axios from "axios";
 
 const PAGE_ACCESS_TOKEN =
-  "EAASlSFQSI7wBO4r2WuYx3ZCjH1O2aQtPrBZA0LI2WFd2ZBQU7z5hHkeFpthOhg3AWFBnJ7bd0M4LVOZA62xiq4jSReMLMy7NrL1s5kc7RZAzFqZAf1WvhLFiuMEfn1DdVTOiNArBxOaaJwVmQuwj05w1NHeGvD16MSJvCnluaKWTihwUiZB1qEFn36SGUZCWJONwvlIW6OSZBGh0d0jnnE6sZD";
+  "EAAw17aZAAASkBO0llGDzfITdr1wV069BJ8Fh8hUZAUqtWGHG69cZBc4RZCNKKV6nwtlvcB6DzGx7wDQef7HxjfZARWBskZAZC4K8HDyqMEF0eBn9W8POstAZBUw4B8JCinjowA0NDZBRLAtPn9CcUmntGhVKUh9jwwC3szzp4nhI5R0YZAWEPtBFxA24gBDA6lxdiVzOrnqpKpoXdFZAiUqM3rIKNZC39Pal0DyOYRyB";
 
 // Function to send a text message
 
 export async function POST(req: Request) {
   try {
     const body = await req.json();
+
+    const parser = new WAWebhookParser();
+
+    const msgType = body.entry[0].changes[0].value.messages[0].type;
+
+    const contactInfo = body.entry[0].changes[0].value.contacts[0];
+    const message = body.entry[0].changes[0].value.messages[0];
+    const metadata = body.entry[0].changes[0].value.metadata;
+    if (msgType === "text") {
+      let msg = parser.parseTextMessage(body);
+    } else if (msgType === "image") {
+      let msg = parser.parseImageMessage(body);
+    }
 
     // Extract relevant information from the incoming message
     const psid = body.entry[0].changes[0].value.messages[0].from;
@@ -24,6 +37,9 @@ export async function POST(req: Request) {
       await setDoc(
         doc(db, "whatsappSync", psid),
         {
+          contactInfo,
+          message,
+          metadata,
           name: psid, // Using phone number as name for now
           lastMessage: messageText,
           timestamp: serverTimestamp(),

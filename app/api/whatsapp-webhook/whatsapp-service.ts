@@ -1,12 +1,12 @@
 import axios from "axios";
 
 const PAGE_ACCESS_TOKEN =
-  "EAASlSFQSI7wBO4r2WuYx3ZCjH1O2aQtPrBZA0LI2WFd2ZBQU7z5hHkeFpthOhg3AWFBnJ7bd0M4LVOZA62xiq4jSReMLMy7NrL1s5kc7RZAzFqZAf1WvhLFiuMEfn1DdVTOiNArBxOaaJwVmQuwj05w1NHeGvD16MSJvCnluaKWTihwUiZB1qEFn36SGUZCWJONwvlIW6OSZBGh0d0jnnE6sZD";
+  "EAAw17aZAAASkBO0llGDzfITdr1wV069BJ8Fh8hUZAUqtWGHG69cZBc4RZCNKKV6nwtlvcB6DzGx7wDQef7HxjfZARWBskZAZC4K8HDyqMEF0eBn9W8POstAZBUw4B8JCinjowA0NDZBRLAtPn9CcUmntGhVKUh9jwwC3szzp4nhI5R0YZAWEPtBFxA24gBDA6lxdiVzOrnqpKpoXdFZAiUqM3rIKNZC39Pal0DyOYRyB";
 
-async function sendTextMessage(psid: string, messageText: string) {
+export async function sendWATextMessage(psid: string, messageText: string) {
   try {
     const response = await axios.post(
-      `https://graph.facebook.com/v20.0/440211032500301/messages`,
+      `https://graph.facebook.com/v20.0/523203650865446/messages`,
       {
         messaging_product: "whatsapp",
         recipient_type: "individual",

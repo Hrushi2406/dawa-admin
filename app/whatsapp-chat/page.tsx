@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Send } from "lucide-react";
 import { collection, onSnapshot, orderBy, query } from "firebase/firestore";
 import { db } from "@/lib/firebase";
+import { sendWATextMessage } from "../api/whatsapp-webhook/whatsapp-service";
 
 interface Chat {
   id: string;
@@ -13,6 +14,7 @@ interface Chat {
   lastMessage: string;
   timestamp: string;
   tags: string[];
+  messages: Message[];
 }
 
 interface Message {
@@ -47,11 +49,12 @@ export default function WhatsAppChat() {
           id: doc.id,
           name: data.name,
           lastMessage: data.lastMessage,
-          timestamp: data.timestamp,
+          timestamp: data.timestamp.toDate().toLocaleTimeString(),
           tags: data.tags || [],
+          messages: data.messages || [],
         });
       });
-      setChats(chatData);
+      setChats([...chatData]);
     });
 
     return () => unsubscribe();
@@ -74,6 +77,9 @@ export default function WhatsAppChat() {
       }),
       sender: "user",
     };
+    console.log("selectedChat?.name: ", selectedChat?.name);
+
+    sendWATextMessage(selectedChat?.name, newMessage);
 
     setMessages([...messages, newMsg]);
     setNewMessage("");
@@ -150,7 +156,7 @@ export default function WhatsAppChat() {
 
             {/* Messages Area */}
             <div className="flex-1 overflow-y-auto p-4 space-y-4 bg-[#e0e7d9] dark:bg-zinc-900">
-              {messages.map((message) => (
+              {selectedChat.messages.map((message) => (
                 <div
                   key={message.id}
                   className={`flex ${
