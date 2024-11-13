@@ -63,6 +63,10 @@ export default function Home() {
         <Button asChild className="" variant={"outline"}>
           <Link href={"/discounts"}>Discounts </Link>
         </Button>
+
+        <Button asChild className="" variant={"outline"}>
+          <Link href={"/whatsapp-chat"}>Whatsapp Chat </Link>
+        </Button>
         <Button onClick={exportData} className="" variant={"outline"}>
           Export Data
         </Button>

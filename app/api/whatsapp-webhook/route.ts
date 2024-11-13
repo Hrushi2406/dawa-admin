@@ -5,29 +5,6 @@ const PAGE_ACCESS_TOKEN =
   "EAASlSFQSI7wBO4r2WuYx3ZCjH1O2aQtPrBZA0LI2WFd2ZBQU7z5hHkeFpthOhg3AWFBnJ7bd0M4LVOZA62xiq4jSReMLMy7NrL1s5kc7RZAzFqZAf1WvhLFiuMEfn1DdVTOiNArBxOaaJwVmQuwj05w1NHeGvD16MSJvCnluaKWTihwUiZB1qEFn36SGUZCWJONwvlIW6OSZBGh0d0jnnE6sZD";
 
 // Function to send a text message
-async function sendTextMessage(psid: string, messageText: string) {
-  try {
-    const response = await axios.post(
-      `https://graph.facebook.com/v20.0/440211032500301/messages`,
-      {
-        messaging_product: "whatsapp",
-        recipient_type: "individual",
-        to: psid,
-        type: "text",
-        text: { body: messageText },
-      },
-      {
-        headers: {
-          Authorization: `Bearer ${PAGE_ACCESS_TOKEN}`,
-          "Content-Type": "application/json",
-        },
-      }
-    );
-    console.log(`Message sent with ID: ${response.data.messages[0].id}`);
-  } catch (error) {
-    console.error("Error sending message:", error);
-  }
-}
 
 export async function POST(req: Request) {
   try {
@@ -38,7 +15,33 @@ export async function POST(req: Request) {
     const messageText = body.entry[0].changes[0].value.messages[0].text.body;
 
     // Resend the message
-    await sendTextMessage(psid, messageText);
+    // await sendTextMessage(psid, messageText);
+    // Save message to whatsappSync collection
+    const { setDoc, doc, serverTimestamp } = await import("firebase/firestore");
+    const { db } = await import("@/lib/firebase");
+
+    try {
+      await setDoc(
+        doc(db, "whatsappSync", psid),
+        {
+          name: psid, // Using phone number as name for now
+          lastMessage: messageText,
+          timestamp: serverTimestamp(),
+          messages: [
+            {
+              content: messageText,
+              timestamp: new Date().toISOString(),
+              sender: "other",
+            },
+          ],
+        },
+        { merge: true }
+      );
+
+      console.log("Message saved to whatsappSync collection");
+    } catch (error) {
+      console.error("Error saving message to Firestore:", error);
+    }
 
     console.log("Received WhatsApp webhook:", body);
 
