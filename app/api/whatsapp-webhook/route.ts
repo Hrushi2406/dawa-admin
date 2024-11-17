@@ -1,10 +1,9 @@
 import { NextResponse } from "next/server";
 import axios from "axios";
 import { arrayUnion } from "firebase/firestore";
-import waParser from "@/lib/whatsapp/wa-webhook-parser";
-
-const PAGE_ACCESS_TOKEN =
-  "EAASlSFQSI7wBO1UWCuxofC1RNl2F7q4cEZBIaOIXXeACCBvFvmBWG8Jg2Ip4ZBekOrs2jY3RzNmOMG6bNz5ql4Ti4GmtjZBl27wiqhiPAW6MLLaGvh7nCC0oF4w1NVDoGJl82o24TeF5TuJ3iCU8eKhKQpUIKvqoHzuati4suuPIQVA4eG3qWHeZCJAyGDSzwz9ZCiALf1H9rA3uTAdxujw9Loxa7erFW0OnxH7jEguMZD";
+import waParser, { IParsedResult } from "@/lib/whatsapp/wa-webhook-parser";
+import { PAGE_ACCESS_TOKEN } from "@/app/constants";
+import wasync from "@/lib/whatsapp/wa-sync-service";
 
 // Function to send a text message
 
@@ -14,50 +13,17 @@ export async function POST(req: Request) {
 
     const msgType = body.entry[0].changes[0].value.messages[0].type;
 
-    const contactInfo = body.entry[0].changes[0].value.contacts[0];
-    const message = body.entry[0].changes[0].value.messages[0];
-    const metadata = body.entry[0].changes[0].value.metadata;
+    let parsed: IParsedResult | null = null;
+
     if (msgType === "text") {
-      let msg = waParser.parseTextMessage(body);
+      parsed = waParser.parseTextMessage(body);
     } else if (msgType === "image") {
-      let msg = waParser.parseImageMessage(body);
+      parsed = waParser.parseImageMessage(body);
     }
 
-    // Extract relevant information from the incoming message
-    const psid = body.entry[0].changes[0].value.messages[0].from;
-    const messageText = body.entry[0].changes[0].value.messages[0].text.body;
+    if (!parsed) return;
 
-    // Resend the message
-    // await sendTextMessage(psid, messageText);
-    // Save message to whatsappSync collection
-    const { setDoc, doc, serverTimestamp } = await import("firebase/firestore");
-    const { db } = await import("@/lib/firebase");
-
-    try {
-      await setDoc(
-        doc(db, "whatsappSync", psid),
-        {
-          contactInfo,
-          message,
-          metadata,
-          name: psid, // Using phone number as name for now
-          lastMessage: messageText,
-          timestamp: serverTimestamp(),
-          messages: arrayUnion({
-            content: messageText,
-            timestamp: new Date().toISOString(),
-            sender: "other",
-          }),
-        },
-        { merge: true }
-      );
-
-      console.log("Message saved to whatsappSync collection");
-    } catch (error) {
-      console.error("Error saving message to Firestore:", error);
-    }
-
-    console.log("Received WhatsApp webhook:", body);
+    await wasync.sync(parsed.contact, parsed.msg);
 
     return NextResponse.json(
       { message: "Webhook received and message resent successfully" },
