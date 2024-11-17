@@ -21,6 +21,18 @@ class WASyncService {
     });
   }
 
+  async sync(contact: any, msg: any) {
+    await setDoc(
+      doc(this.col, contact.id),
+      {
+        ...contact,
+        messages: arrayUnion(msg),
+        updateAt: serverTimestamp(),
+      },
+      { merge: true }
+    );
+  }
+
   async getMsgs(phone: string) {
     const docRef = doc(this.col, phone);
     const docSnap = await getDoc(docRef);
