@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+export const maxDuration = 30;
 import axios from "axios";
 import { arrayUnion } from "firebase/firestore";
 import waParser, { IParsedResult } from "@/lib/whatsapp/wa-webhook-parser";
@@ -20,6 +21,8 @@ export async function POST(req: Request) {
     } else if (msgType === "image") {
       parsed = await waParser.parseImageMessage(body);
     }
+
+    console.log("parsed: ", parsed);
 
     if (!parsed) return;
 
