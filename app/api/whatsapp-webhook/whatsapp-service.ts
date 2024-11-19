@@ -47,32 +47,49 @@ export async function retrieveWAMedia(mediaId: string) {
       throw new Error("Media URL not found in response");
     }
 
-    // Download the media from the URL
-    const mediaUrl = mediaResponse.data.url;
-    const mediaDownload = await axios.get(mediaUrl, {
-      headers: {
-        Authorization: `Bearer ${PAGE_ACCESS_TOKEN}`,
-      },
-      responseType: "arraybuffer",
-    });
+    try {
+      // Download the media from the URL
+      const mediaUrl = mediaResponse.data.url;
 
-    // Upload to Firebase Storage
-    const storageRef = ref(storage, `whatsapp-media/${mediaId}`);
-    const metadata = {
-      contentType: mediaResponse.data.mime_type,
-    };
+      const mediaDownload = await axios.get(mediaUrl, {
+        headers: {
+          Authorization: `Bearer ${PAGE_ACCESS_TOKEN}`,
+        },
+        responseType: "arraybuffer",
+      });
 
-    await uploadBytes(storageRef, mediaDownload.data, metadata);
-    const downloadUrl = await getDownloadURL(storageRef);
+      console.log("mediaDownload: ", mediaDownload.data);
 
-    return {
-      // data: mediaDownload.data,
-      mimeType: mediaResponse.data.mime_type,
-      fileName: mediaResponse.data.id,
-      downloadUrl: downloadUrl,
-    };
+      // Upload to Firebase Storage
+      const storageRef = ref(storage, `whatsapp-media/${mediaId}`);
+      const metadata = {
+        contentType: mediaResponse.data.mime_type,
+      };
+
+      await uploadBytes(storageRef, mediaDownload.data, metadata);
+      const downloadUrl = await getDownloadURL(storageRef);
+
+      return {
+        // data: mediaDownload.data,
+        mimeType: mediaResponse.data.mime_type,
+        fileName: mediaResponse.data.id,
+        downloadUrl: downloadUrl,
+      };
+    } catch (error) {
+      console.error("Error uploading media to Firebase Storage:", error);
+      return {
+        mimeType: null,
+        fileName: mediaId,
+        downloadUrl: null,
+      };
+    }
   } catch (error) {
     console.error("Error retrieving WhatsApp media:", error);
-    throw error;
+
+    return {
+      mimeType: null,
+      fileName: mediaId,
+      downloadUrl: null,
+    };
   }
 }
