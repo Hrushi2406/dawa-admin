@@ -69,6 +69,8 @@ export async function retrieveWAMedia(mediaId: string) {
       await uploadBytes(storageRef, mediaDownload.data, metadata);
       const downloadUrl = await getDownloadURL(storageRef);
 
+      console.log("downloadUrl: ", downloadUrl);
+
       return {
         // data: mediaDownload.data,
         mimeType: mediaResponse.data.mime_type,
