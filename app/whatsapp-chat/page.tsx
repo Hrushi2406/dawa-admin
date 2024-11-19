@@ -3,25 +3,50 @@
 import React from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Send } from "lucide-react";
-import { collection, onSnapshot, orderBy, query } from "firebase/firestore";
+import { Send, TypeIcon } from "lucide-react";
+import dayjs from "dayjs";
+import {
+  collection,
+  getDocs,
+  onSnapshot,
+  orderBy,
+  query,
+} from "firebase/firestore";
 import { db } from "@/lib/firebase";
-import { sendWATextMessage } from "../api/whatsapp-webhook/whatsapp-service";
+import {
+  retrieveWAMedia,
+  sendWATextMessage,
+} from "../api/whatsapp-webhook/whatsapp-service";
+import wasync from "@/lib/whatsapp/wa-sync-service";
+import { toast } from "sonner";
 
 interface Chat {
   id: string;
-  name: string;
-  lastMessage: string;
-  timestamp: string;
+  cname: string;
+  cphone: string;
   tags: string[];
   messages: Message[];
 }
 
 interface Message {
   id: string;
-  content: string;
+  from: string;
   timestamp: string;
-  sender: "user" | "other";
+  type: "text" | "reaction" | "image";
+  text?: {
+    body: string;
+  };
+  reaction?: {
+    messageId: string;
+    emoji: string;
+  };
+  image?: {
+    caption?: string;
+    mimeType: string;
+    sha256: string;
+    id: string;
+    url?: string;
+  };
 }
 
 export default function WhatsAppChat() {
@@ -37,52 +62,71 @@ export default function WhatsAppChat() {
 
   React.useEffect(() => {
     // Subscribe to chats collection
-    const q = query(
-      collection(db, "whatsappSync"),
-      orderBy("timestamp", "desc")
-    );
+    const q = query(collection(db, "wasync"));
+
     const unsubscribe = onSnapshot(q, (snapshot) => {
-      const chatData: Chat[] = [];
+      const prevs: Chat[] = chats;
+      const updates: Chat[] = [];
+
       snapshot.forEach((doc) => {
-        const data = doc.data();
-        chatData.push({
-          id: doc.id,
-          name: data.name,
-          lastMessage: data.lastMessage,
-          timestamp: data.timestamp.toDate().toLocaleTimeString(),
-          tags: data.tags || [],
-          messages: data.messages || [],
-        });
+        const data = doc.data() as Chat;
+        updates.push(data);
       });
-      setChats([...chatData]);
+
+      setChats([...prevs, ...updates]);
     });
 
     return () => unsubscribe();
   }, []);
 
   React.useEffect(() => {
-    scrollToBottom();
-  }, [messages]);
+    handleUpdates(chats);
+  }, [chats]);
 
-  const handleSendMessage = (e: React.FormEvent) => {
+  const handleUpdates = (updates: Chat[]) => {
+    if (selectedChat) {
+      const newSelectedChat = updates.find(
+        (chat) => chat.id === selectedChat.id
+      );
+
+      if (newSelectedChat) {
+        console.log("updatedSelectedChat: ");
+        setSelectedChat(newSelectedChat);
+      }
+    }
+  };
+
+  React.useEffect(() => {
+    scrollToBottom();
+  }, [selectedChat?.messages]);
+
+  const handleSendMessage = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!newMessage.trim() || !selectedChat) return;
 
     const newMsg: Message = {
       id: Date.now().toString(),
-      content: newMessage,
-      timestamp: new Date().toLocaleTimeString([], {
-        hour: "2-digit",
-        minute: "2-digit",
-      }),
-      sender: "user",
+      from: "user",
+      timestamp: dayjs().unix().toString(),
+      type: "text",
+      text: {
+        body: newMessage,
+      },
     };
-    console.log("selectedChat?.name: ", selectedChat?.name);
+    try {
+      await sendWATextMessage(selectedChat?.cphone, newMessage);
+      setMessages([...messages, newMsg]);
+      setNewMessage("");
+      wasync.saveMsg(selectedChat?.cphone, newMsg);
+    } catch (error) {
+      console.error("Error sending message:", error);
+      toast.error(`Error sending message: ${error}`);
+    }
+  };
 
-    sendWATextMessage(selectedChat?.name, newMessage);
-
-    setMessages([...messages, newMsg]);
-    setNewMessage("");
+  const parseTimestamp = (timestamp: string) => {
+    let parsedDate = dayjs.unix(parseInt(timestamp));
+    return parsedDate.format("h:mm A");
   };
 
   return (
@@ -106,24 +150,26 @@ export default function WhatsAppChat() {
               <div className="flex flex-col gap-2">
                 <div className="flex justify-between items-center">
                   <h3 className="font-semibold dark:text-gray-100">
-                    {chat.name}
+                    {chat.cname}
                   </h3>
                   <span className="text-sm text-gray-500 dark:text-gray-400">
-                    {chat.timestamp}
+                    {chat.cphone}
                   </span>
                 </div>
                 <p className="text-sm text-gray-600 dark:text-gray-400 truncate">
-                  {chat.lastMessage}
+                  {chat.messages[chat.messages.length - 1].text?.body ?? ""}
                 </p>
                 <div className="flex flex-wrap gap-2">
-                  {chat.tags.map((tag, index) => (
-                    <span
-                      key={index}
-                      className="px-2 py-1 text-xs rounded-full bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-100"
-                    >
-                      {tag}
-                    </span>
-                  ))}
+                  {/* {chat.messages[chat.messages.length - 1].tags.map(
+                    (tag, index) => (
+                      <span
+                        key={index}
+                        className="px-2 py-1 text-xs rounded-full bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-100"
+                      >
+                        {tag}
+                      </span>
+                    )
+                  )} */}
                 </div>
               </div>
             </div>
@@ -139,17 +185,19 @@ export default function WhatsAppChat() {
             <div className="p-4 bg-white dark:bg-zinc-800 border-b dark:border-zinc-700">
               <div className="flex flex-col gap-2">
                 <h2 className="font-semibold dark:text-gray-100">
-                  {selectedChat.name}
+                  {selectedChat.cname}
                 </h2>
                 <div className="flex flex-wrap gap-2">
-                  {selectedChat.tags.map((tag, index) => (
+                  {/* {selectedChat.messages[
+                    selectedChat.messages.length - 1
+                  ].tags.map((tag, index) => (
                     <span
                       key={index}
                       className="px-2 py-1 text-xs rounded-full bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-100"
                     >
                       {tag}
                     </span>
-                  ))}
+                  ))} */}
                 </div>
               </div>
             </div>
@@ -160,22 +208,44 @@ export default function WhatsAppChat() {
                 <div
                   key={message.id}
                   className={`flex ${
-                    message.sender === "user" ? "justify-end" : "justify-start"
+                    message.from === "user" ? "justify-end" : "justify-start"
                   }`}
                 >
                   <div
-                    className={`max-w-[70%] p-3 rounded-lg ${
-                      message.sender === "user"
-                        ? "bg-[#dcf8c6] dark:bg-green-900 text-[#303030] dark:text-white"
-                        : "bg-white dark:bg-zinc-800 text-[#303030] dark:text-white"
+                    className={`max-w-[70%] p-3 rounded-b-xl ${
+                      message.from === "user"
+                        ? "bg-[#dcf8c6] dark:bg-green-900 text-[#303030] dark:text-white 	rounded-tl-xl  "
+                        : "bg-white dark:bg-zinc-800 text-[#303030] dark:text-white rounded-tr-xl"
                     }`}
                   >
-                    <p className="whitespace-pre-wrap break-words">
-                      {message.content}
-                    </p>
-                    <p className="text-[11px] mt-1 text-[#667781] dark:text-zinc-300 text-right">
-                      {message.timestamp}
-                    </p>
+                    {message.type === "text" && message.text && (
+                      <p className="whitespace-pre-wrap break-words">
+                        {message.text.body}
+                        <span className="text-xs mt-1 text-[#667781] dark:text-zinc-300 text-right pt-4 pl-4">
+                          {parseTimestamp(message.timestamp)}
+                        </span>
+                      </p>
+                    )}
+                    {message.type === "reaction" && message.reaction && (
+                      <p className="text-2xl">{message.reaction.emoji}</p>
+                    )}
+                    {message.type === "image" && message.image && (
+                      <RenderImage
+                        url={message.image.url ?? ""}
+                        phone={selectedChat.cphone}
+                        mediaId={message.image.id}
+                      />
+                      // <div>
+                      //   <img
+                      //     src={message.image.url}
+                      //     alt={message.image.caption || "Image"}
+                      //     className="max-w-full rounded"
+                      //   />
+                      //   {message.image.caption && (
+                      //     <p className="mt-2">{message.image.caption}</p>
+                      //   )}
+                      // </div>
+                    )}
                   </div>
                 </div>
               ))}
@@ -210,3 +280,23 @@ export default function WhatsAppChat() {
     </div>
   );
 }
+
+const RenderImage = ({
+  phone,
+  url,
+  mediaId,
+}: {
+  phone: string;
+  mediaId: string;
+  url: string;
+}) => {
+  // const [url, setUrl] = React.useState("");
+
+  React.useEffect(() => {
+    // retrieveWAMedia(mediaId).then((res) => {
+    //   setUrl(URL.createObjectURL(new Blob([res.data], { type: res.mimeType })));
+    // });
+  }, [mediaId]);
+
+  return <img src={url} alt="Image" />;
+};

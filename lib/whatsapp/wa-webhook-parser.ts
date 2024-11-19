@@ -1,3 +1,5 @@
+import { retrieveWAMedia } from "@/app/api/whatsapp-webhook/whatsapp-service";
+
 class WAWebhookParser {
   parseTextMessage(body: any): IParsedResult {
     const msg = body.entry[0].changes[0].value.messages[0];
@@ -15,7 +17,7 @@ class WAWebhookParser {
     };
   }
 
-  parseImageMessage(body: any): IParsedResult {
+  async parseImageMessage(body: any): Promise<IParsedResult> {
     const msg = body.entry[0].changes[0].value.messages[0];
     const waContact = body.entry[0].changes[0].value.contacts[0];
 
@@ -24,6 +26,12 @@ class WAWebhookParser {
       cname: waContact.profile.name,
       cphone: waContact.wa_id,
     };
+
+    const mediaId = msg.image.id;
+
+    const media = await retrieveWAMedia(mediaId);
+
+    msg.image.url = media.downloadUrl;
 
     return {
       contact,

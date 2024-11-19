@@ -16,7 +16,7 @@ class WASyncService {
     const docRef = doc(this.col, phone);
 
     await updateDoc(docRef, {
-      updateAt: serverTimestamp(),
+      updatedAt: serverTimestamp(),
       messages: arrayUnion(msg),
     });
   }
@@ -27,7 +27,7 @@ class WASyncService {
       {
         ...contact,
         messages: arrayUnion(msg),
-        updateAt: serverTimestamp(),
+        updatedAt: serverTimestamp(),
       },
       { merge: true }
     );

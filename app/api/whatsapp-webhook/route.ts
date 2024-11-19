@@ -18,7 +18,7 @@ export async function POST(req: Request) {
     if (msgType === "text") {
       parsed = waParser.parseTextMessage(body);
     } else if (msgType === "image") {
-      parsed = waParser.parseImageMessage(body);
+      parsed = await waParser.parseImageMessage(body);
     }
 
     if (!parsed) return;
