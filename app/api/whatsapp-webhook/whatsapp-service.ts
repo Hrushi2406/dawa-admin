@@ -32,7 +32,7 @@ export async function retrieveWAMedia(mediaId: string) {
   try {
     // First get the media URL
     const mediaResponse = await axios.get(
-      `https://graph.facebook.com/v20.0/${mediaId}`,
+      `https://graph.facebook.com/v21.0/${mediaId}`,
       {
         headers: {
           Authorization: `Bearer ${PAGE_ACCESS_TOKEN}`,
