@@ -11,7 +11,6 @@ import {
   setDoc,
   deleteDoc,
 } from "firebase/firestore";
-import { v4 as uuidv4 } from "uuid";
 import {
   Dialog,
   DialogContent,
@@ -32,6 +31,7 @@ interface Medical {
   locality: string;
   state: string;
   email: string;
+  phone: string;
   createdAt: any;
   updatedAt: any;
 }
@@ -41,6 +41,7 @@ interface FormFields {
   locality: string;
   state: string;
   email: string;
+  phone: string;
   password?: string;
 }
 
@@ -83,6 +84,7 @@ export default function AddMedicals() {
     locality: "",
     state: "",
     email: "",
+    phone: "",
     password: "",
   });
 
@@ -126,16 +128,15 @@ export default function AddMedicals() {
       } else {
         // Create auth user first
         const auth = getAuth();
-        await createUserWithEmailAndPassword(
+        const userCredential = await createUserWithEmailAndPassword(
           auth,
           formData.email,
           formData.password || ""
         );
 
-        const docId = uuidv4();
         const { password, ...dataWithoutPassword } = formData;
-        await setDoc(doc(db, "medicals", docId), {
-          id: docId,
+        await setDoc(doc(db, "medicals", userCredential.user.uid), {
+          id: userCredential.user.uid,
           ...dataWithoutPassword,
           createdAt: serverTimestamp(),
           updatedAt: serverTimestamp(),
@@ -148,6 +149,7 @@ export default function AddMedicals() {
         locality: "",
         state: "",
         email: "",
+        phone: "",
         password: "",
       });
       setIsEditing(false);
@@ -168,6 +170,7 @@ export default function AddMedicals() {
       locality: medical.locality,
       state: medical.state,
       email: medical.email,
+      phone: medical.phone,
     });
     setIsEditing(true);
     setIsOpen(true);
@@ -219,6 +222,13 @@ export default function AddMedicals() {
                 value={formData.state}
                 onChange={handleInputChange}
               />
+              <FormField
+                label="Phone"
+                name="phone"
+                type="tel"
+                value={formData.phone}
+                onChange={handleInputChange}
+              />
               {!isEditing && (
                 <FormField
                   label="Email"
@@ -258,9 +268,14 @@ export default function AddMedicals() {
                 {medical.locality}, {medical.state}{" "}
               </p>
             </div>
-            <p className="font-normal text-base dark:text-gray-300 text-left">
-              {medical.email}
-            </p>
+            <div className="flex flex-col">
+              <p className="font-normal text-base dark:text-gray-300 text-left">
+                {medical.email}
+              </p>
+              <p className="font-normal text-base dark:text-gray-300 text-left">
+                {medical.phone}
+              </p>
+            </div>
             <div className="flex gap-2">
               <Button onClick={() => handleEdit(medical)} variant="outline">
                 Edit
