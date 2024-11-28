@@ -1,4 +1,4 @@
-import { retrieveWAMedia } from "@/app/api/whatsapp-webhook/whatsapp-service";
+import waService from "@/lib/whatsapp/wa-service";
 
 class WAWebhookParser {
   parseTextMessage(body: any): IParsedResult {
@@ -29,7 +29,7 @@ class WAWebhookParser {
 
     const mediaId = msg.image.id;
 
-    const media = await retrieveWAMedia(mediaId);
+    const media = await waService.retrieveWAMedia(mediaId);
 
     msg.image.url = media.downloadUrl;
 

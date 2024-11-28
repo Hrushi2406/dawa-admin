@@ -3,7 +3,7 @@
 import React from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Send, TypeIcon } from "lucide-react";
+import { Send, TypeIcon, Image as ImageIcon } from "lucide-react";
 import dayjs from "dayjs";
 import {
   collection,
@@ -13,12 +13,11 @@ import {
   query,
 } from "firebase/firestore";
 import { db } from "@/lib/firebase";
-import {
-  retrieveWAMedia,
-  sendWATextMessage,
-} from "../api/whatsapp-webhook/whatsapp-service";
+import waService from "@/lib/whatsapp/wa-service";
 import wasync from "@/lib/whatsapp/wa-sync-service";
 import { toast } from "sonner";
+import { storage } from "@/lib/firebase";
+import { getDownloadURL, ref, uploadBytes } from "firebase/storage";
 
 interface Chat {
   id: string;
@@ -54,6 +53,7 @@ export default function WhatsAppChat() {
   const [selectedChat, setSelectedChat] = React.useState<Chat | null>(null);
   const [messages, setMessages] = React.useState<Message[]>([]);
   const [newMessage, setNewMessage] = React.useState("");
+  const [imageUpload, setImageUpload] = React.useState<File | null>(null);
   const messagesEndRef = React.useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
@@ -62,7 +62,7 @@ export default function WhatsAppChat() {
 
   React.useEffect(() => {
     // Subscribe to chats collection
-    const q = query(collection(db, "wasync"));
+    const q = query(collection(db, "wasync"), orderBy("updatedAt", "desc"));
 
     const unsubscribe = onSnapshot(q, (snapshot) => {
       const prevs: Chat[] = chats;
@@ -114,13 +114,55 @@ export default function WhatsAppChat() {
       },
     };
     try {
-      await sendWATextMessage(selectedChat?.cphone, newMessage);
+      await waService.sendWATextMessage(selectedChat?.cphone, newMessage);
       setMessages([...messages, newMsg]);
       setNewMessage("");
       wasync.saveMsg(selectedChat?.cphone, newMsg);
     } catch (error) {
       console.error("Error sending message:", error);
       toast.error(`Error sending message: ${error}`);
+    }
+  };
+
+  const handleImageUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file || !selectedChat) return;
+
+    try {
+      // Upload to Firebase Storage
+      const storageRef = ref(
+        storage,
+        `whatsapp-uploads/${Date.now()}_${file.name}`
+      );
+      await uploadBytes(storageRef, file);
+      const downloadUrl = await getDownloadURL(storageRef);
+
+      // Send the image via WhatsApp
+      await waService.sendWAMediaMessage(selectedChat.cphone, downloadUrl);
+
+      // Create message object
+      const newMsg: Message = {
+        id: Date.now().toString(),
+        from: "user",
+        timestamp: dayjs().unix().toString(),
+        type: "image",
+        image: {
+          id: Date.now().toString(),
+          mimeType: file.type,
+          sha256: "",
+          url: downloadUrl,
+        },
+      };
+
+      setMessages([...messages, newMsg]);
+      wasync.saveMsg(selectedChat.cphone, newMsg);
+
+      // Clear the file input
+      setImageUpload(null);
+      if (e.target) e.target.value = "";
+    } catch (error) {
+      console.error("Error uploading image:", error);
+      toast.error("Error sending image");
     }
   };
 
@@ -263,6 +305,21 @@ export default function WhatsAppChat() {
                 placeholder="Type a message..."
                 className="flex-1 dark:bg-zinc-700 dark:text-white dark:placeholder-gray-400"
               />
+              <input
+                type="file"
+                accept="image/*"
+                onChange={handleImageUpload}
+                className="hidden"
+                id="image-upload"
+              />
+              <Button
+                type="button"
+                variant="ghost"
+                onClick={() => document.getElementById("image-upload")?.click()}
+                className="dark:hover:bg-zinc-700"
+              >
+                <ImageIcon className="w-4 h-4" />
+              </Button>
               <Button
                 type="submit"
                 className="dark:bg-green-600 dark:hover:bg-green-700"
