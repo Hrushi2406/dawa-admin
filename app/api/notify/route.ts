@@ -71,6 +71,7 @@ export async function POST(request: Request) {
         { status: 200 }
       );
     } else {
+      console.log("result: ", result);
       return NextResponse.json(
         { error: "Failed to send notification", details: result },
         { status: 500 }
