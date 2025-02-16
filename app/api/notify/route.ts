@@ -30,10 +30,8 @@ export async function POST(request: Request) {
         .filter((token) => token !== undefined);
 
       to = dawaTokens;
-    } else if (to === "mythri") {
-      const mythri = await getDoc(
-        doc(db, "p-stores/mythrimedicals2024@gmail.com")
-      );
+    } else if (to.includes("@") && to.includes(".")) {
+      const mythri = await getDoc(doc(db, "p-stores/" + to));
       const mythriData = mythri.data();
       const mythriTokens = mythriData?.pushTokens;
       to = mythriTokens;
